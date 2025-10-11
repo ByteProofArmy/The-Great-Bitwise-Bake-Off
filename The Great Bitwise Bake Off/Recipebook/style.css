@@ -1,0 +1,216 @@
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Outfit:wght@100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Young+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Outfit:wght@100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Young+Serif&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --Nutmeg: hsl(14, 45%, 36%);
+    --Dark-Raspberry: hsl(332, 51%, 32%);
+    --White: hsl(0, 0%, 100%);
+    --Rose-White: hsl(330, 100%, 98%);
+    --Eggshell: hsl(30, 54%, 90%);
+    --Light-Grey: hsl(30, 18%, 87%);
+    --Wenge-Brown: hsl(30, 10%, 34%);
+    --Dark-Charcoal: hsl(24, 5%, 18%);
+}
+
+h1, h2 {
+    font-family: "Young Serif", serif;
+}
+
+h1 {
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+h2 {
+    font-weight: 600;
+    color: var(--Nutmeg);
+}
+
+p {
+    color: var(--Wenge-Brown);
+    font-size: 0.85rem;
+}
+
+ul {
+    line-height: 1.8rem;
+}
+
+li {
+    color: var(--Wenge-Brown);
+    font-size: 0.8rem;
+}
+
+strong {
+    font-weight: 600;
+}
+
+hr {
+    border: none;
+    height: 1px;
+    background-color: var(--Light-Grey);
+    margin-top: 20px;
+}
+
+tr {
+    border-bottom: 1px solid var(--Light-Grey);
+}
+
+tr:last-of-type {
+    border-bottom: none;
+}
+
+/* Utility Classes */
+
+.list {
+    margin: 10px 18px 0;
+}
+
+ul li::marker, ol li::marker {
+    color: var(--Nutmeg);
+}
+
+.list-item {
+    margin-left: 18px;
+}
+
+/* Styling */
+
+body {
+    background-color: var(--Eggshell);
+    font-family: "Outfit", sans-serif;
+}
+
+main {
+    background-color: white;
+    margin: 80px auto;
+    padding: 30px;
+    max-width: 620px;
+    border-radius: 20px;
+}
+
+/* Card Image section */
+
+.card-img-section {
+    display: flex;
+    justify-content: center;
+}
+
+.card-img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+
+/* Card Text section */
+
+.card-text-section {
+    margin-top: 30px;
+}
+
+.heading {
+    color: var(--Dark-Charcoal);
+}
+
+.paragraph {
+    color: var(--Wenge-Brown);
+    margin-top: 20px;
+}
+
+
+/* Preperation time section */
+
+.preperation-section {
+    margin-top: 20px;
+    padding: 20px 30px;
+    background-color: var(--Rose-White);
+    border-radius: 10px;
+}
+
+.preperation-section h3 {
+    color: var(--Dark-Raspberry);
+}
+
+
+/* Ingredients section */
+
+.ingredients-section {
+    margin-top: 20px;
+}
+
+
+/* Instructions section */
+
+.instructions-section {
+    margin: 20px auto 30px;
+}
+
+.instruction-list-item {
+    margin: 15px auto;
+}
+
+
+/* Nutrition section */
+
+.nutrition-section {
+    margin-top: 20px;
+}
+
+.nutrition-text {
+    margin-top: 20px;
+}
+
+.nutrition-table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.nutrition-table td {
+    padding: 10px 20px;
+}
+
+td:nth-child(2){
+    color: var(--Nutmeg);
+    font-weight: 600;
+
+}
+
+
+@media screen and (max-width: 375px) {
+    h1 {
+        font-size: 1.5rem;
+    }
+    h2 {
+        font-size: 1.25rem;
+    }
+    h3 {
+        font-size: 1rem;
+    }
+    p {
+        font-size: 0.75rem;
+    }
+    ul {
+        line-height: 1.3rem;
+    }
+    main {
+        width: 85%;
+        padding: 20px;
+        margin: 50px auto;
+    }
+    td:nth-child(2){
+        font-size: 0.75rem;
+    }
+}
+
+@media screen and (max-width: 640px){
+    main {
+        width: 85%;
+    }
+}

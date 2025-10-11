@@ -1,0 +1,1820 @@
+[
+  {
+    "name": "recipe 241",
+    "ingredients": [
+      {
+        "amount": 377,
+        "unit": "g",
+        "ingredient": "sweetened, shredded coconut (about 6 1/2 cups)",
+        "weight": 377.68595041322317
+      },
+      {
+        "amount": 14,
+        "unit": "g",
+        "ingredient": "egg",
+        "weight": 14.049586776859504
+      },
+      {
+        "amount": 32,
+        "unit": "g",
+        "ingredient": "unsalted butter, room temperature",
+        "weight": 32.231404958677686
+      },
+      {
+        "amount": 67,
+        "unit": "g",
+        "ingredient": "plain flour",
+        "weight": 67.76859504132231
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "fine sea salt",
+        "weight": 1.6528925619834711
+      },
+      {
+        "amount": 118,
+        "unit": "g",
+        "ingredient": "all-purpose flour, plus more for rolling",
+        "weight": 118.18181818181819
+      },
+      {
+        "amount": 3,
+        "unit": "g",
+        "ingredient": "baking soda",
+        "weight": 3.3057851239669422
+      },
+      {
+        "amount": 173,
+        "unit": "g",
+        "ingredient": "rolled oats",
+        "weight": 173.55371900826447
+      },
+      {
+        "amount": 211,
+        "unit": "g",
+        "ingredient": "chocolate chips",
+        "weight": 211.5702479338843
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 287",
+    "ingredients": [
+      {
+        "amount": 29,
+        "unit": "g",
+        "ingredient": "egg",
+        "weight": 29.173419773095624
+      },
+      {
+        "amount": 72,
+        "unit": "g",
+        "ingredient": "unsalted butter, melted and slightly cooled",
+        "weight": 72.93354943273906
+      },
+      {
+        "amount": 153,
+        "unit": "g",
+        "ingredient": "plain flour",
+        "weight": 153.97082658022688
+      },
+      {
+        "amount": 53,
+        "unit": "g",
+        "ingredient": "cocoa powder",
+        "weight": 53.484602917341974
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "fine sea salt",
+        "weight": 1.6207455429497568
+      },
+      {
+        "amount": 160,
+        "unit": "g",
+        "ingredient": "all-purpose flour, plus more for rolling",
+        "weight": 160.45380875202594
+      },
+      {
+        "amount": 3,
+        "unit": "g",
+        "ingredient": "baking soda",
+        "weight": 3.2414910858995136
+      },
+      {
+        "amount": 236,
+        "unit": "g",
+        "ingredient": "rolled oats",
+        "weight": 236.6288492706645
+      },
+      {
+        "amount": 288,
+        "unit": "g",
+        "ingredient": "chocolate chips",
+        "weight": 288.4927066450567
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 310",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "unsalted butter, room temperature",
+        "weight": 0.8453085376162299
+      },
+      {
+        "amount": 287,
+        "unit": "g",
+        "ingredient": "salted butter melted",
+        "weight": 287.4049027895182
+      },
+      {
+        "amount": 58,
+        "unit": "g",
+        "ingredient": "egg",
+        "weight": 58.32628909551987
+      },
+      {
+        "amount": 71,
+        "unit": "g",
+        "ingredient": "plain flour",
+        "weight": 71.85122569737955
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "fine sea salt",
+        "weight": 0.8453085376162299
+      },
+      {
+        "amount": 135,
+        "unit": "g",
+        "ingredient": "all-purpose flour, plus more for rolling",
+        "weight": 135.2493660185968
+      },
+      {
+        "amount": 2,
+        "unit": "g",
+        "ingredient": "baking soda",
+        "weight": 2.53592561284869
+      },
+      {
+        "amount": 187,
+        "unit": "g",
+        "ingredient": "rolled oats",
+        "weight": 187.65849535080304
+      },
+      {
+        "amount": 255,
+        "unit": "g",
+        "ingredient": "chocolate chips",
+        "weight": 255.28317836010143
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 311",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "unsalted butter, room temperature",
+        "weight": 1.1111111111111112
+      },
+      {
+        "amount": 377,
+        "unit": "g",
+        "ingredient": "salted butter melted",
+        "weight": 377.77777777777777
+      },
+      {
+        "amount": 76,
+        "unit": "g",
+        "ingredient": "egg",
+        "weight": 76.66666666666667
+      },
+      {
+        "amount": 94,
+        "unit": "g",
+        "ingredient": "plain flour",
+        "weight": 94.44444444444444
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "½ tsp sea salt flakes plus a pinch",
+        "weight": 1.1111111111111112
+      },
+      {
+        "amount": 432,
+        "unit": "g",
+        "ingredient": "dark chocolate chips",
+        "weight": 432.22222222222223
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "zested",
+        "weight": 1.1111111111111112
+      },
+      {
+        "amount": 7,
+        "unit": "g",
+        "ingredient": "bicarbonate of soda",
+        "weight": 7.777777777777779
+      },
+      {
+        "amount": 7,
+        "unit": "g",
+        "ingredient": "s",
+        "weight": 7.777777777777779
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 314",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "unsalted butter, room temperature",
+        "weight": 1.2019230769230769
+      },
+      {
+        "amount": 332,
+        "unit": "g",
+        "ingredient": "salted butter melted",
+        "weight": 332.9326923076923
+      },
+      {
+        "amount": 82,
+        "unit": "g",
+        "ingredient": "egg",
+        "weight": 82.9326923076923
+      },
+      {
+        "amount": 102,
+        "unit": "g",
+        "ingredient": "plain flour",
+        "weight": 102.16346153846153
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "½ tsp sea salt flakes plus a pinch",
+        "weight": 1.2019230769230769
+      },
+      {
+        "amount": 391,
+        "unit": "g",
+        "ingredient": "dark chocolate chips",
+        "weight": 391.82692307692304
+      },
+      {
+        "amount": 76,
+        "unit": "g",
+        "ingredient": "zested",
+        "weight": 76.92307692307692
+      },
+      {
+        "amount": 9,
+        "unit": "g",
+        "ingredient": "bicarbonate of soda",
+        "weight": 9.615384615384615
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "a pinch sea salt",
+        "weight": 1.2019230769230769
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 322",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "unsalted butter, room temperature",
+        "weight": 0.8064516129032258
+      },
+      {
+        "amount": 274,
+        "unit": "g",
+        "ingredient": "salted butter melted",
+        "weight": 274.19354838709677
+      },
+      {
+        "amount": 55,
+        "unit": "g",
+        "ingredient": "egg",
+        "weight": 55.64516129032258
+      },
+      {
+        "amount": 68,
+        "unit": "g",
+        "ingredient": "plain flour",
+        "weight": 68.54838709677419
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "fine sea salt",
+        "weight": 1.6129032258064515
+      },
+      {
+        "amount": 115,
+        "unit": "g",
+        "ingredient": "all-purpose flour, plus more for rolling",
+        "weight": 115.32258064516128
+      },
+      {
+        "amount": 3,
+        "unit": "g",
+        "ingredient": "baking soda",
+        "weight": 3.225806451612903
+      },
+      {
+        "amount": 169,
+        "unit": "g",
+        "ingredient": "rolled oats",
+        "weight": 169.3548387096774
+      },
+      {
+        "amount": 206,
+        "unit": "g",
+        "ingredient": "chocolate chips",
+        "weight": 206.4516129032258
+      },
+      {
+        "amount": 104,
+        "unit": "g",
+        "ingredient": "wholemeal rye flour",
+        "weight": 104.83870967741935
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 326",
+    "ingredients": [
+      {
+        "amount": 423,
+        "unit": "g",
+        "ingredient": "sweetened, shredded coconut (about 6 1/2 cups)",
+        "weight": 423.12008978675647
+      },
+      {
+        "amount": 15,
+        "unit": "g",
+        "ingredient": "egg",
+        "weight": 15.712682379349046
+      },
+      {
+        "amount": 32,
+        "unit": "g",
+        "ingredient": "unsalted butter, room temperature",
+        "weight": 32.54769921436588
+      },
+      {
+        "amount": 75,
+        "unit": "g",
+        "ingredient": "plain flour",
+        "weight": 75.19640852974186
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "fine sea salt",
+        "weight": 1.122334455667789
+      },
+      {
+        "amount": 104,
+        "unit": "g",
+        "ingredient": "all-purpose flour, plus more for rolling",
+        "weight": 104.37710437710437
+      },
+      {
+        "amount": 2,
+        "unit": "g",
+        "ingredient": "baking soda",
+        "weight": 2.244668911335578
+      },
+      {
+        "amount": 153,
+        "unit": "g",
+        "ingredient": "rolled oats",
+        "weight": 153.7598204264871
+      },
+      {
+        "amount": 191,
+        "unit": "g",
+        "ingredient": "chocolate chips",
+        "weight": 191.91919191919192
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 332",
+    "ingredients": [
+      {
+        "amount": 42,
+        "unit": "g",
+        "ingredient": "egg",
+        "weight": 42.52199413489736
+      },
+      {
+        "amount": 105,
+        "unit": "g",
+        "ingredient": "unsalted butter, melted and slightly cooled",
+        "weight": 105.57184750733138
+      },
+      {
+        "amount": 224,
+        "unit": "g",
+        "ingredient": "plain flour",
+        "weight": 224.34017595307918
+      },
+      {
+        "amount": 77,
+        "unit": "g",
+        "ingredient": "dark chocolate chopped",
+        "weight": 77.71260997067449
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "½ tsp sea salt flakes plus a pinch",
+        "weight": 1.466275659824047
+      },
+      {
+        "amount": 526,
+        "unit": "g",
+        "ingredient": "dark chocolate chips",
+        "weight": 526.3929618768328
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "zested",
+        "weight": 1.466275659824047
+      },
+      {
+        "amount": 11,
+        "unit": "g",
+        "ingredient": "bicarbonate of soda",
+        "weight": 11.730205278592376
+      },
+      {
+        "amount": 8,
+        "unit": "g",
+        "ingredient": "s",
+        "weight": 8.79765395894428
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 334",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "unsalted butter, room temperature",
+        "weight": 1.0050251256281406
+      },
+      {
+        "amount": 333,
+        "unit": "g",
+        "ingredient": "salted butter melted",
+        "weight": 333.6683417085427
+      },
+      {
+        "amount": 82,
+        "unit": "g",
+        "ingredient": "egg",
+        "weight": 82.41206030150752
+      },
+      {
+        "amount": 102,
+        "unit": "g",
+        "ingredient": "plain flour",
+        "weight": 102.51256281407035
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "½ tsp sea salt flakes plus a pinch",
+        "weight": 1.0050251256281406
+      },
+      {
+        "amount": 392,
+        "unit": "g",
+        "ingredient": "dark chocolate chips",
+        "weight": 392.964824120603
+      },
+      {
+        "amount": 76,
+        "unit": "g",
+        "ingredient": "zested",
+        "weight": 76.38190954773869
+      },
+      {
+        "amount": 9,
+        "unit": "g",
+        "ingredient": "bicarbonate of soda",
+        "weight": 9.045226130653266
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "a pinch sea salt",
+        "weight": 1.0050251256281406
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 341",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "unsalted butter, room temperature",
+        "weight": 1.0384215991692627
+      },
+      {
+        "amount": 353,
+        "unit": "g",
+        "ingredient": "salted butter melted",
+        "weight": 353.0633437175493
+      },
+      {
+        "amount": 71,
+        "unit": "g",
+        "ingredient": "egg",
+        "weight": 71.65109034267913
+      },
+      {
+        "amount": 105,
+        "unit": "g",
+        "ingredient": "plain flour",
+        "weight": 105.9190031152648
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "fine sea salt",
+        "weight": 1.0384215991692627
+      },
+      {
+        "amount": 107,
+        "unit": "g",
+        "ingredient": "all-purpose flour, plus more for rolling",
+        "weight": 107.99584631360332
+      },
+      {
+        "amount": 2,
+        "unit": "g",
+        "ingredient": "baking soda",
+        "weight": 2.0768431983385254
+      },
+      {
+        "amount": 158,
+        "unit": "g",
+        "ingredient": "rolled oats",
+        "weight": 158.87850467289718
+      },
+      {
+        "amount": 198,
+        "unit": "g",
+        "ingredient": "chocolate chips",
+        "weight": 198.33852544132918
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 345",
+    "ingredients": [
+      {
+        "amount": 459,
+        "unit": "g",
+        "ingredient": "sweetened, shredded coconut (about 6 1/2 cups)",
+        "weight": 459.78260869565213
+      },
+      {
+        "amount": 16,
+        "unit": "g",
+        "ingredient": "egg",
+        "weight": 16.304347826086957
+      },
+      {
+        "amount": 34,
+        "unit": "g",
+        "ingredient": "unsalted butter, room temperature",
+        "weight": 34.78260869565217
+      },
+      {
+        "amount": 81,
+        "unit": "g",
+        "ingredient": "plain flour",
+        "weight": 81.52173913043478
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "½ tsp sea salt flakes plus a pinch",
+        "weight": 1.0869565217391304
+      },
+      {
+        "amount": 390,
+        "unit": "g",
+        "ingredient": "dark chocolate chips",
+        "weight": 390.2173913043478
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "zested",
+        "weight": 1.0869565217391304
+      },
+      {
+        "amount": 8,
+        "unit": "g",
+        "ingredient": "bicarbonate of soda",
+        "weight": 8.695652173913043
+      },
+      {
+        "amount": 6,
+        "unit": "g",
+        "ingredient": "s",
+        "weight": 6.521739130434782
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "1/2  (130 grams) whole milk",
+        "weight": 0.0
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 359",
+    "ingredients": [
+      {
+        "amount": 238,
+        "unit": "g",
+        "ingredient": "1  (16-ounce) jar unsweetened peanut butter",
+        "weight": 238.9240506329114
+      },
+      {
+        "amount": 213,
+        "unit": "g",
+        "ingredient": "egg",
+        "weight": 213.60759493670886
+      },
+      {
+        "amount": 18,
+        "unit": "g",
+        "ingredient": "unsalted butter, melted and slightly cooled",
+        "weight": 18.9873417721519
+      },
+      {
+        "amount": 41,
+        "unit": "g",
+        "ingredient": "plain flour",
+        "weight": 41.139240506329116
+      },
+      {
+        "amount": 2,
+        "unit": "g",
+        "ingredient": "fine sea salt",
+        "weight": 2.3734177215189876
+      },
+      {
+        "amount": 113,
+        "unit": "g",
+        "ingredient": "all-purpose flour, plus more for rolling",
+        "weight": 113.13291139240506
+      },
+      {
+        "amount": 3,
+        "unit": "g",
+        "ingredient": "baking soda",
+        "weight": 3.1645569620253164
+      },
+      {
+        "amount": 166,
+        "unit": "g",
+        "ingredient": "rolled oats",
+        "weight": 166.13924050632912
+      },
+      {
+        "amount": 202,
+        "unit": "g",
+        "ingredient": "chocolate chips",
+        "weight": 202.53164556962025
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 363",
+    "ingredients": [
+      {
+        "amount": 354,
+        "unit": "g",
+        "ingredient": "sweetened, shredded coconut (about 6 1/2 cups)",
+        "weight": 354.60251046025104
+      },
+      {
+        "amount": 14,
+        "unit": "g",
+        "ingredient": "egg",
+        "weight": 14.644351464435147
+      },
+      {
+        "amount": 33,
+        "unit": "g",
+        "ingredient": "unsalted butter, room temperature",
+        "weight": 33.47280334728033
+      },
+      {
+        "amount": 70,
+        "unit": "g",
+        "ingredient": "plain flour",
+        "weight": 70.0836820083682
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "fine sea salt",
+        "weight": 1.0460251046025104
+      },
+      {
+        "amount": 151,
+        "unit": "g",
+        "ingredient": "all-purpose flour, plus more for rolling",
+        "weight": 151.673640167364
+      },
+      {
+        "amount": 2,
+        "unit": "g",
+        "ingredient": "baking soda",
+        "weight": 2.092050209205021
+      },
+      {
+        "amount": 165,
+        "unit": "g",
+        "ingredient": "rolled oats",
+        "weight": 165.27196652719664
+      },
+      {
+        "amount": 207,
+        "unit": "g",
+        "ingredient": "chocolate chips",
+        "weight": 207.11297071129707
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 367",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "unsalted butter, room temperature",
+        "weight": 1.0626992561105206
+      },
+      {
+        "amount": 400,
+        "unit": "g",
+        "ingredient": "salted butter melted",
+        "weight": 400.6376195536663
+      },
+      {
+        "amount": 80,
+        "unit": "g",
+        "ingredient": "egg",
+        "weight": 80.76514346439957
+      },
+      {
+        "amount": 99,
+        "unit": "g",
+        "ingredient": "plain flour",
+        "weight": 99.89373007438894
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "fine sea salt",
+        "weight": 1.0626992561105206
+      },
+      {
+        "amount": 143,
+        "unit": "g",
+        "ingredient": "all-purpose flour, plus more for rolling",
+        "weight": 143.4643995749203
+      },
+      {
+        "amount": 2,
+        "unit": "g",
+        "ingredient": "baking soda",
+        "weight": 2.1253985122210413
+      },
+      {
+        "amount": 270,
+        "unit": "g",
+        "ingredient": "chocolate chips",
+        "weight": 270.98831030818275
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 369",
+    "ingredients": [
+      {
+        "amount": 256,
+        "unit": "g",
+        "ingredient": "1  (16-ounce) jar unsweetened peanut butter",
+        "weight": 256.46551724137936
+      },
+      {
+        "amount": 229,
+        "unit": "g",
+        "ingredient": "egg",
+        "weight": 229.52586206896555
+      },
+      {
+        "amount": 19,
+        "unit": "g",
+        "ingredient": "unsalted butter, melted and slightly cooled",
+        "weight": 19.396551724137932
+      },
+      {
+        "amount": 44,
+        "unit": "g",
+        "ingredient": "all-purpose flour",
+        "weight": 44.181034482758626
+      },
+      {
+        "amount": 3,
+        "unit": "g",
+        "ingredient": "ground cloves",
+        "weight": 3.2327586206896557
+      },
+      {
+        "amount": 210,
+        "unit": "g",
+        "ingredient": "strong white bread flour",
+        "weight": 210.12931034482762
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "½ tsp baking powder",
+        "weight": 1.0775862068965518
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "a pinch sea salt flakes plus extra to serve",
+        "weight": 1.0775862068965518
+      },
+      {
+        "amount": 234,
+        "unit": "g",
+        "ingredient": "tightly packed brown sugar",
+        "weight": 234.91379310344828
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 1743",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "unsalted butter, room temperature",
+        "weight": 0.8992805755395683
+      },
+      {
+        "amount": 339,
+        "unit": "g",
+        "ingredient": "salted butter melted",
+        "weight": 339.0287769784172
+      },
+      {
+        "amount": 68,
+        "unit": "g",
+        "ingredient": "egg",
+        "weight": 68.34532374100719
+      },
+      {
+        "amount": 84,
+        "unit": "g",
+        "ingredient": "plain flour",
+        "weight": 84.53237410071942
+      },
+      {
+        "amount": 23,
+        "unit": "g",
+        "ingredient": "fine sea salt",
+        "weight": 23.381294964028775
+      },
+      {
+        "amount": 112,
+        "unit": "g",
+        "ingredient": "sweetened, shredded coconut (about 6 1/2 cups)",
+        "weight": 112.41007194244604
+      },
+      {
+        "amount": 9,
+        "unit": "g",
+        "ingredient": "baking soda",
+        "weight": 9.892086330935252
+      },
+      {
+        "amount": 147,
+        "unit": "g",
+        "ingredient": "rolled oats",
+        "weight": 147.4820143884892
+      },
+      {
+        "amount": 214,
+        "unit": "g",
+        "ingredient": "chocolate chips",
+        "weight": 214.02877697841726
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 1745",
+    "ingredients": [
+      {
+        "amount": 41,
+        "unit": "g",
+        "ingredient": "egg",
+        "weight": 41.28440366972477
+      },
+      {
+        "amount": 104,
+        "unit": "g",
+        "ingredient": "unsalted butter, melted and slightly cooled",
+        "weight": 104.35779816513761
+      },
+      {
+        "amount": 222,
+        "unit": "g",
+        "ingredient": "plain flour",
+        "weight": 222.47706422018348
+      },
+      {
+        "amount": 76,
+        "unit": "g",
+        "ingredient": "cocoa powder",
+        "weight": 76.8348623853211
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "fine sea salt",
+        "weight": 1.146788990825688
+      },
+      {
+        "amount": 173,
+        "unit": "g",
+        "ingredient": "all-purpose flour, plus more for rolling",
+        "weight": 173.1651376146789
+      },
+      {
+        "amount": 2,
+        "unit": "g",
+        "ingredient": "baking soda",
+        "weight": 2.293577981651376
+      },
+      {
+        "amount": 189,
+        "unit": "g",
+        "ingredient": "rolled oats",
+        "weight": 189.22018348623854
+      },
+      {
+        "amount": 189,
+        "unit": "g",
+        "ingredient": "chocolate chips",
+        "weight": 189.22018348623854
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 1750",
+    "ingredients": [
+      {
+        "amount": 287,
+        "unit": "g",
+        "ingredient": "sweetened, shredded coconut (about 6 1/2 cups)",
+        "weight": 287.3453853472883
+      },
+      {
+        "amount": 13,
+        "unit": "g",
+        "ingredient": "egg",
+        "weight": 13.320647002854423
+      },
+      {
+        "amount": 80,
+        "unit": "g",
+        "ingredient": "unsalted butter, room temperature",
+        "weight": 80.87535680304471
+      },
+      {
+        "amount": 66,
+        "unit": "g",
+        "ingredient": "plain flour",
+        "weight": 66.60323501427212
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "fine sea salt",
+        "weight": 0.9514747859181731
+      },
+      {
+        "amount": 128,
+        "unit": "g",
+        "ingredient": "all-purpose flour, plus more for rolling",
+        "weight": 128.44909609895336
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "baking soda",
+        "weight": 1.9029495718363463
+      },
+      {
+        "amount": 177,
+        "unit": "g",
+        "ingredient": "rolled oats",
+        "weight": 177.9257849666984
+      },
+      {
+        "amount": 242,
+        "unit": "g",
+        "ingredient": "chocolate chips",
+        "weight": 242.62607040913414
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 1751",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "unsalted butter, room temperature",
+        "weight": 1.0695187165775402
+      },
+      {
+        "amount": 293,
+        "unit": "g",
+        "ingredient": "salted butter melted",
+        "weight": 293.048128342246
+      },
+      {
+        "amount": 58,
+        "unit": "g",
+        "ingredient": "egg",
+        "weight": 58.82352941176471
+      },
+      {
+        "amount": 72,
+        "unit": "g",
+        "ingredient": "plain flour",
+        "weight": 72.72727272727273
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "fine sea salt",
+        "weight": 1.0695187165775402
+      },
+      {
+        "amount": 95,
+        "unit": "g",
+        "ingredient": "all-purpose flour, plus more for rolling",
+        "weight": 95.18716577540107
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "baking soda",
+        "weight": 1.0695187165775402
+      },
+      {
+        "amount": 133,
+        "unit": "g",
+        "ingredient": "rolled oats",
+        "weight": 133.6898395721925
+      },
+      {
+        "amount": 182,
+        "unit": "g",
+        "ingredient": "dark chocolate (65-75% cocoa solids) roughly chopped",
+        "weight": 182.88770053475938
+      },
+      {
+        "amount": 160,
+        "unit": "g",
+        "ingredient": "1½ teaspoon kosher salt",
+        "weight": 160.42780748663102
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 1752",
+    "ingredients": [
+      {
+        "amount": 399,
+        "unit": "g",
+        "ingredient": "sweetened, shredded coconut (about 6 1/2 cups)",
+        "weight": 399.15522703273496
+      },
+      {
+        "amount": 12,
+        "unit": "g",
+        "ingredient": "egg",
+        "weight": 12.671594508975712
+      },
+      {
+        "amount": 22,
+        "unit": "g",
+        "ingredient": "unsalted butter, room temperature",
+        "weight": 22.175290390707495
+      },
+      {
+        "amount": 72,
+        "unit": "g",
+        "ingredient": "plain flour",
+        "weight": 72.86166842661035
+      },
+      {
+        "amount": 2,
+        "unit": "g",
+        "ingredient": "fine sea salt",
+        "weight": 2.1119324181626187
+      },
+      {
+        "amount": 112,
+        "unit": "g",
+        "ingredient": "all-purpose flour, plus more for rolling",
+        "weight": 112.98838437170009
+      },
+      {
+        "amount": 2,
+        "unit": "g",
+        "ingredient": "baking soda",
+        "weight": 2.1119324181626187
+      },
+      {
+        "amount": 166,
+        "unit": "g",
+        "ingredient": "rolled oats",
+        "weight": 166.84266103484688
+      },
+      {
+        "amount": 209,
+        "unit": "g",
+        "ingredient": "chocolate chips",
+        "weight": 209.08130939809925
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 1753",
+    "ingredients": [
+      {
+        "amount": 234,
+        "unit": "g",
+        "ingredient": "1  (16-ounce) jar unsweetened peanut butter",
+        "weight": 234.251968503937
+      },
+      {
+        "amount": 209,
+        "unit": "g",
+        "ingredient": "egg",
+        "weight": 209.64566929133858
+      },
+      {
+        "amount": 17,
+        "unit": "g",
+        "ingredient": "unsalted butter, melted and slightly cooled",
+        "weight": 17.716535433070867
+      },
+      {
+        "amount": 71,
+        "unit": "g",
+        "ingredient": "plain flour",
+        "weight": 71.85039370078741
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "fine sea salt",
+        "weight": 0.984251968503937
+      },
+      {
+        "amount": 116,
+        "unit": "g",
+        "ingredient": "all-purpose flour, plus more for rolling",
+        "weight": 116.14173228346456
+      },
+      {
+        "amount": 2,
+        "unit": "g",
+        "ingredient": "baking soda",
+        "weight": 2.952755905511811
+      },
+      {
+        "amount": 170,
+        "unit": "g",
+        "ingredient": "rolled oats",
+        "weight": 170.2755905511811
+      },
+      {
+        "amount": 176,
+        "unit": "g",
+        "ingredient": "chocolate chips",
+        "weight": 176.18110236220474
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 1759",
+    "ingredients": [
+      {
+        "amount": 294,
+        "unit": "g",
+        "ingredient": "butter very soft",
+        "weight": 294.79258605472194
+      },
+      {
+        "amount": 100,
+        "unit": "g",
+        "ingredient": "egg",
+        "weight": 100.61782877316857
+      },
+      {
+        "amount": 22,
+        "unit": "g",
+        "ingredient": "unsalted butter, room temperature",
+        "weight": 22.06531332744925
+      },
+      {
+        "amount": 70,
+        "unit": "g",
+        "ingredient": "plain flour",
+        "weight": 70.6090026478376
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "fine sea salt",
+        "weight": 0.8826125330979699
+      },
+      {
+        "amount": 119,
+        "unit": "g",
+        "ingredient": "all-purpose flour, plus more for rolling",
+        "weight": 119.15269196822594
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "baking soda",
+        "weight": 1.7652250661959399
+      },
+      {
+        "amount": 165,
+        "unit": "g",
+        "ingredient": "rolled oats",
+        "weight": 165.04854368932038
+      },
+      {
+        "amount": 225,
+        "unit": "g",
+        "ingredient": "chocolate chips",
+        "weight": 225.06619593998232
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 1761",
+    "ingredients": [
+      {
+        "amount": 391,
+        "unit": "g",
+        "ingredient": "sweetened, shredded coconut (about 6 1/2 cups)",
+        "weight": 391.30434782608694
+      },
+      {
+        "amount": 13,
+        "unit": "g",
+        "ingredient": "egg white",
+        "weight": 13.876040703052729
+      },
+      {
+        "amount": 29,
+        "unit": "g",
+        "ingredient": "unsalted butter, room temperature",
+        "weight": 29.602220166512488
+      },
+      {
+        "amount": 69,
+        "unit": "g",
+        "ingredient": "plain flour",
+        "weight": 69.38020351526364
+      },
+      {
+        "amount": 82,
+        "unit": "g",
+        "ingredient": "all-purpose flour, plus more for rolling",
+        "weight": 82.33117483811286
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "baking soda",
+        "weight": 0.9250693802035153
+      },
+      {
+        "amount": 115,
+        "unit": "g",
+        "ingredient": "rolled oats",
+        "weight": 115.63367252543941
+      },
+      {
+        "amount": 158,
+        "unit": "g",
+        "ingredient": "chocolate chips",
+        "weight": 158.1868640148011
+      },
+      {
+        "amount": 138,
+        "unit": "g",
+        "ingredient": "1½ teaspoon kosher salt",
+        "weight": 138.7604070305273
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 1765",
+    "ingredients": [
+      {
+        "amount": 394,
+        "unit": "g",
+        "ingredient": "sweetened, shredded coconut (about 6 1/2 cups)",
+        "weight": 394.35146443514645
+      },
+      {
+        "amount": 14,
+        "unit": "g",
+        "ingredient": "egg whites",
+        "weight": 14.644351464435147
+      },
+      {
+        "amount": 33,
+        "unit": "g",
+        "ingredient": "unsalted butter, room temperature",
+        "weight": 33.47280334728033
+      },
+      {
+        "amount": 70,
+        "unit": "g",
+        "ingredient": "plain flour",
+        "weight": 70.0836820083682
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "fine sea salt",
+        "weight": 1.0460251046025104
+      },
+      {
+        "amount": 111,
+        "unit": "g",
+        "ingredient": "all-purpose flour, plus more for rolling",
+        "weight": 111.92468619246861
+      },
+      {
+        "amount": 2,
+        "unit": "g",
+        "ingredient": "baking soda",
+        "weight": 2.092050209205021
+      },
+      {
+        "amount": 165,
+        "unit": "g",
+        "ingredient": "rolled oats",
+        "weight": 165.27196652719664
+      },
+      {
+        "amount": 207,
+        "unit": "g",
+        "ingredient": "chocolate chips",
+        "weight": 207.11297071129707
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 1767",
+    "ingredients": [
+      {
+        "amount": 330,
+        "unit": "g",
+        "ingredient": "sweetened, shredded coconut (about 6 1/2 cups)",
+        "weight": 330.22388059701495
+      },
+      {
+        "amount": 13,
+        "unit": "g",
+        "ingredient": "egg",
+        "weight": 13.059701492537314
+      },
+      {
+        "amount": 30,
+        "unit": "g",
+        "ingredient": "unsalted butter, room temperature",
+        "weight": 30.78358208955224
+      },
+      {
+        "amount": 65,
+        "unit": "g",
+        "ingredient": "plain flour",
+        "weight": 65.29850746268657
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "½ tsp sea salt flakes plus a pinch",
+        "weight": 1.8656716417910448
+      },
+      {
+        "amount": 493,
+        "unit": "g",
+        "ingredient": "dark chocolate chips",
+        "weight": 493.47014925373134
+      },
+      {
+        "amount": 10,
+        "unit": "g",
+        "ingredient": "bicarbonate of soda",
+        "weight": 10.261194029850747
+      },
+      {
+        "amount": 7,
+        "unit": "g",
+        "ingredient": "s",
+        "weight": 7.462686567164179
+      },
+      {
+        "amount": 47,
+        "unit": "g",
+        "ingredient": "light brown sugar",
+        "weight": 47.57462686567165
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 1741",
+    "ingredients": [
+      {
+        "amount": 218,
+        "unit": "g",
+        "ingredient": "1  (16-ounce) jar unsweetened peanut butter",
+        "weight": 218.1146025878004
+      },
+      {
+        "amount": 195,
+        "unit": "g",
+        "ingredient": "egg",
+        "weight": 195.00924214417745
+      },
+      {
+        "amount": 15,
+        "unit": "g",
+        "ingredient": "unsalted butter, melted and slightly cooled",
+        "weight": 15.711645101663587
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "fine sea salt",
+        "weight": 1.8484288354898337
+      },
+      {
+        "amount": 127,
+        "unit": "g",
+        "ingredient": "all-purpose flour, plus more for rolling",
+        "weight": 127.54158964879852
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "baking soda",
+        "weight": 0.9242144177449169
+      },
+      {
+        "amount": 156,
+        "unit": "g",
+        "ingredient": "rolled oats",
+        "weight": 156.19223659889096
+      },
+      {
+        "amount": 190,
+        "unit": "g",
+        "ingredient": "chocolate chips",
+        "weight": 190.38817005545286
+      },
+      {
+        "amount": 94,
+        "unit": "g",
+        "ingredient": "granulated sugar",
+        "weight": 94.26987060998152
+      }
+    ],
+    "fitness": 17
+  },
+  {
+    "name": "recipe 1742",
+    "ingredients": [
+      {
+        "amount": 43,
+        "unit": "g",
+        "ingredient": "egg",
+        "weight": 43.56846473029046
+      },
+      {
+        "amount": 108,
+        "unit": "g",
+        "ingredient": "unsalted butter, melted and slightly cooled",
+        "weight": 108.92116182572614
+      },
+      {
+        "amount": 232,
+        "unit": "g",
+        "ingredient": "plain flour",
+        "weight": 232.3651452282158
+      },
+      {
+        "amount": 79,
+        "unit": "g",
+        "ingredient": "dark chocolate chopped",
+        "weight": 79.87551867219918
+      },
+      {
+        "amount": 375,
+        "unit": "g",
+        "ingredient": "dark chocolate chips",
+        "weight": 375.51867219917017
+      },
+      {
+        "amount": 72,
+        "unit": "g",
+        "ingredient": "zested",
+        "weight": 72.61410788381744
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "a pinch sea salt",
+        "weight": 1.037344398340249
+      },
+      {
+        "amount": 86,
+        "unit": "g",
+        "ingredient": "unsalted shelled pistachios plus extra to serve",
+        "weight": 86.09958506224068
+      }
+    ],
+    "fitness": 17
+  },
+  {
+    "name": "recipe 1744",
+    "ingredients": [
+      {
+        "amount": 32,
+        "unit": "g",
+        "ingredient": "egg",
+        "weight": 32.07964601769911
+      },
+      {
+        "amount": 79,
+        "unit": "g",
+        "ingredient": "unsalted butter, melted and slightly cooled",
+        "weight": 79.64601769911503
+      },
+      {
+        "amount": 169,
+        "unit": "g",
+        "ingredient": "plain flour",
+        "weight": 169.24778761061947
+      },
+      {
+        "amount": 47,
+        "unit": "g",
+        "ingredient": "cocoa powder",
+        "weight": 47.56637168141593
+      },
+      {
+        "amount": 127,
+        "unit": "g",
+        "ingredient": "all-purpose flour, plus more for rolling",
+        "weight": 127.21238938053096
+      },
+      {
+        "amount": 3,
+        "unit": "g",
+        "ingredient": "baking soda",
+        "weight": 3.31858407079646
+      },
+      {
+        "amount": 198,
+        "unit": "g",
+        "ingredient": "rolled oats",
+        "weight": 198.00884955752213
+      },
+      {
+        "amount": 227,
+        "unit": "g",
+        "ingredient": "chocolate chips",
+        "weight": 227.87610619469027
+      },
+      {
+        "amount": 115,
+        "unit": "g",
+        "ingredient": "wholemeal rye flour",
+        "weight": 115.04424778761062
+      }
+    ],
+    "fitness": 17
+  },
+  {
+    "name": "recipe 1748",
+    "ingredients": [
+      {
+        "amount": 215,
+        "unit": "g",
+        "ingredient": "1  (16-ounce) jar unsweetened peanut butter",
+        "weight": 215.26418786692759
+      },
+      {
+        "amount": 192,
+        "unit": "g",
+        "ingredient": "egg",
+        "weight": 192.7592954990215
+      },
+      {
+        "amount": 15,
+        "unit": "g",
+        "ingredient": "unsalted butter, melted and slightly cooled",
+        "weight": 15.655577299412915
+      },
+      {
+        "amount": 37,
+        "unit": "g",
+        "ingredient": "plain flour",
+        "weight": 37.18199608610567
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 0.9784735812133072
+      },
+      {
+        "amount": 103,
+        "unit": "g",
+        "ingredient": "all-purpose flour, plus more for rolling",
+        "weight": 103.71819960861056
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "baking soda",
+        "weight": 0.9784735812133072
+      },
+      {
+        "amount": 143,
+        "unit": "g",
+        "ingredient": "rolled oats",
+        "weight": 143.83561643835617
+      },
+      {
+        "amount": 195,
+        "unit": "g",
+        "ingredient": "chocolate chips",
+        "weight": 195.69471624266143
+      },
+      {
+        "amount": 93,
+        "unit": "g",
+        "ingredient": "sugar",
+        "weight": 93.9334637964775
+      }
+    ],
+    "fitness": 17
+  },
+  {
+    "name": "recipe 1755",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "unsalted butter, room temperature",
+        "weight": 0.8968609865470852
+      },
+      {
+        "amount": 245,
+        "unit": "g",
+        "ingredient": "salted butter melted",
+        "weight": 245.73991031390136
+      },
+      {
+        "amount": 49,
+        "unit": "g",
+        "ingredient": "egg",
+        "weight": 49.327354260089685
+      },
+      {
+        "amount": 60,
+        "unit": "g",
+        "ingredient": "plain flour",
+        "weight": 60.9865470852018
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "fine sea salt",
+        "weight": 0.8968609865470852
+      },
+      {
+        "amount": 113,
+        "unit": "g",
+        "ingredient": "all-purpose flour, plus more for rolling",
+        "weight": 113.00448430493275
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "baking soda",
+        "weight": 0.8968609865470852
+      },
+      {
+        "amount": 216,
+        "unit": "g",
+        "ingredient": "rolled oats",
+        "weight": 216.14349775784754
+      },
+      {
+        "amount": 213,
+        "unit": "g",
+        "ingredient": "chocolate chips",
+        "weight": 213.45291479820628
+      },
+      {
+        "amount": 98,
+        "unit": "g",
+        "ingredient": "light brown sugar",
+        "weight": 98.65470852017937
+      }
+    ],
+    "fitness": 17
+  }
+]

@@ -1,0 +1,5443 @@
+{
+  "recipes": [
+    {
+      "name": "Biscoff cookies",
+      "ingredients": [
+        {
+          "amount": "12",
+          "unit": "tbsp",
+          "ingredient": "Biscoff spread"
+        },
+        {
+          "amount": "125",
+          "unit": "g",
+          "ingredient": "salted butter softened"
+        },
+        {
+          "amount": "100",
+          "unit": "g",
+          "ingredient": "caster sugar"
+        },
+        {
+          "amount": "100",
+          "unit": "g",
+          "ingredient": "soft light brown sugar"
+        },
+        {
+          "amount": "1",
+          "unit": "tsp",
+          "ingredient": "vanilla bean paste"
+        },
+        {
+          "amount": "1",
+          "unit": "medium",
+          "ingredient": "egg"
+        },
+        {
+          "amount": "225",
+          "unit": "g",
+          "ingredient": "plain flour"
+        },
+        {
+          "amount": "1",
+          "unit": "tbsp",
+          "ingredient": "cornflour"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "\u00bd tsp baking powder"
+        },
+        {
+          "amount": "100",
+          "unit": "g",
+          "ingredient": "Lotus biscuits finely chopped"
+        }
+      ]
+    },
+    {
+      "name": "Apricot and white chocolate cookies",
+      "ingredients": [
+        {
+          "amount": "150",
+          "unit": "g",
+          "ingredient": "butter at room temperature"
+        },
+        {
+          "amount": "100",
+          "unit": "g",
+          "ingredient": "golden caster sugar"
+        },
+        {
+          "amount": "50",
+          "unit": "g",
+          "ingredient": "light muscovado sugar"
+        },
+        {
+          "amount": "1",
+          "unit": "eg",
+          "ingredient": "g"
+        },
+        {
+          "amount": "1",
+          "unit": "tsp",
+          "ingredient": "vanilla extract"
+        },
+        {
+          "amount": "1",
+          "unit": "tbsp",
+          "ingredient": "milk"
+        },
+        {
+          "amount": "220",
+          "unit": "g",
+          "ingredient": "self-raising flour"
+        },
+        {
+          "amount": "150",
+          "unit": "g",
+          "ingredient": "white chocolate roughly chopped"
+        },
+        {
+          "amount": "100",
+          "unit": "g",
+          "ingredient": "dried apricots snipped into pieces"
+        }
+      ]
+    },
+    {
+      "name": "Caramelised white chocolate florentines",
+      "ingredients": [
+        {
+          "amount": "75",
+          "unit": "g",
+          "ingredient": "salted butter"
+        },
+        {
+          "amount": "5",
+          "unit": "tbsp",
+          "ingredient": "golden caster suagr"
+        },
+        {
+          "amount": "3",
+          "unit": "tbsp",
+          "ingredient": "plain flour"
+        },
+        {
+          "amount": "50",
+          "unit": "g",
+          "ingredient": "blanched almonds chopped"
+        },
+        {
+          "amount": "50",
+          "unit": "g",
+          "ingredient": "chopped mixed peel"
+        },
+        {
+          "amount": "25",
+          "unit": "g",
+          "ingredient": "sultanas chopped"
+        },
+        {
+          "amount": "25",
+          "unit": "g",
+          "ingredient": "dark glac\u00e9 cherries chopped"
+        },
+        {
+          "amount": "150",
+          "unit": "g",
+          "ingredient": "white chocolate (30% cocoa butter or higher) chopped into small chunks"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "optional sea salt flakes"
+        }
+      ]
+    },
+    {
+      "name": "Edd Kimber",
+      "ingredients": [
+        {
+          "amount": "125",
+          "unit": "g",
+          "ingredient": "wholemeal rye flour"
+        },
+        {
+          "amount": "100",
+          "unit": "g",
+          "ingredient": "plain flour"
+        },
+        {
+          "amount": "2",
+          "unit": "tbsp",
+          "ingredient": "cocoa powder"
+        },
+        {
+          "amount": "1",
+          "unit": "tsp",
+          "ingredient": "baking powder"
+        },
+        {
+          "amount": "1",
+          "unit": "",
+          "ingredient": "/2 tsp bicarbonate of soda"
+        },
+        {
+          "amount": "1",
+          "unit": "",
+          "ingredient": "/2 tsp fine sea salt"
+        },
+        {
+          "amount": "85",
+          "unit": "g",
+          "ingredient": "unsalted butter softened"
+        },
+        {
+          "amount": "85",
+          "unit": "g",
+          "ingredient": "black tahini"
+        },
+        {
+          "amount": "100",
+          "unit": "g",
+          "ingredient": "soft light brown sugar"
+        },
+        {
+          "amount": "100",
+          "unit": "g",
+          "ingredient": "caster sugar"
+        },
+        {
+          "amount": "2",
+          "unit": "large",
+          "ingredient": "eggs"
+        },
+        {
+          "amount": "1",
+          "unit": "tsp",
+          "ingredient": "vanilla extract"
+        },
+        {
+          "amount": "100",
+          "unit": "g",
+          "ingredient": "sesame seeds"
+        },
+        {
+          "amount": "100",
+          "unit": "g",
+          "ingredient": "white chocolate finely chopped"
+        },
+        {
+          "amount": "50",
+          "unit": "g",
+          "ingredient": "double cream"
+        },
+        {
+          "amount": "1",
+          "unit": "",
+          "ingredient": "/4 tsp (optional) ground cardamom"
+        }
+      ]
+    },
+    {
+      "name": "Chunky chocolate chip cookies",
+      "ingredients": [
+        {
+          "amount": "100",
+          "unit": "g",
+          "ingredient": "plain flour"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "\u00bc tsp bicarbonate of soda"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "\u00bc tsp baking powder"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "\u00bc tsp salt"
+        },
+        {
+          "amount": "125",
+          "unit": "g",
+          "ingredient": "unsalted butter"
+        },
+        {
+          "amount": "175",
+          "unit": "g",
+          "ingredient": "soft brown sugar"
+        },
+        {
+          "amount": "25",
+          "unit": "g",
+          "ingredient": "caster sugar"
+        },
+        {
+          "amount": "1",
+          "unit": "eg",
+          "ingredient": "g"
+        },
+        {
+          "amount": "1",
+          "unit": "tsp",
+          "ingredient": "vanilla extract"
+        },
+        {
+          "amount": "50",
+          "unit": "g",
+          "ingredient": "walnuts chopped"
+        },
+        {
+          "amount": "175",
+          "unit": "g",
+          "ingredient": "porridge oats"
+        },
+        {
+          "amount": "50",
+          "unit": "g",
+          "ingredient": "dark chocolate chopped into small chunks"
+        }
+      ]
+    },
+    {
+      "name": "Janine Ratcliffe",
+      "ingredients": [
+        {
+          "amount": "85",
+          "unit": "g",
+          "ingredient": "unsalted butter softened"
+        },
+        {
+          "amount": "75",
+          "unit": "g",
+          "ingredient": "caster sugar"
+        },
+        {
+          "amount": "75",
+          "unit": "g",
+          "ingredient": "light brown muscovado sugar"
+        },
+        {
+          "amount": "1",
+          "unit": "eg",
+          "ingredient": "g"
+        },
+        {
+          "amount": "1",
+          "unit": "tsp",
+          "ingredient": "vanilla extract"
+        },
+        {
+          "amount": "175",
+          "unit": "g",
+          "ingredient": "self-raising flour"
+        },
+        {
+          "amount": "5",
+          "unit": "Maltesers",
+          "ingredient": "Mini Bunnies"
+        },
+        {
+          "amount": "15",
+          "unit": "Galaxy",
+          "ingredient": "Golden Eggs"
+        },
+        {
+          "amount": "24",
+          "unit": "M",
+          "ingredient": "&amp;M\u2019s Eggs"
+        }
+      ]
+    },
+    {
+      "name": "Janine Ratcliffe",
+      "ingredients": [
+        {
+          "amount": "2",
+          "unit": "x",
+          "ingredient": "100g bars dark chocolate Toblerones"
+        },
+        {
+          "amount": "100",
+          "unit": "g",
+          "ingredient": "dark chocolate chopped"
+        },
+        {
+          "amount": "50",
+          "unit": "g",
+          "ingredient": "unsalted butter softened"
+        },
+        {
+          "amount": "100",
+          "unit": "g",
+          "ingredient": "soft light brown sugar"
+        },
+        {
+          "amount": "1",
+          "unit": "egg",
+          "ingredient": "beaten"
+        },
+        {
+          "amount": "1",
+          "unit": "tsp",
+          "ingredient": "vanilla extract"
+        },
+        {
+          "amount": "100",
+          "unit": "g",
+          "ingredient": "plain flour"
+        },
+        {
+          "amount": "1",
+          "unit": "tsp",
+          "ingredient": "baking powder"
+        },
+        {
+          "amount": "50",
+          "unit": "g",
+          "ingredient": "ground almonds"
+        },
+        {
+          "amount": "1",
+          "unit": "tbsp",
+          "ingredient": "whole milk"
+        }
+      ]
+    },
+    {
+      "name": "Adam Bush",
+      "ingredients": [
+        {
+          "amount": "150",
+          "unit": "g",
+          "ingredient": "unsalted butter softened"
+        },
+        {
+          "amount": "200",
+          "unit": "g",
+          "ingredient": "soft light brown sugar"
+        },
+        {
+          "amount": "100",
+          "unit": "g",
+          "ingredient": "golden caster sugar"
+        },
+        {
+          "amount": "1",
+          "unit": "eg",
+          "ingredient": "g"
+        },
+        {
+          "amount": "50",
+          "unit": "g",
+          "ingredient": "white miso paste"
+        },
+        {
+          "amount": "1",
+          "unit": "tsp",
+          "ingredient": "vanilla bean paste or extract"
+        },
+        {
+          "amount": "225",
+          "unit": "g",
+          "ingredient": "plain flour"
+        },
+        {
+          "amount": "25",
+          "unit": "g",
+          "ingredient": "cocoa powder"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "\u00bd tsp baking powder"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "\u00bd tsp sea salt flakes plus a pinch"
+        },
+        {
+          "amount": "100",
+          "unit": "g",
+          "ingredient": "dark chocolate chips"
+        },
+        {
+          "amount": "100",
+          "unit": "g",
+          "ingredient": "white chocolate chips"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "a pinch (optional) white sesame seeds"
+        }
+      ]
+    },
+    {
+      "name": "Anna Glover",
+      "ingredients": [
+        {
+          "amount": "150",
+          "unit": "g",
+          "ingredient": "salted butter softened"
+        },
+        {
+          "amount": "125",
+          "unit": "g",
+          "ingredient": "soft light brown sugar"
+        },
+        {
+          "amount": "90",
+          "unit": "ml",
+          "ingredient": "maple syrup"
+        },
+        {
+          "amount": "1",
+          "unit": "egg",
+          "ingredient": "lightly beaten"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "a pinch mixed spice"
+        },
+        {
+          "amount": "280",
+          "unit": "g",
+          "ingredient": "plain flour"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "\u00bd tsp baking powder"
+        },
+        {
+          "amount": "100",
+          "unit": "g",
+          "ingredient": "pecan halves 12 left whole, the rest chopped"
+        }
+      ]
+    },
+    {
+      "name": "Adam Bush",
+      "ingredients": [
+        {
+          "amount": "100",
+          "unit": "g",
+          "ingredient": "unsalted butter softened"
+        },
+        {
+          "amount": "150",
+          "unit": "g",
+          "ingredient": "soft light brown sugar"
+        },
+        {
+          "amount": "100",
+          "unit": "g",
+          "ingredient": "plain flour"
+        },
+        {
+          "amount": "100",
+          "unit": "g",
+          "ingredient": "rolled oats"
+        },
+        {
+          "amount": "1",
+          "unit": "tsp",
+          "ingredient": "baking powder"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "\u00bd tsp bicarbonate of soda"
+        },
+        {
+          "amount": "1",
+          "unit": "tbsp",
+          "ingredient": "whole milk"
+        },
+        {
+          "amount": "8",
+          "unit": "black",
+          "ingredient": "figs halved lengthways"
+        }
+      ]
+    },
+    {
+      "name": "Sarah Cook",
+      "ingredients": [
+        {
+          "amount": "225",
+          "unit": "g",
+          "ingredient": "unsalted butter softened"
+        },
+        {
+          "amount": "125",
+          "unit": "g",
+          "ingredient": "soft light brown sugar"
+        },
+        {
+          "amount": "100",
+          "unit": "g",
+          "ingredient": "golden syrup"
+        },
+        {
+          "amount": "1",
+          "unit": "large",
+          "ingredient": "egg"
+        },
+        {
+          "amount": "1",
+          "unit": "tsp",
+          "ingredient": "vanilla extract"
+        },
+        {
+          "amount": "50",
+          "unit": "g",
+          "ingredient": "desiccated coconut"
+        },
+        {
+          "amount": "200",
+          "unit": "g",
+          "ingredient": "plain flour"
+        },
+        {
+          "amount": "1",
+          "unit": "tsp",
+          "ingredient": "bicarbonate of soda"
+        },
+        {
+          "amount": "50",
+          "unit": "g",
+          "ingredient": "rolled oats"
+        },
+        {
+          "amount": "50",
+          "unit": "g",
+          "ingredient": "honey nut cornflakes crushed"
+        }
+      ]
+    },
+    {
+      "name": "Anna Glover",
+      "ingredients": [
+        {
+          "amount": "200",
+          "unit": "g",
+          "ingredient": "unsalted butter softened"
+        },
+        {
+          "amount": "175",
+          "unit": "g",
+          "ingredient": "caster sugar"
+        },
+        {
+          "amount": "2",
+          "unit": "eggs",
+          "ingredient": "1 separated"
+        },
+        {
+          "amount": "2",
+          "unit": "tsp",
+          "ingredient": "vanilla extract"
+        },
+        {
+          "amount": "300",
+          "unit": "g",
+          "ingredient": "plain flour plus extra for dusting"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "\u00bd tsp baking powder"
+        },
+        {
+          "amount": "150",
+          "unit": "g",
+          "ingredient": "icing sugar sifted"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "food colouring (optional)"
+        }
+      ]
+    },
+    {
+      "name": "Anna Glover",
+      "ingredients": [
+        {
+          "amount": "150",
+          "unit": "g",
+          "ingredient": "salted butter softened"
+        },
+        {
+          "amount": "50",
+          "unit": "g",
+          "ingredient": "soft light brown sugar"
+        },
+        {
+          "amount": "100",
+          "unit": "g",
+          "ingredient": "golden caster sugar"
+        },
+        {
+          "amount": "2",
+          "unit": "egg",
+          "ingredient": "s"
+        },
+        {
+          "amount": "300",
+          "unit": "g",
+          "ingredient": "plain flour"
+        },
+        {
+          "amount": "1",
+          "unit": "tsp",
+          "ingredient": "baking powder"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "\u00bd tsp ground cinnamon"
+        },
+        {
+          "amount": "100",
+          "unit": "g",
+          "ingredient": "raisins"
+        },
+        {
+          "amount": "200",
+          "unit": "g",
+          "ingredient": "leftover porridge cooked and cooled"
+        },
+        {
+          "amount": "1",
+          "unit": "tbsp",
+          "ingredient": "porridge oats (optional)"
+        }
+      ]
+    },
+    {
+      "name": "Adam Bush",
+      "ingredients": [
+        {
+          "amount": "200",
+          "unit": "g",
+          "ingredient": "plain flour"
+        },
+        {
+          "amount": "150",
+          "unit": "g",
+          "ingredient": "unsalted butter softened"
+        },
+        {
+          "amount": "100",
+          "unit": "g",
+          "ingredient": "golden caster sugar"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "\u00bd tsp vanilla extract"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "a pinch fine sea salt"
+        },
+        {
+          "amount": "50",
+          "unit": "g",
+          "ingredient": "or dark chocolate chocolate chips chopped"
+        }
+      ]
+    },
+    {
+      "name": "Lulu Grimes",
+      "ingredients": [
+        {
+          "amount": "200",
+          "unit": "g",
+          "ingredient": "dark chocolate broken into chunks"
+        },
+        {
+          "amount": "100",
+          "unit": "g",
+          "ingredient": "butter chopped"
+        },
+        {
+          "amount": "50",
+          "unit": "g",
+          "ingredient": "light muscovado sugar"
+        },
+        {
+          "amount": "85",
+          "unit": "g",
+          "ingredient": "golden caster sugar"
+        },
+        {
+          "amount": "1",
+          "unit": "tsp",
+          "ingredient": "vanilla extract"
+        },
+        {
+          "amount": "1",
+          "unit": "egg",
+          "ingredient": "beaten"
+        },
+        {
+          "amount": "100",
+          "unit": "g",
+          "ingredient": "pecans"
+        },
+        {
+          "amount": "100",
+          "unit": "g",
+          "ingredient": "plain flour"
+        },
+        {
+          "amount": "1",
+          "unit": "tsp",
+          "ingredient": "bicarbonate of soda"
+        }
+      ]
+    },
+    {
+      "name": "Edd Kimber",
+      "ingredients": [
+        {
+          "amount": "200",
+          "unit": "g",
+          "ingredient": "dark chocolate finely chopped"
+        },
+        {
+          "amount": "100",
+          "unit": "g",
+          "ingredient": "unsalted butter diced"
+        },
+        {
+          "amount": "100",
+          "unit": "g",
+          "ingredient": "caster sugar"
+        },
+        {
+          "amount": "150",
+          "unit": "g",
+          "ingredient": "light brown sugar"
+        },
+        {
+          "amount": "2",
+          "unit": "egg",
+          "ingredient": "s"
+        },
+        {
+          "amount": "130",
+          "unit": "g",
+          "ingredient": "wholemeal rye flour"
+        },
+        {
+          "amount": "50",
+          "unit": "g",
+          "ingredient": "cocoa powder"
+        },
+        {
+          "amount": "1",
+          "unit": "tsp",
+          "ingredient": "baking soda"
+        },
+        {
+          "amount": "1",
+          "unit": "",
+          "ingredient": "/4 tsp salt"
+        },
+        {
+          "amount": "100",
+          "unit": "g",
+          "ingredient": "icing sugar"
+        }
+      ]
+    },
+    {
+      "name": "\u00d6zlem Warren",
+      "ingredients": [
+        {
+          "amount": "90",
+          "unit": "g",
+          "ingredient": "unsalted shelled pistachios plus extra to serve"
+        },
+        {
+          "amount": "300",
+          "unit": "g",
+          "ingredient": "plain flour"
+        },
+        {
+          "amount": "125",
+          "unit": "g",
+          "ingredient": "icing sugar plus extra for dusting"
+        },
+        {
+          "amount": "250",
+          "unit": "g",
+          "ingredient": "unsalted butter cubed"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "\u00bd tsp baking powder"
+        },
+        {
+          "amount": "1",
+          "unit": "tsp",
+          "ingredient": "vanilla extract"
+        }
+      ]
+    },
+    {
+      "name": "Chocolate and tahini cookies",
+      "ingredients": [
+        {
+          "amount": "100",
+          "unit": "g",
+          "ingredient": "unsalted butter at room temperature"
+        },
+        {
+          "amount": "100",
+          "unit": "g",
+          "ingredient": "caster sugar"
+        },
+        {
+          "amount": "60",
+          "unit": "g",
+          "ingredient": "golden syrup"
+        },
+        {
+          "amount": "1",
+          "unit": "tsp",
+          "ingredient": "sesame oil"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "\u00bc tsp fine sea salt"
+        },
+        {
+          "amount": "175",
+          "unit": "g",
+          "ingredient": "plain flour"
+        },
+        {
+          "amount": "30",
+          "unit": "g",
+          "ingredient": "cocoa powder plus extra for rolling"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "\u00bd tsp bicarbonate of soda"
+        },
+        {
+          "amount": "45",
+          "unit": "g",
+          "ingredient": "white chocolate melted"
+        },
+        {
+          "amount": "45",
+          "unit": "g",
+          "ingredient": "tahini"
+        },
+        {
+          "amount": "125",
+          "unit": "g",
+          "ingredient": "icing sugar sifted"
+        },
+        {
+          "amount": "1",
+          "unit": "tbsp",
+          "ingredient": "milk"
+        }
+      ]
+    },
+    {
+      "name": "Helena Busiakiewicz",
+      "ingredients": [
+        {
+          "amount": "250",
+          "unit": "g",
+          "ingredient": "salted butter cubed"
+        },
+        {
+          "amount": "125",
+          "unit": "g",
+          "ingredient": "walnuts"
+        },
+        {
+          "amount": "100",
+          "unit": "g",
+          "ingredient": "golden caster sugar"
+        },
+        {
+          "amount": "175",
+          "unit": "g",
+          "ingredient": "soft light brown sugar"
+        },
+        {
+          "amount": "2",
+          "unit": "egg",
+          "ingredient": "s"
+        },
+        {
+          "amount": "2",
+          "unit": "tsp",
+          "ingredient": "vanilla extract"
+        },
+        {
+          "amount": "300",
+          "unit": "g",
+          "ingredient": "plain flour"
+        },
+        {
+          "amount": "1",
+          "unit": "tsp",
+          "ingredient": "bicarbonate of soda"
+        },
+        {
+          "amount": "125",
+          "unit": "g",
+          "ingredient": "caramelised white chocolate roughly chopped into chunks"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "sea salt flakes for sprinkling"
+        }
+      ]
+    },
+    {
+      "name": "Amanda James",
+      "ingredients": [
+        {
+          "amount": "1",
+          "unit": "eg",
+          "ingredient": "g"
+        },
+        {
+          "amount": "230",
+          "unit": "g",
+          "ingredient": "golden caster sugar"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "\u00bd tsp vanilla extract"
+        },
+        {
+          "amount": "1",
+          "unit": "tsp",
+          "ingredient": "sea salt plus extra to sprinkle on top"
+        },
+        {
+          "amount": "200",
+          "unit": "g",
+          "ingredient": "smooth peanut butter"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "a handful roasted peanuts chopped"
+        }
+      ]
+    },
+    {
+      "name": "Gurdeep Loyal",
+      "ingredients": [
+        {
+          "amount": "120",
+          "unit": "g",
+          "ingredient": "unsalted butter softened"
+        },
+        {
+          "amount": "125",
+          "unit": "g",
+          "ingredient": "granulated sugar plus 50g for rolling"
+        },
+        {
+          "amount": "100",
+          "unit": "g",
+          "ingredient": "soft light brown sugar"
+        },
+        {
+          "amount": "1",
+          "unit": "medium",
+          "ingredient": "egg"
+        },
+        {
+          "amount": "1",
+          "unit": "egg",
+          "ingredient": "yolk"
+        },
+        {
+          "amount": "2",
+          "unit": "tsp",
+          "ingredient": "pandan paste or pandan leaf extract"
+        },
+        {
+          "amount": "285",
+          "unit": "g",
+          "ingredient": "plain flour"
+        },
+        {
+          "amount": "1",
+          "unit": "tsp",
+          "ingredient": "baking powder"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "\u00bd tsp bicarbonate of soda"
+        },
+        {
+          "amount": "90",
+          "unit": "g",
+          "ingredient": "white chocolate chopped into small chunks"
+        },
+        {
+          "amount": "50",
+          "unit": "g",
+          "ingredient": "icing sugar for rolling"
+        }
+      ]
+    },
+    {
+      "name": "Edd Kimber",
+      "ingredients": [
+        {
+          "amount": "120",
+          "unit": "g",
+          "ingredient": "pistachio cream"
+        },
+        {
+          "amount": "250",
+          "unit": "g",
+          "ingredient": "plain flour"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "\u00bd tsp baking powder"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "\u00bd tsp bicarbonate of soda"
+        },
+        {
+          "amount": "115",
+          "unit": "g",
+          "ingredient": "unsalted butter diced and softened"
+        },
+        {
+          "amount": "110",
+          "unit": "g",
+          "ingredient": "light brown sugar"
+        },
+        {
+          "amount": "110",
+          "unit": "g",
+          "ingredient": "caster sugar"
+        },
+        {
+          "amount": "1",
+          "unit": "large",
+          "ingredient": "egg"
+        },
+        {
+          "amount": "1",
+          "unit": "tsp",
+          "ingredient": "vanilla extract"
+        },
+        {
+          "amount": "175",
+          "unit": "g",
+          "ingredient": "dark chocolate (65-75% cocoa solids) roughly chopped"
+        },
+        {
+          "amount": "75",
+          "unit": "g",
+          "ingredient": "shelled pistachios roughly chopped"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "sea salt flakes for sprinkling on top"
+        }
+      ]
+    },
+    {
+      "name": "Katerina Nitsou",
+      "ingredients": [
+        {
+          "amount": "5",
+          "unit": "egg",
+          "ingredient": "s"
+        },
+        {
+          "amount": "120",
+          "unit": "ml",
+          "ingredient": "whole milk"
+        },
+        {
+          "amount": "120",
+          "unit": "ml",
+          "ingredient": "vegetable oil plus extra for the baking sheets"
+        },
+        {
+          "amount": "250",
+          "unit": "g",
+          "ingredient": "caster sugar"
+        },
+        {
+          "amount": "1",
+          "unit": "tbsp",
+          "ingredient": "baking powder"
+        },
+        {
+          "amount": "4",
+          "unit": "tbsp",
+          "ingredient": "freshly squeezed orange juice"
+        },
+        {
+          "amount": "700",
+          "unit": "g",
+          "ingredient": "plain flour sifted, plus extra for dusting"
+        },
+        {
+          "amount": "40",
+          "unit": "g",
+          "ingredient": "sesame seeds"
+        }
+      ]
+    },
+    {
+      "name": "Chocolate chip cookies",
+      "ingredients": [
+        {
+          "amount": "150",
+          "unit": "g",
+          "ingredient": "salted butter melted"
+        },
+        {
+          "amount": "75",
+          "unit": "g",
+          "ingredient": "soft dark brown sugar"
+        },
+        {
+          "amount": "75",
+          "unit": "g",
+          "ingredient": "caster sugar"
+        },
+        {
+          "amount": "1",
+          "unit": "eg",
+          "ingredient": "g"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "\u00bd tsp vanilla extract"
+        },
+        {
+          "amount": "100",
+          "unit": "g",
+          "ingredient": "plain flour"
+        },
+        {
+          "amount": "100",
+          "unit": "g",
+          "ingredient": "strong white bread flour"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "\u00bd tsp baking powder"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "a pinch sea salt flakes plus extra to serve"
+        },
+        {
+          "amount": "100",
+          "unit": "g",
+          "ingredient": "dark chocolate chopped into small chunks"
+        }
+      ]
+    },
+    {
+      "name": "Adam Bush",
+      "ingredients": [
+        {
+          "amount": "1",
+          "unit": "egg",
+          "ingredient": "beaten"
+        },
+        {
+          "amount": "50",
+          "unit": "g",
+          "ingredient": "butter melted"
+        },
+        {
+          "amount": "3",
+          "unit": "tbsp",
+          "ingredient": "soft light brown sugar"
+        },
+        {
+          "amount": "1",
+          "unit": "tbsp",
+          "ingredient": "maple syrup"
+        },
+        {
+          "amount": "50",
+          "unit": "g",
+          "ingredient": "wholemeal flour"
+        },
+        {
+          "amount": "100",
+          "unit": "g",
+          "ingredient": "jumbo porridge oats"
+        },
+        {
+          "amount": "1",
+          "unit": "tsp",
+          "ingredient": "baking powder"
+        },
+        {
+          "amount": "50",
+          "unit": "g",
+          "ingredient": "raisins"
+        },
+        {
+          "amount": "50",
+          "unit": "g",
+          "ingredient": "dates chopped"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "a good pinch mixed spice"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "a good pinch ground cinnamon"
+        }
+      ]
+    },
+    {
+      "name": "Halva cookies",
+      "ingredients": [
+        {
+          "amount": "100",
+          "unit": "g",
+          "ingredient": "unsalted butter softened"
+        },
+        {
+          "amount": "85",
+          "unit": "g",
+          "ingredient": "caster sugar"
+        },
+        {
+          "amount": "85",
+          "unit": "g",
+          "ingredient": "tahini"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "\u00bd tsp vanilla extract"
+        },
+        {
+          "amount": "1",
+          "unit": "tsp",
+          "ingredient": "baking powder"
+        },
+        {
+          "amount": "150",
+          "unit": "g",
+          "ingredient": "plain flour"
+        }
+      ]
+    },
+    {
+      "name": "Anna Glover",
+      "ingredients": [
+        {
+          "amount": "100",
+          "unit": "g",
+          "ingredient": "smooth peanut butter plus 3 tbsp extra for the tops"
+        },
+        {
+          "amount": "2",
+          "unit": "egg",
+          "ingredient": "s"
+        },
+        {
+          "amount": "100",
+          "unit": "g",
+          "ingredient": "golden caster sugar"
+        },
+        {
+          "amount": "1",
+          "unit": "tsp",
+          "ingredient": "vanilla extract"
+        },
+        {
+          "amount": "260",
+          "unit": "g",
+          "ingredient": "plain flour"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "a pinch baking powder"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "\u00bd jar seedless raspberry or strawberry jam"
+        }
+      ]
+    },
+    {
+      "name": "Vegan chocolate cookies",
+      "ingredients": [
+        {
+          "amount": "125",
+          "unit": "g",
+          "ingredient": "plain flour"
+        },
+        {
+          "amount": "4",
+          "unit": "tbsp",
+          "ingredient": "cocoa powder"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "\u00bd tsp baking powder"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "\u00bc tsp bicarbonate of soda"
+        },
+        {
+          "amount": "100",
+          "unit": "g",
+          "ingredient": "demerara sugar"
+        },
+        {
+          "amount": "100",
+          "unit": "g",
+          "ingredient": "dark chocolate chips or chopped dark chocolate"
+        },
+        {
+          "amount": "75",
+          "unit": "g",
+          "ingredient": "coconut oil melted and cooled"
+        },
+        {
+          "amount": "1",
+          "unit": "tsp",
+          "ingredient": "vanilla paste or extract"
+        }
+      ]
+    },
+    {
+      "name": "Adam Bush",
+      "ingredients": [
+        {
+          "amount": "200",
+          "unit": "g",
+          "ingredient": "salted butter softened"
+        },
+        {
+          "amount": "125",
+          "unit": "g",
+          "ingredient": "soft dark brown sugar"
+        },
+        {
+          "amount": "125",
+          "unit": "g",
+          "ingredient": "caster sugar"
+        },
+        {
+          "amount": "1",
+          "unit": "eg",
+          "ingredient": "g"
+        },
+        {
+          "amount": "1",
+          "unit": "",
+          "ingredient": "\u20442 tsp vanilla extract"
+        },
+        {
+          "amount": "100",
+          "unit": "g",
+          "ingredient": "sourdough starter"
+        },
+        {
+          "amount": "125",
+          "unit": "g",
+          "ingredient": "plain flour"
+        },
+        {
+          "amount": "125",
+          "unit": "g",
+          "ingredient": "wholemeal rye flour"
+        },
+        {
+          "amount": "1",
+          "unit": "",
+          "ingredient": "\u20442 tsp baking powder"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "a pinch sea salt flakes plus extra to serve"
+        },
+        {
+          "amount": "150",
+          "unit": "g",
+          "ingredient": "dark chocolate chopped into chunks"
+        }
+      ]
+    },
+    {
+      "name": "Edd Kimber",
+      "ingredients": [
+        {
+          "amount": "300",
+          "unit": "g",
+          "ingredient": "plain flour"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "\u00bd tsp bicarbonate of soda"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "a pinch sea salt"
+        },
+        {
+          "amount": "200",
+          "unit": "g",
+          "ingredient": "unsalted butter softened"
+        },
+        {
+          "amount": "100",
+          "unit": "g",
+          "ingredient": "soft light brown sugar softened"
+        },
+        {
+          "amount": "150",
+          "unit": "g",
+          "ingredient": "caster sugar"
+        },
+        {
+          "amount": "85",
+          "unit": "g",
+          "ingredient": "crystalised stem ginger roughly chopped"
+        },
+        {
+          "amount": "150",
+          "unit": "g",
+          "ingredient": "(minimum 30% cocoa butter content) white chocolate chopped"
+        },
+        {
+          "amount": "125",
+          "unit": "ml",
+          "ingredient": "double cream"
+        }
+      ]
+    },
+    {
+      "name": "Chocolate, meringue and walnut cookies",
+      "ingredients": [
+        {
+          "amount": "125",
+          "unit": "g",
+          "ingredient": "butter very soft"
+        },
+        {
+          "amount": "100",
+          "unit": "g",
+          "ingredient": "golden caster sugar"
+        },
+        {
+          "amount": "50",
+          "unit": "g",
+          "ingredient": "soft light brown sugar"
+        },
+        {
+          "amount": "1",
+          "unit": "",
+          "ingredient": "1/2 tsp vanilla extract"
+        },
+        {
+          "amount": "1",
+          "unit": "large",
+          "ingredient": "egg"
+        },
+        {
+          "amount": "50",
+          "unit": "g",
+          "ingredient": "white chocolate melted"
+        },
+        {
+          "amount": "175",
+          "unit": "g",
+          "ingredient": "plain flour"
+        },
+        {
+          "amount": "1",
+          "unit": "",
+          "ingredient": "/2 tsp bicarbonate of soda"
+        },
+        {
+          "amount": "75",
+          "unit": "g",
+          "ingredient": "dark chocolate chunks or chips"
+        },
+        {
+          "amount": "50",
+          "unit": "g",
+          "ingredient": "walnuts roughly chopped"
+        },
+        {
+          "amount": "25",
+          "unit": "g",
+          "ingredient": "freeze-dried raspberry bits"
+        },
+        {
+          "amount": "25",
+          "unit": "g",
+          "ingredient": "mini meringues chopped into small chunks"
+        }
+      ]
+    },
+    {
+      "name": "Nadine Brown",
+      "ingredients": [
+        {
+          "amount": "250",
+          "unit": "g",
+          "ingredient": "muesli (no added sugar)"
+        },
+        {
+          "amount": "75",
+          "unit": "g",
+          "ingredient": "self-raising wholemeal flour"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "\u00bd tsp mixed spice"
+        },
+        {
+          "amount": "70",
+          "unit": "ml",
+          "ingredient": "cold-pressed rapeseed oil"
+        },
+        {
+          "amount": "100",
+          "unit": "g",
+          "ingredient": "runny honey"
+        },
+        {
+          "amount": "1",
+          "unit": "large",
+          "ingredient": "egg"
+        }
+      ]
+    },
+    {
+      "name": "Sarah Cook",
+      "ingredients": [
+        {
+          "amount": "225",
+          "unit": "g",
+          "ingredient": "unsalted butter"
+        },
+        {
+          "amount": "50",
+          "unit": "g",
+          "ingredient": "tahini"
+        },
+        {
+          "amount": "225",
+          "unit": "g",
+          "ingredient": "good-quality white chocolate"
+        },
+        {
+          "amount": "300",
+          "unit": "g",
+          "ingredient": "plain flour"
+        },
+        {
+          "amount": "2",
+          "unit": "tbsp",
+          "ingredient": "toasted sesame seeds plus a little to decorate"
+        },
+        {
+          "amount": "1",
+          "unit": "tsp",
+          "ingredient": "bicarbonate of soda"
+        },
+        {
+          "amount": "2",
+          "unit": "pinches",
+          "ingredient": "ground cinnamon"
+        },
+        {
+          "amount": "200",
+          "unit": "g",
+          "ingredient": "soft light brown sugar"
+        },
+        {
+          "amount": "100",
+          "unit": "g",
+          "ingredient": "golden caster sugar"
+        },
+        {
+          "amount": "2",
+          "unit": "large",
+          "ingredient": "eggs"
+        },
+        {
+          "amount": "2",
+          "unit": "tsp",
+          "ingredient": "vanilla extract"
+        },
+        {
+          "amount": "85",
+          "unit": "g",
+          "ingredient": "pretzels roughly broken into shards"
+        }
+      ]
+    },
+    {
+      "name": "Caramelised white chocolate cookies",
+      "ingredients": [
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "(30% cocoa butter or higher) 100g white chocolate roughly chopped"
+        },
+        {
+          "amount": "150",
+          "unit": "g",
+          "ingredient": "butter at room temperature"
+        },
+        {
+          "amount": "100",
+          "unit": "g",
+          "ingredient": "golden caster sugar"
+        },
+        {
+          "amount": "50",
+          "unit": "g",
+          "ingredient": "light muscovado sugar"
+        },
+        {
+          "amount": "1",
+          "unit": "eg",
+          "ingredient": "g"
+        },
+        {
+          "amount": "1",
+          "unit": "tsp",
+          "ingredient": "vanilla extract"
+        },
+        {
+          "amount": "1",
+          "unit": "tbsp",
+          "ingredient": "milk"
+        },
+        {
+          "amount": "220",
+          "unit": "g",
+          "ingredient": "self-raising flour"
+        }
+      ]
+    },
+    {
+      "name": "How to make: Nutella cookies with walnut and sea salt",
+      "ingredients": [
+        {
+          "amount": "150",
+          "unit": "g",
+          "ingredient": "unsalted butter at room temperature"
+        },
+        {
+          "amount": "50",
+          "unit": "g",
+          "ingredient": "caster sugar"
+        },
+        {
+          "amount": "125",
+          "unit": "g",
+          "ingredient": "soft light brown sugar"
+        },
+        {
+          "amount": "150",
+          "unit": "g",
+          "ingredient": "Nutella"
+        },
+        {
+          "amount": "1",
+          "unit": "large",
+          "ingredient": "egg"
+        },
+        {
+          "amount": "1",
+          "unit": "tsp",
+          "ingredient": "vanilla extract or paste"
+        },
+        {
+          "amount": "175",
+          "unit": "g",
+          "ingredient": "plain flour"
+        },
+        {
+          "amount": "50",
+          "unit": "g",
+          "ingredient": "malted milk powder (such as Horlicks)"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "\u00bd tsp bicarbonate of soda"
+        },
+        {
+          "amount": "1",
+          "unit": "tsp",
+          "ingredient": "sea salt flakes plus extra to serve"
+        },
+        {
+          "amount": "75",
+          "unit": "g",
+          "ingredient": "walnuts roughly chopped"
+        },
+        {
+          "amount": "75",
+          "unit": "g",
+          "ingredient": "dark chocolate with sea salt chopped into small chunks"
+        }
+      ]
+    },
+    {
+      "name": "Janine Ratcliffe",
+      "ingredients": [
+        {
+          "amount": "150",
+          "unit": "g",
+          "ingredient": "70% dark chocolate chopped into chunks"
+        },
+        {
+          "amount": "100",
+          "unit": "ml",
+          "ingredient": "olive oil"
+        },
+        {
+          "amount": "50",
+          "unit": "g",
+          "ingredient": "light muscovado sugar"
+        },
+        {
+          "amount": "85",
+          "unit": "g",
+          "ingredient": "golden caster sugar"
+        },
+        {
+          "amount": "1",
+          "unit": "egg",
+          "ingredient": "beaten"
+        },
+        {
+          "amount": "200",
+          "unit": "g",
+          "ingredient": "plain flour"
+        },
+        {
+          "amount": "1",
+          "unit": "tsp",
+          "ingredient": "bicarbonate of soda"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "sea salt flakes"
+        }
+      ]
+    },
+    {
+      "name": "Edd Kimber",
+      "ingredients": [
+        {
+          "amount": "350",
+          "unit": "g",
+          "ingredient": "plain flour"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "\u00bd tsp baking powder"
+        },
+        {
+          "amount": "1",
+          "unit": "tsp",
+          "ingredient": "bicarbonate of soda"
+        },
+        {
+          "amount": "225",
+          "unit": "g",
+          "ingredient": "unsalted butter"
+        },
+        {
+          "amount": "300",
+          "unit": "g",
+          "ingredient": "caster sugar"
+        },
+        {
+          "amount": "1",
+          "unit": "lemon",
+          "ingredient": "zested"
+        },
+        {
+          "amount": "2",
+          "unit": "eggs",
+          "ingredient": "large"
+        },
+        {
+          "amount": "1",
+          "unit": "tsp",
+          "ingredient": "vanilla extract"
+        },
+        {
+          "amount": "150",
+          "unit": "g",
+          "ingredient": "dried cranberries"
+        },
+        {
+          "amount": "200",
+          "unit": "ml",
+          "ingredient": "whole milk"
+        },
+        {
+          "amount": "75",
+          "unit": "g",
+          "ingredient": ", plus 50g for decoration pistachios finely chopped"
+        },
+        {
+          "amount": "1",
+          "unit": "tsp",
+          "ingredient": "vanilla bean paste"
+        },
+        {
+          "amount": "175",
+          "unit": "g",
+          "ingredient": "unsalted butter softened"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "a few drops green food colouring (optional)"
+        }
+      ]
+    },
+    {
+      "name": "chipotle chocolate crinkle cookies",
+      "ingredients": [
+        {
+          "amount": "1/4",
+          "unit": "cup",
+          "ingredient": "all-purpose flour"
+        },
+        {
+          "amount": "1/4",
+          "unit": "teaspoon",
+          "ingredient": "baking powder"
+        },
+        {
+          "amount": "1/4",
+          "unit": "teaspoon",
+          "ingredient": "salt"
+        },
+        {
+          "amount": "2",
+          "unit": "large",
+          "ingredient": "eggs"
+        },
+        {
+          "amount": "2/3",
+          "unit": "cup",
+          "ingredient": "granulated sugar"
+        },
+        {
+          "amount": "1 1/4",
+          "unit": "teaspoon",
+          "ingredient": "pure Mexican vanilla extract"
+        },
+        {
+          "amount": "2",
+          "unit": "tablespoon",
+          "ingredient": "unsalted butter"
+        },
+        {
+          "amount": "5",
+          "unit": "ounce",
+          "ingredient": "extra-bittersweet chocolate, chopped"
+        },
+        {
+          "amount": "2",
+          "unit": "ounce",
+          "ingredient": "unsweetened chocolate, chopped"
+        },
+        {
+          "amount": "4",
+          "unit": "ounce",
+          "ingredient": "mini chocolate chips or bittersweet chocolate, finely chopped"
+        },
+        {
+          "amount": "1 1/2",
+          "unit": "tablespoon",
+          "ingredient": "chipotle chile paste (recipe below)"
+        },
+        {
+          "amount": "6",
+          "unit": "medium",
+          "ingredient": "chipotle chiles (for chipotle paste\u2014see note) (1 ounce, or 28g)"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "Confectioner's sugar"
+        }
+      ]
+    },
+    {
+      "name": "chai spice snickerdoodle recipe",
+      "ingredients": [
+        {
+          "amount": "1/4",
+          "unit": "cup",
+          "ingredient": "granulated sugar"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "ginger powder, ground"
+        },
+        {
+          "amount": "1 1/2",
+          "unit": "teaspoon",
+          "ingredient": "cardamom, freshly ground"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "cinnamon, freshly ground"
+        },
+        {
+          "amount": "1",
+          "unit": "pinch",
+          "ingredient": "cloves, freshly ground"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "canola oil"
+        },
+        {
+          "amount": "1/4",
+          "unit": "cup",
+          "ingredient": "pure maple syrup"
+        },
+        {
+          "amount": "3",
+          "unit": "tablespoon",
+          "ingredient": "whole milk"
+        },
+        {
+          "amount": "2",
+          "unit": "teaspoon",
+          "ingredient": "pure vanilla extract"
+        },
+        {
+          "amount": "2",
+          "unit": "cup",
+          "ingredient": "flour"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "baking soda"
+        },
+        {
+          "amount": "1/4",
+          "unit": "teaspoon",
+          "ingredient": "salt"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "cinnamon, ground"
+        }
+      ]
+    },
+    {
+      "name": "mm cookies recipe",
+      "ingredients": [
+        {
+          "amount": "2 3/4",
+          "unit": "cup",
+          "ingredient": "all-purpose flour"
+        },
+        {
+          "amount": "1 1/4",
+          "unit": "teaspoon",
+          "ingredient": "baking soda"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "baking powder"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "kosher salt"
+        },
+        {
+          "amount": "1 3/4",
+          "unit": "sticks",
+          "ingredient": "unsalted butter, room temperature"
+        },
+        {
+          "amount": "3/4",
+          "unit": "cup",
+          "ingredient": "light brown sugar"
+        },
+        {
+          "amount": "3/4",
+          "unit": "cup",
+          "ingredient": "granulated sugar"
+        },
+        {
+          "amount": "1",
+          "unit": "tablespoon",
+          "ingredient": "pure vanilla extract"
+        },
+        {
+          "amount": "1",
+          "unit": "large",
+          "ingredient": "egg"
+        },
+        {
+          "amount": "1 1/4",
+          "unit": "cup",
+          "ingredient": "M&Ms, or other candy-coated chocolate pieces"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "Flaky salt, for finishing"
+        }
+      ]
+    },
+    {
+      "name": "blueberry pecan oat thumbprint cookies",
+      "ingredients": [
+        {
+          "amount": "7",
+          "unit": "tablespoon",
+          "ingredient": "unsalted butter, melted"
+        },
+        {
+          "amount": "3/4",
+          "unit": "cup",
+          "ingredient": "packed dark brown sugar"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "kosher salt"
+        },
+        {
+          "amount": "1/4",
+          "unit": "teaspoon",
+          "ingredient": "baking soda"
+        },
+        {
+          "amount": "1",
+          "unit": "large",
+          "ingredient": "egg yolk"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "vanilla extract"
+        },
+        {
+          "amount": "3/4",
+          "unit": "cup",
+          "ingredient": "natural unsweetened pecan butter, at room temperature"
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "all-purpose flour"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "Old-fashioned rolled oats"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "Blueberry preserves"
+        }
+      ]
+    },
+    {
+      "name": "spritz butter christmas cookies",
+      "ingredients": [
+        {
+          "amount": "2",
+          "unit": "sticks",
+          "ingredient": "unsalted butter, room temperature"
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "granulated sugar"
+        },
+        {
+          "amount": "1",
+          "unit": "large",
+          "ingredient": "egg"
+        },
+        {
+          "amount": "2 1/2",
+          "unit": "teaspoon",
+          "ingredient": "vanilla extract"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "Green food coloring (liquid or gel)"
+        },
+        {
+          "amount": "2 1/2",
+          "unit": "cup",
+          "ingredient": "all-purpose flour"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "kosher salt"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "Sprinkles or colored sugar, for decorating"
+        }
+      ]
+    },
+    {
+      "name": "parisian macarons",
+      "ingredients": [
+        {
+          "amount": "2",
+          "unit": "cup",
+          "ingredient": "almond flour (made from blanched almonds)"
+        },
+        {
+          "amount": "1 2/3",
+          "unit": "cup",
+          "ingredient": "confectioners' sugar"
+        },
+        {
+          "amount": "5",
+          "unit": "large",
+          "ingredient": "egg whites (150 milliliters), at room temperature"
+        },
+        {
+          "amount": "1",
+          "unit": "drop",
+          "ingredient": "food coloring (optional)"
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "sugar"
+        },
+        {
+          "amount": "1/4",
+          "unit": "cup",
+          "ingredient": "water"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "Choice of filling: chocolate ganache, white chocolate ganache, salted caramel filling, or jam"
+        }
+      ]
+    },
+    {
+      "name": "caramelized white chocolate cookies recipe",
+      "ingredients": [
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "white chocolate morsels"
+        },
+        {
+          "amount": "3/4",
+          "unit": "cup",
+          "ingredient": "instant nonfat dry milk powder"
+        },
+        {
+          "amount": "3/4",
+          "unit": "cup",
+          "ingredient": "bread flour"
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "cake flour"
+        },
+        {
+          "amount": "3/4",
+          "unit": "teaspoon",
+          "ingredient": "baking powder"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "baking soda"
+        },
+        {
+          "amount": "3/4",
+          "unit": "teaspoon",
+          "ingredient": "kosher salt"
+        },
+        {
+          "amount": "3/4",
+          "unit": "cup",
+          "ingredient": "unsalted butter, softened"
+        },
+        {
+          "amount": "1/3",
+          "unit": "cup",
+          "ingredient": "granulated sugar"
+        },
+        {
+          "amount": "1/4",
+          "unit": "cup",
+          "ingredient": "light brown sugar"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "jaggery powder or dark brown sugar"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "cardamom seeds, finely ground"
+        },
+        {
+          "amount": "2",
+          "unit": "large",
+          "ingredient": "eggs"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "pure vanilla extract"
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "slivered almonds"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "chopped unsalted shelled pistachios"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "flaky salt, for sprinkling"
+        }
+      ]
+    },
+    {
+      "name": "dorie greenspan s do almost anything vanilla cookie dough",
+      "ingredients": [
+        {
+          "amount": "1",
+          "unit": "pound",
+          "ingredient": "unsalted butter, cut into chunks, at room temperature"
+        },
+        {
+          "amount": "1 1/3",
+          "unit": "cup",
+          "ingredient": "sugar"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "fine sea salt"
+        },
+        {
+          "amount": "2",
+          "unit": "large",
+          "ingredient": "egg whites, at room temperature"
+        },
+        {
+          "amount": "1",
+          "unit": "tablespoon",
+          "ingredient": "pure vanilla extract"
+        },
+        {
+          "amount": "4",
+          "unit": "cup",
+          "ingredient": "all-purpose flour"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "Sanding sugar, for sprinkling (optional)"
+        }
+      ]
+    },
+    {
+      "name": "salted chocolate buckwheat cookie",
+      "ingredients": [
+        {
+          "amount": "2",
+          "unit": "cup",
+          "ingredient": "buckwheat flour, plus more for surface"
+        },
+        {
+          "amount": "1/3",
+          "unit": "cup",
+          "ingredient": "unsweetened cocoa powder"
+        },
+        {
+          "amount": "1",
+          "unit": "tablespoon",
+          "ingredient": "baking powder"
+        },
+        {
+          "amount": "1 1/2",
+          "unit": "cup",
+          "ingredient": "light brown sugar"
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "unsalted butter, room temperature"
+        },
+        {
+          "amount": "1 1/4",
+          "unit": "cup",
+          "ingredient": "chocolate chips"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "strong espresso or strong coffee, room temperature"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "Powdered sugar (for sprinkling)"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "Sea salt (preferably Maldon; for sprinkling)"
+        }
+      ]
+    },
+    {
+      "name": "buttermilk chocolate chip cookies",
+      "ingredients": [
+        {
+          "amount": "3",
+          "unit": "cup",
+          "ingredient": "all-purpose flour"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "baking soda"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "salt"
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "butter, room temperature"
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "dark brown sugar"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "sugar"
+        },
+        {
+          "amount": "1",
+          "unit": "eg",
+          "ingredient": "g"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "buttermilk"
+        },
+        {
+          "amount": "2",
+          "unit": "cup",
+          "ingredient": "chocolate chunks (I like a mixture of milk and dark chocolate)"
+        }
+      ]
+    },
+    {
+      "name": "homemade thin mint inspired cookies",
+      "ingredients": [
+        {
+          "amount": "1 3/4",
+          "unit": "cup",
+          "ingredient": "flour"
+        },
+        {
+          "amount": "3/4",
+          "unit": "cup",
+          "ingredient": "unsweetened cocoa powder"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "baking soda"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "salt"
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "unsalted butter, at room temperature"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "sugar"
+        },
+        {
+          "amount": "2",
+          "unit": "teaspoon",
+          "ingredient": "peppermint extract"
+        },
+        {
+          "amount": "12",
+          "unit": "ounce",
+          "ingredient": "dark chocolate, chopped"
+        },
+        {
+          "amount": "1",
+          "unit": "to",
+          "ingredient": "2 teaspoon peppermint extract (or more/less depending on your taste)"
+        }
+      ]
+    },
+    {
+      "name": "best apple pie cookies recipe",
+      "ingredients": [
+        {
+          "amount": "1 1/2",
+          "unit": "cup",
+          "ingredient": "all-purpose flour"
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "spelt flour"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "granulated sugar"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "kosher salt"
+        },
+        {
+          "amount": "1/4",
+          "unit": "teaspoon",
+          "ingredient": "ground cayenne"
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "unsalted butter, cubed, frozen for 15 minutes"
+        },
+        {
+          "amount": "1/4",
+          "unit": "cup",
+          "ingredient": "apple cider vinegar"
+        },
+        {
+          "amount": "1/4",
+          "unit": "cup",
+          "ingredient": "ice water"
+        },
+        {
+          "amount": "3",
+          "unit": "tablespoon",
+          "ingredient": "unsalted butter"
+        },
+        {
+          "amount": "3",
+          "unit": "small",
+          "ingredient": "crisp, tart apples (such as Braeburn, Stayman Winesap, or Granny Smith)"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "ground cinnamon"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "ground ginger"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "freshly grated nutmeg"
+        },
+        {
+          "amount": "3",
+          "unit": "tablespoon",
+          "ingredient": "tightly packed brown sugar"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "Zest from 1 lemon"
+        },
+        {
+          "amount": "1",
+          "unit": "tablespoon",
+          "ingredient": "freshly squeezed lemon juice"
+        },
+        {
+          "amount": "2",
+          "unit": "dash",
+          "ingredient": "angostura bitters"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "cornstarch"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "Buttermilk (or milk or cream), for brushing"
+        },
+        {
+          "amount": "1/4",
+          "unit": "cup",
+          "ingredient": "Demerara sugar, for sprinkling"
+        }
+      ]
+    },
+    {
+      "name": "ovenly s secretly vegan salted chocolate chip cookies",
+      "ingredients": [
+        {
+          "amount": "2",
+          "unit": "cup",
+          "ingredient": "all-purpose flour"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "baking powder"
+        },
+        {
+          "amount": "3/4",
+          "unit": "teaspoon",
+          "ingredient": "baking soda"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "fine salt"
+        },
+        {
+          "amount": "1 1/4",
+          "unit": "cup",
+          "ingredient": "dark chocolate chips (we prefer chocolate with 60 percent cocoa content or higher\u2014double-check the ingredients if you want to make sure they're vegan)"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "sugar"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "packed light or dark brown sugar (note: on photo shoot day, we used an especially dark vegan brown sugar)"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "plus 1 tablespoon canola, grapeseed, or any other neutral oil"
+        },
+        {
+          "amount": "1/4",
+          "unit": "cup",
+          "ingredient": "plus 1 tablespoon water"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "Coarse-grained sea salt or flaky sea salt like Maldon, for garnish"
+        }
+      ]
+    },
+    {
+      "name": "almond biscotti recipe",
+      "ingredients": [
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "whole, unblanched almonds"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "Butter, for baking sheet"
+        },
+        {
+          "amount": "2",
+          "unit": "cup",
+          "ingredient": "unbleached all-purpose flour, more for baking sheet"
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "granulated sugar"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "baking soda"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "fine sea salt"
+        },
+        {
+          "amount": "3",
+          "unit": "large",
+          "ingredient": "eggs"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "pure vanilla extract (optional)"
+        }
+      ]
+    },
+    {
+      "name": "kristens genius family banana bread recipe",
+      "ingredients": [
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "unsalted butter, melted, plus more for buttering the pans"
+        },
+        {
+          "amount": "6",
+          "unit": "very",
+          "ingredient": "ripe large bananas (frozen and thawed work great)"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "1\u00be cup (350 grams) granulated sugar"
+        },
+        {
+          "amount": "4",
+          "unit": "large",
+          "ingredient": "eggs"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "2\u00bd cup (315 grams) all-purpose flour"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "fine sea salt"
+        },
+        {
+          "amount": "2",
+          "unit": "teaspoon",
+          "ingredient": "baking soda"
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "chopped dark chocolate or chocolate chips (optional)"
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "chopped nuts, such as walnuts or pecans (optional)"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "Turbinado or other sugar for sprinkling on top (optional)"
+        }
+      ]
+    },
+    {
+      "name": "pierre herme dorie greenspan s world peace cookies",
+      "ingredients": [
+        {
+          "amount": "1 1/4",
+          "unit": "cup",
+          "ingredient": "all-purpose flour (see note)"
+        },
+        {
+          "amount": "1/3",
+          "unit": "cup",
+          "ingredient": "unsweetened cocoa powder (see note)"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "baking soda"
+        },
+        {
+          "amount": "1",
+          "unit": "stick",
+          "ingredient": "plus 3 tablespoons (150 grams) unsalted butter, room temperature"
+        },
+        {
+          "amount": "2/3",
+          "unit": "cup",
+          "ingredient": "packed light brown sugar"
+        },
+        {
+          "amount": "1/4",
+          "unit": "cup",
+          "ingredient": "granulated sugar"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "fleur del sel or 1/4 teaspoon fine sea salt"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "pure vanilla extract"
+        },
+        {
+          "amount": "5",
+          "unit": "ounce",
+          "ingredient": "bittersweet chocolate, chopped into chips (no pieces larger than 1/3 inch), or a generous 3/4 cup store-bought mini chocolate chips"
+        }
+      ]
+    },
+    {
+      "name": "soft yogurt cookies with raspberry glaze",
+      "ingredients": [
+        {
+          "amount": "2",
+          "unit": "cup",
+          "ingredient": "all-purpose flour"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "kosher salt"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "baking powder"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "unsalted butter, softened"
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "sugar"
+        },
+        {
+          "amount": "2",
+          "unit": "large",
+          "ingredient": "eggs"
+        },
+        {
+          "amount": "2",
+          "unit": "teaspoon",
+          "ingredient": "pure vanilla extract"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "plain whole-milk yogurt"
+        },
+        {
+          "amount": "1/4",
+          "unit": "cup",
+          "ingredient": "freeze-dried raspberries"
+        },
+        {
+          "amount": "1 1/2",
+          "unit": "cup",
+          "ingredient": "confectioners\u2019 sugar"
+        },
+        {
+          "amount": "1/8",
+          "unit": "teaspoon",
+          "ingredient": "almond extract"
+        },
+        {
+          "amount": "1",
+          "unit": "handful",
+          "ingredient": "rainbow sprinkles and/or crushed toasted pistachios, for decorating"
+        }
+      ]
+    },
+    {
+      "name": "olive oil sugar cookies",
+      "ingredients": [
+        {
+          "amount": "1/3",
+          "unit": "cup",
+          "ingredient": "shelled pistachios"
+        },
+        {
+          "amount": "2",
+          "unit": "cup",
+          "ingredient": "all-purpose flour"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "baking soda"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "salt"
+        },
+        {
+          "amount": "4",
+          "unit": "tablespoon",
+          "ingredient": "unsalted butter, room temperature"
+        },
+        {
+          "amount": "3/4",
+          "unit": "cup",
+          "ingredient": "granulated sugar"
+        },
+        {
+          "amount": "1/4",
+          "unit": "cup",
+          "ingredient": "confectioners' sugar"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "good-quality olive oil"
+        },
+        {
+          "amount": "1",
+          "unit": "large",
+          "ingredient": "egg"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "pure vanilla extract"
+        }
+      ]
+    },
+    {
+      "name": "bien cuit shortbread",
+      "ingredients": [
+        {
+          "amount": "302",
+          "unit": "gram",
+          "ingredient": "unsalted butter"
+        },
+        {
+          "amount": "93",
+          "unit": "gram",
+          "ingredient": "confectioners' sugar"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "3.5 gram kosher salt"
+        },
+        {
+          "amount": "302",
+          "unit": "gram",
+          "ingredient": "all-purpose flour"
+        },
+        {
+          "amount": "1/8",
+          "unit": "cup",
+          "ingredient": "regular or raw sugar, for sprinkling"
+        }
+      ]
+    },
+    {
+      "name": "danish butter cookie with currants recipe",
+      "ingredients": [
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "unsalted butter, room temperature"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "granulated sugar"
+        },
+        {
+          "amount": "1",
+          "unit": "large",
+          "ingredient": "egg, room temperature"
+        },
+        {
+          "amount": "1",
+          "unit": "tablespoon",
+          "ingredient": "finely grated lemon zest"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "pure vanilla extract"
+        },
+        {
+          "amount": "2",
+          "unit": "cup",
+          "ingredient": "all-purpose flour"
+        },
+        {
+          "amount": "5",
+          "unit": "ounce",
+          "ingredient": "dried currants"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "baking soda"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "kosher salt"
+        },
+        {
+          "amount": "1",
+          "unit": "handful",
+          "ingredient": "sanding sugar"
+        }
+      ]
+    },
+    {
+      "name": "italian rainbow cookies",
+      "ingredients": [
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "*For the Rainbow Cookies:*"
+        },
+        {
+          "amount": "3",
+          "unit": "large",
+          "ingredient": "eggs, separated"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "Kosher salt"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "granulated sugar, divided"
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "unsalted butter, at room temperature"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "1  (7-ounce) tube (198 grams) almond paste"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "vanilla extract"
+        },
+        {
+          "amount": "1/4",
+          "unit": "to",
+          "ingredient": "1/2  teaspoon almond extract (use less if you don't love a strong almond flavor)"
+        },
+        {
+          "amount": "2",
+          "unit": "cup",
+          "ingredient": "all-purpose flour"
+        },
+        {
+          "amount": "1/4",
+          "unit": "teaspoon",
+          "ingredient": "red food coloring"
+        },
+        {
+          "amount": "1/4",
+          "unit": "teaspoon",
+          "ingredient": "green food coloring"
+        },
+        {
+          "amount": "6",
+          "unit": "ounce",
+          "ingredient": "smooth apricot or raspberry jam (or 3 ounces/85 grams of each)"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "4\u00bd ounce (127 grams/\u00be cup) chopped bittersweet chocolate or chocolate chips (70% to 82% preferably)"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "Flaky sea salt"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "Rainbow or chocolate nonpareil sprinkles (optional)"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "*For the Crumb Topping:*"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "\u00be  cup (94 grams) all-purpose flour"
+        },
+        {
+          "amount": "3",
+          "unit": "tablespoon",
+          "ingredient": "light brown sugar"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "baking powder"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "ground cinnamon (optional)"
+        },
+        {
+          "amount": "4",
+          "unit": "tablespoon",
+          "ingredient": "unsalted butter, melted"
+        }
+      ]
+    },
+    {
+      "name": "miso peanut butter cookies black sesame chocolate recipe",
+      "ingredients": [
+        {
+          "amount": "2",
+          "unit": "cup",
+          "ingredient": "all-purpose flour"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "baking soda"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "baking powder"
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "dark brown sugar"
+        },
+        {
+          "amount": "3/4",
+          "unit": "cup",
+          "ingredient": "granulated sugar"
+        },
+        {
+          "amount": "12",
+          "unit": "tablespoon",
+          "ingredient": "unsalted butter, melted"
+        },
+        {
+          "amount": "1/3",
+          "unit": "cup",
+          "ingredient": "white miso"
+        },
+        {
+          "amount": "1/3",
+          "unit": "cup",
+          "ingredient": "sweetened crunchy peanut butter"
+        },
+        {
+          "amount": "1",
+          "unit": "large",
+          "ingredient": "egg, at room-temperature"
+        },
+        {
+          "amount": "1 1/2",
+          "unit": "teaspoon",
+          "ingredient": "vanilla extract"
+        },
+        {
+          "amount": "1 1/2",
+          "unit": "cup",
+          "ingredient": "dark chocolate chips"
+        },
+        {
+          "amount": "3/4",
+          "unit": "cup",
+          "ingredient": "black sesame seeds"
+        }
+      ]
+    },
+    {
+      "name": "vietnamese iced coffee cookies",
+      "ingredients": [
+        {
+          "amount": "1",
+          "unit": "tablespoon",
+          "ingredient": "very strong brewed coffee, with extra to use"
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "unsalted butter, at room temperature"
+        },
+        {
+          "amount": "1 1/4",
+          "unit": "cup",
+          "ingredient": "confectioners' sugar, divided"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "vanilla extract"
+        },
+        {
+          "amount": "1/4",
+          "unit": "teaspoon",
+          "ingredient": "salt"
+        },
+        {
+          "amount": "2",
+          "unit": "cup",
+          "ingredient": "all-purpose flour"
+        },
+        {
+          "amount": "2",
+          "unit": "tablespoon",
+          "ingredient": "coarsely ground coffee (I use a dark roast)"
+        },
+        {
+          "amount": "3",
+          "unit": "tablespoon",
+          "ingredient": "sweetened condensed milk"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "vanilla bean paste"
+        },
+        {
+          "amount": "1",
+          "unit": "tablespoon",
+          "ingredient": "whole milk"
+        },
+        {
+          "amount": "1",
+          "unit": "pinch",
+          "ingredient": "espresso powder"
+        }
+      ]
+    },
+    {
+      "name": "raspberry amaretti cookies recipe",
+      "ingredients": [
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "Unsalted butter, for greasing the baking sheets"
+        },
+        {
+          "amount": "4",
+          "unit": "large",
+          "ingredient": "egg whites"
+        },
+        {
+          "amount": "1 3/4",
+          "unit": "cup",
+          "ingredient": "granulated sugar"
+        },
+        {
+          "amount": "3 1/2",
+          "unit": "cup",
+          "ingredient": "almond meal"
+        },
+        {
+          "amount": "2/3",
+          "unit": "ounce",
+          "ingredient": "freeze-dried raspberries, blitzed to a powder"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "almond extract"
+        },
+        {
+          "amount": "20",
+          "unit": "small",
+          "ingredient": "fresh raspberries (or see headnote)"
+        },
+        {
+          "amount": "3/4",
+          "unit": "cup",
+          "ingredient": "\u00be cup (100 grams) confectioners\u2019 sugar"
+        }
+      ]
+    },
+    {
+      "name": "homemade samoa inspired cookies",
+      "ingredients": [
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "unsalted butter, room temperature"
+        },
+        {
+          "amount": "1/4",
+          "unit": "cup",
+          "ingredient": "sugar"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "vanilla extract"
+        },
+        {
+          "amount": "1/4",
+          "unit": "teaspoon",
+          "ingredient": "kosher salt"
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "all-purpose flour, plus more for rolling"
+        },
+        {
+          "amount": "2",
+          "unit": "cup",
+          "ingredient": "unsweetened shredded coconut"
+        },
+        {
+          "amount": "1/4",
+          "unit": "cup",
+          "ingredient": "water"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "whipping cream"
+        },
+        {
+          "amount": "1/4",
+          "unit": "teaspoon",
+          "ingredient": "salt"
+        },
+        {
+          "amount": "250",
+          "unit": "gram",
+          "ingredient": "finely chopped dark chocolate"
+        }
+      ]
+    },
+    {
+      "name": "chocolate chip cookies",
+      "ingredients": [
+        {
+          "amount": "2 1/8",
+          "unit": "cup",
+          "ingredient": "all-purpose flour"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "baking soda"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "kosher salt"
+        },
+        {
+          "amount": "1 1/2",
+          "unit": "cup",
+          "ingredient": "regular semisweet chocolate chips"
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "large bittersweet chocolate chips"
+        },
+        {
+          "amount": "1 1/2",
+          "unit": "cup",
+          "ingredient": "walnuts, finely chopped"
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "unsalted butter, room temperature"
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "light or dark brown sugar, tightly packed"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "white sugar"
+        },
+        {
+          "amount": "2",
+          "unit": "egg",
+          "ingredient": "s"
+        },
+        {
+          "amount": "2",
+          "unit": "teaspoon",
+          "ingredient": "vanilla extract"
+        }
+      ]
+    },
+    {
+      "name": "oatmeal raisin cookies",
+      "ingredients": [
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "plus 6 tablespoons butter, softened"
+        },
+        {
+          "amount": "3/4",
+          "unit": "cup",
+          "ingredient": "firmly packed brown sugar"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "granulated sugar"
+        },
+        {
+          "amount": "2",
+          "unit": "egg",
+          "ingredient": "s"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "vanilla extract"
+        },
+        {
+          "amount": "1 1/2",
+          "unit": "cup",
+          "ingredient": "all-purpose flour"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "baking soda"
+        },
+        {
+          "amount": "1/4",
+          "unit": "teaspoon",
+          "ingredient": "ground nutmeg"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "salt"
+        },
+        {
+          "amount": "3",
+          "unit": "cup",
+          "ingredient": "rolled oats"
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "raisins"
+        }
+      ]
+    },
+    {
+      "name": "dorie greenspan chocolate chip cookies",
+      "ingredients": []
+    },
+    {
+      "name": "matcha mochi cookies",
+      "ingredients": [
+        {
+          "amount": "3/4",
+          "unit": "cup",
+          "ingredient": "unsalted butter, at room temperature"
+        },
+        {
+          "amount": "3/4",
+          "unit": "cup",
+          "ingredient": "granulated sugar"
+        },
+        {
+          "amount": "2",
+          "unit": "tablespoon",
+          "ingredient": "light brown sugar, packed"
+        },
+        {
+          "amount": "2",
+          "unit": "cup",
+          "ingredient": "plus 2 tablespoons (272 grams) all-purpose flour"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "baking powder"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "baking soda"
+        },
+        {
+          "amount": "2 1/2",
+          "unit": "tablespoon",
+          "ingredient": "matcha powder"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "kosher salt"
+        },
+        {
+          "amount": "2",
+          "unit": "large",
+          "ingredient": "eggs"
+        },
+        {
+          "amount": "1 1/2",
+          "unit": "teaspoon",
+          "ingredient": "vanilla extract"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "Mochiko sweet glutinous rice flour"
+        },
+        {
+          "amount": "2",
+          "unit": "tablespoon",
+          "ingredient": "cornstarch"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "1/2  (130 grams) whole milk"
+        },
+        {
+          "amount": "1/3",
+          "unit": "cup",
+          "ingredient": "raspberry preserves"
+        },
+        {
+          "amount": "1",
+          "unit": "tablespoon",
+          "ingredient": "unsalted butter"
+        },
+        {
+          "amount": "1/4",
+          "unit": "cup",
+          "ingredient": "canola oil"
+        }
+      ]
+    },
+    {
+      "name": "aunt lollys oatmeal chocolate chip cookie recipe",
+      "ingredients": [
+        {
+          "amount": "1/4",
+          "unit": "pound",
+          "ingredient": "butter (one stick), at room temperature"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "granulated sugar"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "brown sugar"
+        },
+        {
+          "amount": "1",
+          "unit": "eg",
+          "ingredient": "g"
+        },
+        {
+          "amount": "3/4",
+          "unit": "cup",
+          "ingredient": "flour"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "baking soda"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "kosher salt"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "vanilla extract"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "rolled oats"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "chocolate chips"
+        }
+      ]
+    },
+    {
+      "name": "3 ingredient peanut butter cookies recipe",
+      "ingredients": [
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "1  (16-ounce) jar unsweetened peanut butter"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "1  (13-ounce) jar apricot or peach jam"
+        },
+        {
+          "amount": "2",
+          "unit": "large",
+          "ingredient": "eggs"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "Flaky salt (optional)"
+        }
+      ]
+    },
+    {
+      "name": "strawberry white chocolate macadamia nut milk chocolate cookie recipe",
+      "ingredients": [
+        {
+          "amount": "2",
+          "unit": "cup",
+          "ingredient": "oat flour"
+        },
+        {
+          "amount": "1/4",
+          "unit": "teaspoon",
+          "ingredient": "baking soda"
+        },
+        {
+          "amount": "1/4",
+          "unit": "teaspoon",
+          "ingredient": "kosher salt"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "unsalted butter, room temperature"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "granulated sugar"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "packed light brown sugar"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "vanilla extract"
+        },
+        {
+          "amount": "1",
+          "unit": "large",
+          "ingredient": "egg"
+        },
+        {
+          "amount": "1 1/2",
+          "unit": "cup",
+          "ingredient": "dehydrated strawberries, crushed into bite-sized pieces"
+        },
+        {
+          "amount": "3",
+          "unit": "ounce",
+          "ingredient": "white chocolate, chopped"
+        },
+        {
+          "amount": "1/3",
+          "unit": "cup",
+          "ingredient": "toasted macadamia nuts, roughly chopped"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "Dutch processed cocoa powder"
+        },
+        {
+          "amount": "2",
+          "unit": "tablespoon",
+          "ingredient": "milk powder"
+        },
+        {
+          "amount": "1",
+          "unit": "tablespoon",
+          "ingredient": "instant coffee or espresso powder"
+        },
+        {
+          "amount": "1",
+          "unit": "large",
+          "ingredient": "egg, room temperature"
+        },
+        {
+          "amount": "12",
+          "unit": "chocolate",
+          "ingredient": "wafer sandwich cookies, filling removed and crushed into 1/2-inch/1.2-cm pieces (gluten-free, if desired)"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "mini pretzels, crushed into 1/2-inch pieces (gluten-free if desired), optional"
+        }
+      ]
+    },
+    {
+      "name": "salted rosemary shortbread",
+      "ingredients": [
+        {
+          "amount": "1 1/2",
+          "unit": "cup",
+          "ingredient": "unbleached all-purpose flour"
+        },
+        {
+          "amount": "1/3",
+          "unit": "cup",
+          "ingredient": "rice flour"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "kosher salt, plus more to taste"
+        },
+        {
+          "amount": "2",
+          "unit": "tablespoon",
+          "ingredient": "fresh rosemary, finely chopped"
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "unsalted butter, room temperature"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "plus 1 tablespoon (112g) granulated sugar, divided"
+        },
+        {
+          "amount": "2",
+          "unit": "teaspoon",
+          "ingredient": "finely grated grapefruit zest"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "Flaky sea salt, for topping"
+        }
+      ]
+    },
+    {
+      "name": "spiced pecan sandies recipe",
+      "ingredients": [
+        {
+          "amount": "150",
+          "unit": "gram",
+          "ingredient": "all-purpose flour"
+        },
+        {
+          "amount": "125",
+          "unit": "gram",
+          "ingredient": "unsalted butter, at room temperature"
+        },
+        {
+          "amount": "90",
+          "unit": "gram",
+          "ingredient": "granulated sugar"
+        },
+        {
+          "amount": "90",
+          "unit": "gram",
+          "ingredient": "toasted, ground pecans (see Author Notes)"
+        },
+        {
+          "amount": "25",
+          "unit": "gram",
+          "ingredient": "egg yolks"
+        },
+        {
+          "amount": "5",
+          "unit": "gram",
+          "ingredient": "masala (see Author Notes)"
+        },
+        {
+          "amount": "3",
+          "unit": "gram",
+          "ingredient": "kosher salt"
+        },
+        {
+          "amount": "1/4",
+          "unit": "vanilla",
+          "ingredient": "bean, scraped"
+        }
+      ]
+    },
+    {
+      "name": "rose levy beranbaum s molasses sugar butter cookies",
+      "ingredients": [
+        {
+          "amount": "150",
+          "unit": "gram",
+          "ingredient": "or 10 1/2 tablespoons (1 stick plus 2 1/2 tablespoons) unsalted butter"
+        },
+        {
+          "amount": "38",
+          "unit": "gram",
+          "ingredient": "or 2 tablespoons plus 1 teaspoon (35 ml) or 3/4 large egg"
+        },
+        {
+          "amount": "204",
+          "unit": "gram",
+          "ingredient": "or 1 3/4 cups minus 1 tablespoon (lightly spooned into the cup and leveled off) bleached all-purpose flour"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "8.2 gram or 1 1/2 teaspoons baking soda"
+        },
+        {
+          "amount": "3/8",
+          "unit": "teaspoon",
+          "ingredient": "fine sea salt"
+        },
+        {
+          "amount": "3/4",
+          "unit": "teaspoon",
+          "ingredient": "ground cinnamon"
+        },
+        {
+          "amount": "3/8",
+          "unit": "teaspoon",
+          "ingredient": "ground cloves"
+        },
+        {
+          "amount": "3/8",
+          "unit": "teaspoon",
+          "ingredient": "ground ginger"
+        },
+        {
+          "amount": "125",
+          "unit": "gram",
+          "ingredient": "or 1/2 cup plus 2 tablespoons superfine sugar"
+        },
+        {
+          "amount": "60",
+          "unit": "gram",
+          "ingredient": "or 3 tablespoons (45 ml) light molasses, preferably Grandma\u2019s brand"
+        },
+        {
+          "amount": "24",
+          "unit": "gram",
+          "ingredient": "or 2 tablespoons superfine sugar, for rolling the dough balls (see Baking Pearls)"
+        }
+      ]
+    },
+    {
+      "name": "s mores cookies",
+      "ingredients": [
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "miniature marshmallows"
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "all-purpose flour"
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "finely crushed graham cracker crumbs"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "cocoa powder (I like dark or black cocoa powder for these)"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "baking powder"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "kosher salt"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "brown sugar"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "granulated sugar"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "unsalted butter, softened"
+        },
+        {
+          "amount": "2",
+          "unit": "large",
+          "ingredient": "eggs"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "vanilla extract"
+        },
+        {
+          "amount": "1 1/2",
+          "unit": "cup",
+          "ingredient": "dark chocolate chunks or chips"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "shredded unsweetened coconut"
+        }
+      ]
+    },
+    {
+      "name": "best applesauce chocolate chip cookies recipe",
+      "ingredients": [
+        {
+          "amount": "3",
+          "unit": "cup",
+          "ingredient": "unsweetened applesauce"
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "unsalted butter, divided"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "1\u00bd cup all-purpose flour"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "baking powder"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "1\u00bd teaspoon baking soda"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "1\u00bd teaspoon kosher salt"
+        },
+        {
+          "amount": "1/3",
+          "unit": "cup",
+          "ingredient": "granulated sugar"
+        },
+        {
+          "amount": "1/3",
+          "unit": "cup",
+          "ingredient": "light brown sugar"
+        },
+        {
+          "amount": "1",
+          "unit": "large",
+          "ingredient": "egg, room temperature"
+        },
+        {
+          "amount": "2",
+          "unit": "teaspoon",
+          "ingredient": "vanilla paste or extract"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "1\u00bd cup (heaping) bitter- or semisweet chocolate chips or chunks (I used 64% cacao), plus more for sprinkling"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "Coarse salt, for finishing"
+        }
+      ]
+    },
+    {
+      "name": "best butter cookies recipe with fruit",
+      "ingredients": [
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "unsalted butter, at room temperature"
+        },
+        {
+          "amount": "3/4",
+          "unit": "cup",
+          "ingredient": "granulated sugar"
+        },
+        {
+          "amount": "3",
+          "unit": "large",
+          "ingredient": "egg yolks"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "freshly grated orange zest"
+        },
+        {
+          "amount": "2 1/2",
+          "unit": "cup",
+          "ingredient": "all-purpose flour"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "baking powder"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "kosher salt"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "pistachios, roughly chopped"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "dried apricots, roughly chopped"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "dried sour cherries, roughly chopped"
+        },
+        {
+          "amount": "4",
+          "unit": "ounce",
+          "ingredient": "bittersweet chocolate, melted"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "neutral oil, such as coconut or vegetable"
+        }
+      ]
+    },
+    {
+      "name": "vegan dark chocolate gingerbread thumbprint cookies",
+      "ingredients": [
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "coconut sugar, plus 3 tablespoons"
+        },
+        {
+          "amount": "2",
+          "unit": "cup",
+          "ingredient": "water"
+        },
+        {
+          "amount": "1",
+          "unit": "3",
+          "ingredient": "\u2013inch piece of ginger, peeled and sliced into coins about 1/8-inch thick"
+        },
+        {
+          "amount": "1 1/2",
+          "unit": "cup",
+          "ingredient": "oat flour (store-bought works best) (180 grams)"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "super-fine almond flour"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "coconut sugar"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "baking powder"
+        },
+        {
+          "amount": "2",
+          "unit": "teaspoon",
+          "ingredient": "ground cinnamon"
+        },
+        {
+          "amount": "1",
+          "unit": "tablespoon",
+          "ingredient": "ground ginger"
+        },
+        {
+          "amount": "1/4",
+          "unit": "teaspoon",
+          "ingredient": "ground nutmeg"
+        },
+        {
+          "amount": "1/4",
+          "unit": "teaspoon",
+          "ingredient": "ground cloves"
+        },
+        {
+          "amount": "3/4",
+          "unit": "teaspoon",
+          "ingredient": "kosher salt"
+        },
+        {
+          "amount": "7",
+          "unit": "tablespoon",
+          "ingredient": "refined coconut oil, melted"
+        },
+        {
+          "amount": "6",
+          "unit": "tablespoon",
+          "ingredient": "blackstrap molasses"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "4.2 ounce Hu Simple Dark Chocolate (2 bars), roughly chopped into shards"
+        },
+        {
+          "amount": "3",
+          "unit": "tablespoon",
+          "ingredient": "unsweetened coconut cream"
+        }
+      ]
+    },
+    {
+      "name": "holiday crinkle cookies",
+      "ingredients": [
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "unsweetened cocoa powder"
+        },
+        {
+          "amount": "2",
+          "unit": "cup",
+          "ingredient": "granulated sugar"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "vegetable oil"
+        },
+        {
+          "amount": "4",
+          "unit": "egg",
+          "ingredient": "s"
+        },
+        {
+          "amount": "2",
+          "unit": "teaspoon",
+          "ingredient": "vanilla extract"
+        },
+        {
+          "amount": "2",
+          "unit": "cup",
+          "ingredient": "all-purpose flour"
+        },
+        {
+          "amount": "2",
+          "unit": "teaspoon",
+          "ingredient": "baking powder"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "salt"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "confectioner's sugar"
+        }
+      ]
+    },
+    {
+      "name": "pan banging chocolate chip cookies recipe adaptation",
+      "ingredients": [
+        {
+          "amount": "1/2",
+          "unit": "pound",
+          "ingredient": "unsalted butter, at room temperature"
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "granulated sugar"
+        },
+        {
+          "amount": "3/4",
+          "unit": "cup",
+          "ingredient": "packed light or dark brown sugar"
+        },
+        {
+          "amount": "3/4",
+          "unit": "teaspoon",
+          "ingredient": "kosher salt"
+        },
+        {
+          "amount": "1",
+          "unit": "large",
+          "ingredient": "egg"
+        },
+        {
+          "amount": "1",
+          "unit": "tablespoon",
+          "ingredient": "water"
+        },
+        {
+          "amount": "1 1/2",
+          "unit": "teaspoon",
+          "ingredient": "pure vanilla extract"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "baking soda"
+        },
+        {
+          "amount": "2",
+          "unit": "cup",
+          "ingredient": "all-purpose flour"
+        },
+        {
+          "amount": "8",
+          "unit": "ounce",
+          "ingredient": "bittersweet chocolate, chopped (some chunks, some shards)"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "Flaky salt, to sprinkle on top (optional)"
+        }
+      ]
+    },
+    {
+      "name": "vegan sugar cookies",
+      "ingredients": [
+        {
+          "amount": "1",
+          "unit": "stick",
+          "ingredient": "room temperature Earth Balance buttery sticks"
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "organic cane sugar (or 1 1/2 cups organic confectioners' sugar\u2014see headnote)"
+        },
+        {
+          "amount": "1 1/2",
+          "unit": "teaspoon",
+          "ingredient": "Ener-G egg replacer, mixed with 2 tablespoons hot water"
+        },
+        {
+          "amount": "2",
+          "unit": "cup",
+          "ingredient": "all-purpose flour, plus extra for dusting and rolling"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "baking soda"
+        }
+      ]
+    },
+    {
+      "name": "olive oil sugar cookies recipe with pistachios lemon",
+      "ingredients": [
+        {
+          "amount": "1/3",
+          "unit": "cup",
+          "ingredient": "whole pistachios, plus 1/3 cup chopped (33g) for sprinkling"
+        },
+        {
+          "amount": "2",
+          "unit": "cup",
+          "ingredient": "all-purpose flour"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "baking soda"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "salt"
+        },
+        {
+          "amount": "4",
+          "unit": "tablespoon",
+          "ingredient": "unsalted butter, at room temperature"
+        },
+        {
+          "amount": "3/4",
+          "unit": "cup",
+          "ingredient": "granulated sugar"
+        },
+        {
+          "amount": "1/4",
+          "unit": "cup",
+          "ingredient": "confectioners\u2019 sugar"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "olive oil"
+        },
+        {
+          "amount": "1",
+          "unit": "large",
+          "ingredient": "egg"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "pure vanilla extract"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "Grated zest of 1 lemon"
+        },
+        {
+          "amount": "1",
+          "unit": "tablespoon",
+          "ingredient": "lemon juice"
+        },
+        {
+          "amount": "2",
+          "unit": "to",
+          "ingredient": "4 tablespoon heavy cream or milk"
+        }
+      ]
+    },
+    {
+      "name": "danielle kartes coconut custard macaroons",
+      "ingredients": [
+        {
+          "amount": "6 1/2",
+          "unit": "cup",
+          "ingredient": "sweetened, shredded coconut (about 6 1/2 cups)"
+        },
+        {
+          "amount": "1",
+          "unit": "large",
+          "ingredient": "egg"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "unsalted butter, melted and slightly cooled"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "pure vanilla extract (available kosher for Passover)"
+        },
+        {
+          "amount": "3/4",
+          "unit": "teaspoon",
+          "ingredient": "fleur de sel or other large-flake sea salt"
+        },
+        {
+          "amount": "3/4",
+          "unit": "cup",
+          "ingredient": "sweetened condensed milk"
+        }
+      ]
+    },
+    {
+      "name": "peanut butter chocolate chocolate chip cookies recipe",
+      "ingredients": [
+        {
+          "amount": "1",
+          "unit": "stick",
+          "ingredient": "unsalted butter"
+        },
+        {
+          "amount": "1/4",
+          "unit": "cup",
+          "ingredient": "all-natural smooth peanut butter"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "granulated sugar"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "packed light brown sugar"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "kosher salt"
+        },
+        {
+          "amount": "1",
+          "unit": "large",
+          "ingredient": "egg"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "vanilla extract"
+        },
+        {
+          "amount": "1/4",
+          "unit": "cup",
+          "ingredient": "black cocoa powder"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "baking soda"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "baking powder"
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "all-purpose flour"
+        },
+        {
+          "amount": "8",
+          "unit": "ounce",
+          "ingredient": "semi-sweet chocolate chips"
+        }
+      ]
+    },
+    {
+      "name": "chocolate sandwich cookies",
+      "ingredients": [
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "unsalted butter"
+        },
+        {
+          "amount": "1",
+          "unit": "tablespoon",
+          "ingredient": "vegetable oil"
+        },
+        {
+          "amount": "2/3",
+          "unit": "cup",
+          "ingredient": "granulated sugar"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "vanilla extract"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "salt"
+        },
+        {
+          "amount": "1",
+          "unit": "eg",
+          "ingredient": "g"
+        },
+        {
+          "amount": "1/4",
+          "unit": "cup",
+          "ingredient": "cornstarch"
+        },
+        {
+          "amount": "1/4",
+          "unit": "cup",
+          "ingredient": "black cocoa powder (you can use all regular cocoa if you prefer; this will just give a more intense color)"
+        },
+        {
+          "amount": "1/4",
+          "unit": "cup",
+          "ingredient": "Dutch-process cocoa powder"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "espresso powder"
+        },
+        {
+          "amount": "1 1/2",
+          "unit": "cup",
+          "ingredient": "all-purpose flour"
+        }
+      ]
+    },
+    {
+      "name": "chewy chocolate chip cookies with rainbow fennel seeds",
+      "ingredients": [
+        {
+          "amount": "2",
+          "unit": "cup",
+          "ingredient": "all-purpose flour"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "baking soda"
+        },
+        {
+          "amount": "1",
+          "unit": "stick",
+          "ingredient": "unsalted butter, absolutely at room temperature"
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "packed dark brown sugar"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "granulated sugar"
+        },
+        {
+          "amount": "1",
+          "unit": "tablespoon",
+          "ingredient": "pure vanilla"
+        },
+        {
+          "amount": "1",
+          "unit": "egg",
+          "ingredient": ", plus 1 egg yolk"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "kosher salt"
+        },
+        {
+          "amount": "1 1/2",
+          "unit": "cup",
+          "ingredient": "dark chocolate chips"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "rainbow candy-coated fennel seeds"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "Flaky sea salt, for topping"
+        }
+      ]
+    },
+    {
+      "name": "cream cheese cookies",
+      "ingredients": [
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "granulated sugar"
+        },
+        {
+          "amount": "8",
+          "unit": "tablespoon",
+          "ingredient": "unsalted butter, at room temperature (we recommend using Land O'Lakes)"
+        },
+        {
+          "amount": "3",
+          "unit": "ounce",
+          "ingredient": "cream cheese, softened"
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "all-purpose flour"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "kosher salt"
+        }
+      ]
+    },
+    {
+      "name": "best chocolate macaron recipe",
+      "ingredients": [
+        {
+          "amount": "1 1/2",
+          "unit": "cup",
+          "ingredient": "finely ground almond flour"
+        },
+        {
+          "amount": "1 3/4",
+          "unit": "cup",
+          "ingredient": "powdered sugar"
+        },
+        {
+          "amount": "1/4",
+          "unit": "cup",
+          "ingredient": "cocoa powder (preferably dark or black cocoa powder)"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "fine sea salt"
+        },
+        {
+          "amount": "4",
+          "unit": "large",
+          "ingredient": "egg whites"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "granulated sugar"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "vanilla extract"
+        },
+        {
+          "amount": "1 1/3",
+          "unit": "cup",
+          "ingredient": "finely chopped bittersweet chocolate"
+        },
+        {
+          "amount": "2/3",
+          "unit": "cup",
+          "ingredient": "heavy cream"
+        }
+      ]
+    },
+    {
+      "name": "banana bread chocolate chunk cookies",
+      "ingredients": [
+        {
+          "amount": "2 3/4",
+          "unit": "cup",
+          "ingredient": "all-purpose flour (352 grams)"
+        },
+        {
+          "amount": "2",
+          "unit": "teaspoon",
+          "ingredient": "cornstarch"
+        },
+        {
+          "amount": "1 1/4",
+          "unit": "teaspoon",
+          "ingredient": "kosher salt"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "baking soda"
+        },
+        {
+          "amount": "3/4",
+          "unit": "cup",
+          "ingredient": "butter (12 tablespoons, or 1 1/2 sticks), at room temperature"
+        },
+        {
+          "amount": "1 1/4",
+          "unit": "cup",
+          "ingredient": "granulated sugar (247 grams)"
+        },
+        {
+          "amount": "1",
+          "unit": "large",
+          "ingredient": "egg, lightly beaten"
+        },
+        {
+          "amount": "2",
+          "unit": "teaspoon",
+          "ingredient": "vanilla extract"
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "well-mashed very ripe banana (from about 2 1/2 large bananas)"
+        },
+        {
+          "amount": "1 3/4",
+          "unit": "cup",
+          "ingredient": "dark and milk chocolate chunks (or chopped chocolate bars)"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "Flaky salt, for sprinkling"
+        }
+      ]
+    },
+    {
+      "name": "kitchen sink cookies recipe gaby dalkin",
+      "ingredients": [
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "unsalted butter"
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "granulated sugar"
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "packed brown sugar"
+        },
+        {
+          "amount": "2",
+          "unit": "large",
+          "ingredient": "eggs"
+        },
+        {
+          "amount": "2",
+          "unit": "teaspoon",
+          "ingredient": "vanilla extract"
+        },
+        {
+          "amount": "2",
+          "unit": "cup",
+          "ingredient": "all-purpose flour"
+        },
+        {
+          "amount": "2 1/2",
+          "unit": "cup",
+          "ingredient": "old-fashioned oats, pulverized in a blender for 30 seconds until smooth"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "baking soda"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "baking powder"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "kosher salt"
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "M&M\u2019s"
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "semisweet chocolate chips"
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "dried cranberries"
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "chopped dried apricots"
+        }
+      ]
+    },
+    {
+      "name": "peanut butter peppermint chip cookies",
+      "ingredients": [
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "smooth peanut butter"
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "sugar"
+        },
+        {
+          "amount": "1",
+          "unit": "large",
+          "ingredient": "egg"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "peppermint extract"
+        },
+        {
+          "amount": "5",
+          "unit": "mint",
+          "ingredient": "chocolate sandwich candies, halved"
+        }
+      ]
+    },
+    {
+      "name": "red velvet cookies recipe",
+      "ingredients": [
+        {
+          "amount": "1 1/4",
+          "unit": "cup",
+          "ingredient": "granulated sugar"
+        },
+        {
+          "amount": "4",
+          "unit": "tablespoon",
+          "ingredient": "unsalted butter, room temperature"
+        },
+        {
+          "amount": "3",
+          "unit": "tablespoon",
+          "ingredient": "extra-virgin olive oil"
+        },
+        {
+          "amount": "1",
+          "unit": "large",
+          "ingredient": "egg"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "kosher salt"
+        },
+        {
+          "amount": "1",
+          "unit": "tablespoon",
+          "ingredient": "red food coloring"
+        },
+        {
+          "amount": "1",
+          "unit": "tablespoon",
+          "ingredient": "vinegar (any kind will do, like red, white, rice, and apple cider; just not balsamic)"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "pure vanilla extract"
+        },
+        {
+          "amount": "1 3/4",
+          "unit": "cup",
+          "ingredient": "all-purpose flour"
+        },
+        {
+          "amount": "1/4",
+          "unit": "cup",
+          "ingredient": "unsweetened cocoa powder"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "baking soda"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "Powdered sugar, for dusting"
+        }
+      ]
+    },
+    {
+      "name": "matcha butter cookies",
+      "ingredients": [
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "unsalted butter, softened"
+        },
+        {
+          "amount": "6",
+          "unit": "tablespoon",
+          "ingredient": "confectioners' sugar"
+        },
+        {
+          "amount": "1 1/4",
+          "unit": "cup",
+          "ingredient": "all-purpose flour"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "blanched almond meal"
+        },
+        {
+          "amount": "3",
+          "unit": "to",
+          "ingredient": "4 teaspoon powdered matcha green tea"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "vanilla extract"
+        },
+        {
+          "amount": "2",
+          "unit": "teaspoon",
+          "ingredient": "egg white"
+        }
+      ]
+    },
+    {
+      "name": "orange pistachio biscotti",
+      "ingredients": [
+        {
+          "amount": "3",
+          "unit": "egg",
+          "ingredient": "s"
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "sugar"
+        },
+        {
+          "amount": "2",
+          "unit": "tablespoon",
+          "ingredient": "orange zest"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "vanilla extract"
+        },
+        {
+          "amount": "2 3/4",
+          "unit": "cup",
+          "ingredient": "all-purpose flour"
+        },
+        {
+          "amount": "1 1/2",
+          "unit": "teaspoon",
+          "ingredient": "baking powder"
+        },
+        {
+          "amount": "3/4",
+          "unit": "teaspoon",
+          "ingredient": "kosher salt"
+        },
+        {
+          "amount": "1 1/4",
+          "unit": "cup",
+          "ingredient": "whole shelled pistachios"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "Melted dark chocolate, for dipping (optional)"
+        }
+      ]
+    },
+    {
+      "name": "linzer cookies recipe",
+      "ingredients": [
+        {
+          "amount": "200",
+          "unit": "gram",
+          "ingredient": "granulated sugar"
+        },
+        {
+          "amount": "24",
+          "unit": "gram",
+          "ingredient": "powdered apple pectin"
+        },
+        {
+          "amount": "700",
+          "unit": "gram",
+          "ingredient": "ripe fresh berries"
+        },
+        {
+          "amount": "1",
+          "unit": "quantity",
+          "ingredient": "Vanilla Sabl\u00e9 Tart Shell dough (see Author Notes)"
+        }
+      ]
+    },
+    {
+      "name": "soft puffy snickerdoodles",
+      "ingredients": [
+        {
+          "amount": "2 3/4",
+          "unit": "cup",
+          "ingredient": "all-purpose flour"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "baking soda"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "salt"
+        },
+        {
+          "amount": "2",
+          "unit": "teaspoon",
+          "ingredient": "cream of tartar"
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "unsalted butter, at room temperature"
+        },
+        {
+          "amount": "1 1/3",
+          "unit": "cup",
+          "ingredient": "sugar"
+        },
+        {
+          "amount": "1 1/2",
+          "unit": "teaspoon",
+          "ingredient": "vanilla extract"
+        },
+        {
+          "amount": "2",
+          "unit": "large",
+          "ingredient": "eggs"
+        },
+        {
+          "amount": "1",
+          "unit": "tablespoon",
+          "ingredient": "plus 1 teaspoon ground cinnamon (or to taste)"
+        }
+      ]
+    },
+    {
+      "name": "sugar cookie bars",
+      "ingredients": [
+        {
+          "amount": "3/4",
+          "unit": "cup",
+          "ingredient": "butter, at room temperature"
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "sugar"
+        },
+        {
+          "amount": "1/4",
+          "unit": "cup",
+          "ingredient": "light brown sugar"
+        },
+        {
+          "amount": "2",
+          "unit": "egg",
+          "ingredient": "s"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "vanilla bean paste (or vanilla extract)"
+        },
+        {
+          "amount": "2",
+          "unit": "cup",
+          "ingredient": "flour"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "baking powder"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "baking soda"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "salt"
+        },
+        {
+          "amount": "4",
+          "unit": "ounce",
+          "ingredient": "cream cheese, at room temperature"
+        },
+        {
+          "amount": "2",
+          "unit": "cup",
+          "ingredient": "powdered sugar"
+        },
+        {
+          "amount": "1",
+          "unit": "tablespoon",
+          "ingredient": "heavy cream"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "vanilla extract"
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingredient": "sprinkles, for decorating"
+        }
+      ]
+    },
+    {
+      "name": "best gingerbread cookies recipe",
+      "ingredients": [
+        {
+          "amount": "1 1/3",
+          "unit": "cup",
+          "ingredient": "unsalted butter"
+        },
+        {
+          "amount": "4",
+          "unit": "teaspoon",
+          "ingredient": "ground ginger"
+        },
+        {
+          "amount": "3/4",
+          "unit": "teaspoon",
+          "ingredient": "ground cloves (preferably freshly ground)"
+        },
+        {
+          "amount": "3 1/2",
+          "unit": "cup",
+          "ingredient": "all-purpose flour, plus 1/4 cup (30 grams) as needed"
+        },
+        {
+          "amount": "1",
+          "unit": "teaspoon",
+          "ingredient": "baking soda"
+        },
+        {
+          "amount": "3/4",
+          "unit": "teaspoon",
+          "ingredient": "kosher salt (Diamond Crystal)"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "light brown sugar"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "molasses"
+        },
+        {
+          "amount": "1",
+          "unit": "large",
+          "ingredient": "egg"
+        }
+      ]
+    },
+    {
+      "name": "russian tea cakes",
+      "ingredients": [
+        {
+          "amount": "1 1/2",
+          "unit": "cup",
+          "ingredient": "1 1/2 cups nuts (210 grams almond or hazelnuts, 150 grams pecans or walnuts, 170 grams peanuts, 190 grams macadamias, 255 grams pistachios)"
+        },
+        {
+          "amount": "1/4",
+          "unit": "cup",
+          "ingredient": "granulated sugar"
+        },
+        {
+          "amount": "2",
+          "unit": "cup",
+          "ingredient": "unbleached all-purpose flour"
+        },
+        {
+          "amount": "3/4",
+          "unit": "teaspoon",
+          "ingredient": "salt"
+        },
+        {
+          "amount": "16",
+          "unit": "tablespoon",
+          "ingredient": "unsalted butter, softened and cut into small chunks"
+        },
+        {
+          "amount": "2",
+          "unit": "teaspoon",
+          "ingredient": "vanilla extract"
+        },
+        {
+          "amount": "1",
+          "unit": "egg",
+          "ingredient": "yolk (optional)"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "powdered sugar"
+        }
+      ]
+    },
+    {
+      "name": "sugar cookies with vanilla frosting",
+      "ingredients": [
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "unsalted butter, softened"
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "granulated sugar"
+        },
+        {
+          "amount": "1",
+          "unit": "large",
+          "ingredient": "egg"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "vanilla extract"
+        },
+        {
+          "amount": "1/2",
+          "unit": "teaspoon",
+          "ingredient": "fine sea salt"
+        },
+        {
+          "amount": "2",
+          "unit": "teaspoon",
+          "ingredient": "baking powder"
+        },
+        {
+          "amount": "1",
+          "unit": "to",
+          "ingredient": "2 tablespoon cold water"
+        },
+        {
+          "amount": "2",
+          "unit": "cup",
+          "ingredient": "all-purpose flour"
+        },
+        {
+          "amount": "1",
+          "unit": "batch",
+          "ingredient": "Vanilla Frosting (recipe below)"
+        },
+        {
+          "amount": "1",
+          "unit": "pound",
+          "ingredient": "powdered sugar, sifted"
+        },
+        {
+          "amount": "3",
+          "unit": "to",
+          "ingredient": "4 tablespoon whole milk"
+        },
+        {
+          "amount": "1",
+          "unit": "vanilla",
+          "ingredient": "bean, seeds scraped out (or 1 t vanilla bean paste or vanilla extract)"
+        }
+      ]
+    },
+    {
+      "name": "my family recipe mom moms potato chip cookie",
+      "ingredients": [
+        {
+          "amount": "2",
+          "unit": "cup",
+          "ingredient": "potato chips (preferably Lay\u2019s Classic)"
+        },
+        {
+          "amount": "2",
+          "unit": "sticks",
+          "ingredient": "unsalted butter, softened"
+        },
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "granulated sugar"
+        },
+        {
+          "amount": "1",
+          "unit": "egg",
+          "ingredient": "yolk"
+        },
+        {
+          "amount": "1",
+          "unit": "tablespoon",
+          "ingredient": "vanilla extract"
+        },
+        {
+          "amount": "2",
+          "unit": "cup",
+          "ingredient": "all-purpose flour"
+        }
+      ]
+    },
+    {
+      "name": "2 Ingredient Peanut Butter Cookies",
+      "ingredients": [
+        {
+          "amount": "1",
+          "unit": "cup",
+          "ingredient": "Peanut Butter"
+        },
+        {
+          "amount": "1/2",
+          "unit": "cup",
+          "ingredient": "Powdered Sugar"
+        }
+      ]
+    }
+  ]
+}

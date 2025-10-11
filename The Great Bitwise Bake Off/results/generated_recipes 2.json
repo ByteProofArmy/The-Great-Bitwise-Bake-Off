@@ -1,0 +1,1730 @@
+[
+  {
+    "name": "recipe 1207",
+    "ingredients": [
+      {
+        "amount": 72,
+        "unit": "g",
+        "ingredient": "bicarbonate of soda",
+        "weight": 72.38307349665924
+      },
+      {
+        "amount": 84,
+        "unit": "g",
+        "ingredient": "whole milk",
+        "weight": 84.6325167037862
+      },
+      {
+        "amount": 174,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 174.83296213808464
+      },
+      {
+        "amount": 23,
+        "unit": "g",
+        "ingredient": "(30% cocoa butter or higher) 100g white chocolate roughly chopped",
+        "weight": 23.385300668151448
+      },
+      {
+        "amount": 258,
+        "unit": "g",
+        "ingredient": "egg whites",
+        "weight": 258.3518930957684
+      },
+      {
+        "amount": 316,
+        "unit": "g",
+        "ingredient": "oat flour",
+        "weight": 316.2583518930958
+      },
+      {
+        "amount": 63,
+        "unit": "g",
+        "ingredient": "black cocoa powder (you can use all regular cocoa if you prefer; this will just give a more intense color)",
+        "weight": 63.474387527839646
+      },
+      {
+        "amount": 6,
+        "unit": "g",
+        "ingredient": "coconut sugar",
+        "weight": 6.6815144766147
+      }
+    ],
+    "fitness": 19
+  },
+  {
+    "name": "recipe 1491",
+    "ingredients": [
+      {
+        "amount": 72,
+        "unit": "g",
+        "ingredient": "bicarbonate of soda",
+        "weight": 72.28915662650603
+      },
+      {
+        "amount": 80,
+        "unit": "g",
+        "ingredient": "whole milk",
+        "weight": 80.32128514056225
+      },
+      {
+        "amount": 178,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 178.71485943775102
+      },
+      {
+        "amount": 23,
+        "unit": "g",
+        "ingredient": "(30% cocoa butter or higher) 100g white chocolate roughly chopped",
+        "weight": 23.092369477911646
+      },
+      {
+        "amount": 259,
+        "unit": "g",
+        "ingredient": "egg whites",
+        "weight": 259.03614457831327
+      },
+      {
+        "amount": 317,
+        "unit": "g",
+        "ingredient": "oat flour",
+        "weight": 317.2690763052209
+      },
+      {
+        "amount": 63,
+        "unit": "g",
+        "ingredient": "black cocoa powder (you can use all regular cocoa if you prefer; this will just give a more intense color)",
+        "weight": 63.25301204819277
+      },
+      {
+        "amount": 6,
+        "unit": "g",
+        "ingredient": "coconut sugar",
+        "weight": 6.024096385542169
+      }
+    ],
+    "fitness": 19
+  },
+  {
+    "name": "recipe 1550",
+    "ingredients": [
+      {
+        "amount": 100,
+        "unit": "g",
+        "ingredient": "bicarbonate of soda",
+        "weight": 100.35005834305719
+      },
+      {
+        "amount": 93,
+        "unit": "g",
+        "ingredient": "whole milk",
+        "weight": 93.34889148191365
+      },
+      {
+        "amount": 207,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 207.70128354725787
+      },
+      {
+        "amount": 26,
+        "unit": "g",
+        "ingredient": "(30% cocoa butter or higher) 100g white chocolate roughly chopped",
+        "weight": 26.837806301050176
+      },
+      {
+        "amount": 229,
+        "unit": "g",
+        "ingredient": "egg whites",
+        "weight": 229.87164527421237
+      },
+      {
+        "amount": 281,
+        "unit": "g",
+        "ingredient": "oat flour",
+        "weight": 281.2135355892649
+      },
+      {
+        "amount": 56,
+        "unit": "g",
+        "ingredient": "white chocolate melted",
+        "weight": 56.00933488914819
+      },
+      {
+        "amount": 4,
+        "unit": "g",
+        "ingredient": "coconut sugar",
+        "weight": 4.667444574095683
+      }
+    ],
+    "fitness": 19
+  },
+  {
+    "name": "recipe 1633",
+    "ingredients": [
+      {
+        "amount": 73,
+        "unit": "g",
+        "ingredient": "bicarbonate of soda",
+        "weight": 73.77049180327869
+      },
+      {
+        "amount": 86,
+        "unit": "g",
+        "ingredient": "whole milk",
+        "weight": 86.0655737704918
+      },
+      {
+        "amount": 178,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 178.27868852459014
+      },
+      {
+        "amount": 23,
+        "unit": "g",
+        "ingredient": "(30% cocoa butter or higher) 100g white chocolate roughly chopped",
+        "weight": 23.565573770491802
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "½ tsp vanilla extract",
+        "weight": 1.0245901639344261
+      },
+      {
+        "amount": 256,
+        "unit": "g",
+        "ingredient": "egg whites",
+        "weight": 256.1475409836065
+      },
+      {
+        "amount": 314,
+        "unit": "g",
+        "ingredient": "oat flour",
+        "weight": 314.54918032786884
+      },
+      {
+        "amount": 62,
+        "unit": "g",
+        "ingredient": "white chocolate melted",
+        "weight": 62.49999999999999
+      },
+      {
+        "amount": 4,
+        "unit": "g",
+        "ingredient": "coconut sugar",
+        "weight": 4.098360655737705
+      }
+    ],
+    "fitness": 19
+  },
+  {
+    "name": "recipe 1644",
+    "ingredients": [
+      {
+        "amount": 97,
+        "unit": "g",
+        "ingredient": "2½ cup (315 grams) all-purpose flour",
+        "weight": 97.33606557377048
+      },
+      {
+        "amount": 91,
+        "unit": "g",
+        "ingredient": "whole milk",
+        "weight": 91.18852459016392
+      },
+      {
+        "amount": 202,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 202.86885245901638
+      },
+      {
+        "amount": 24,
+        "unit": "g",
+        "ingredient": "(30% cocoa butter or higher) 100g white chocolate roughly chopped",
+        "weight": 24.59016393442623
+      },
+      {
+        "amount": 234,
+        "unit": "g",
+        "ingredient": "egg whites",
+        "weight": 234.6311475409836
+      },
+      {
+        "amount": 287,
+        "unit": "g",
+        "ingredient": "oat flour",
+        "weight": 287.90983606557376
+      },
+      {
+        "amount": 57,
+        "unit": "g",
+        "ingredient": "1½ teaspoon baking soda",
+        "weight": 57.377049180327866
+      },
+      {
+        "amount": 4,
+        "unit": "g",
+        "ingredient": "coconut sugar",
+        "weight": 4.098360655737705
+      }
+    ],
+    "fitness": 19
+  },
+  {
+    "name": "recipe 1721",
+    "ingredients": [
+      {
+        "amount": 95,
+        "unit": "g",
+        "ingredient": "bicarbonate of soda",
+        "weight": 95.05703422053232
+      },
+      {
+        "amount": 88,
+        "unit": "g",
+        "ingredient": "½ tsp baking powder",
+        "weight": 88.40304182509506
+      },
+      {
+        "amount": 196,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 196.76806083650192
+      },
+      {
+        "amount": 24,
+        "unit": "g",
+        "ingredient": "(30% cocoa butter or higher) 100g white chocolate roughly chopped",
+        "weight": 24.714828897338403
+      },
+      {
+        "amount": 266,
+        "unit": "g",
+        "ingredient": "egg whites",
+        "weight": 266.1596958174905
+      },
+      {
+        "amount": 260,
+        "unit": "g",
+        "ingredient": "oat flour",
+        "weight": 260.4562737642586
+      },
+      {
+        "amount": 64,
+        "unit": "g",
+        "ingredient": "white chocolate melted",
+        "weight": 64.63878326996198
+      },
+      {
+        "amount": 3,
+        "unit": "g",
+        "ingredient": "coconut sugar",
+        "weight": 3.802281368821293
+      }
+    ],
+    "fitness": 19
+  },
+  {
+    "name": "recipe 1745",
+    "ingredients": [
+      {
+        "amount": 68,
+        "unit": "g",
+        "ingredient": "bicarbonate of soda",
+        "weight": 68.82168925964547
+      },
+      {
+        "amount": 78,
+        "unit": "g",
+        "ingredient": "whole milk",
+        "weight": 78.20646506777894
+      },
+      {
+        "amount": 161,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 161.6266944734098
+      },
+      {
+        "amount": 16,
+        "unit": "g",
+        "ingredient": "(30% cocoa butter or higher) 100g white chocolate roughly chopped",
+        "weight": 16.684045881126174
+      },
+      {
+        "amount": 2,
+        "unit": "g",
+        "ingredient": "/2 tsp bicarbonate of soda",
+        "weight": 2.0855057351407718
+      },
+      {
+        "amount": 270,
+        "unit": "g",
+        "ingredient": "egg whites",
+        "weight": 270.07299270072997
+      },
+      {
+        "amount": 330,
+        "unit": "g",
+        "ingredient": "oat flour",
+        "weight": 330.5526590198123
+      },
+      {
+        "amount": 65,
+        "unit": "g",
+        "ingredient": "black cocoa powder (you can use all regular cocoa if you prefer; this will just give a more intense color)",
+        "weight": 65.69343065693431
+      },
+      {
+        "amount": 6,
+        "unit": "g",
+        "ingredient": "coconut sugar",
+        "weight": 6.256517205422315
+      }
+    ],
+    "fitness": 19
+  },
+  {
+    "name": "recipe 1766",
+    "ingredients": [
+      {
+        "amount": 95,
+        "unit": "g",
+        "ingredient": "bicarbonate of soda",
+        "weight": 95.1417004048583
+      },
+      {
+        "amount": 89,
+        "unit": "g",
+        "ingredient": "whole milk",
+        "weight": 89.06882591093117
+      },
+      {
+        "amount": 201,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 201.417004048583
+      },
+      {
+        "amount": 24,
+        "unit": "g",
+        "ingredient": "(30% cocoa butter or higher) 100g white chocolate roughly chopped",
+        "weight": 24.291497975708502
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "/2 tsp bicarbonate of soda",
+        "weight": 1.0121457489878543
+      },
+      {
+        "amount": 236,
+        "unit": "g",
+        "ingredient": "egg whites",
+        "weight": 236.8421052631579
+      },
+      {
+        "amount": 290,
+        "unit": "g",
+        "ingredient": "oat flour",
+        "weight": 290.48582995951415
+      },
+      {
+        "amount": 57,
+        "unit": "g",
+        "ingredient": "1½ teaspoon baking soda",
+        "weight": 57.69230769230769
+      },
+      {
+        "amount": 4,
+        "unit": "g",
+        "ingredient": "coconut sugar",
+        "weight": 4.048582995951417
+      }
+    ],
+    "fitness": 19
+  },
+  {
+    "name": "recipe 1772",
+    "ingredients": [
+      {
+        "amount": 86,
+        "unit": "g",
+        "ingredient": "bicarbonate of soda",
+        "weight": 86.59981768459434
+      },
+      {
+        "amount": 81,
+        "unit": "g",
+        "ingredient": "whole milk",
+        "weight": 81.13035551504102
+      },
+      {
+        "amount": 183,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 183.22698268003646
+      },
+      {
+        "amount": 21,
+        "unit": "g",
+        "ingredient": "(30% cocoa butter or higher) 100g white chocolate roughly chopped",
+        "weight": 21.877848678213308
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "½ tsp vanilla extract",
+        "weight": 0.9115770282588879
+      },
+      {
+        "amount": 279,
+        "unit": "g",
+        "ingredient": "egg whites",
+        "weight": 279.8541476754786
+      },
+      {
+        "amount": 286,
+        "unit": "g",
+        "ingredient": "oat flour",
+        "weight": 286.2351868732908
+      },
+      {
+        "amount": 56,
+        "unit": "g",
+        "ingredient": "white chocolate melted",
+        "weight": 56.51777575205105
+      },
+      {
+        "amount": 3,
+        "unit": "g",
+        "ingredient": "coconut sugar",
+        "weight": 3.6463081130355515
+      }
+    ],
+    "fitness": 19
+  },
+  {
+    "name": "recipe 1787",
+    "ingredients": [
+      {
+        "amount": 73,
+        "unit": "g",
+        "ingredient": "bicarbonate of soda",
+        "weight": 73.14725697786334
+      },
+      {
+        "amount": 80,
+        "unit": "g",
+        "ingredient": "whole milk",
+        "weight": 80.84696823869105
+      },
+      {
+        "amount": 180,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 180.9432146294514
+      },
+      {
+        "amount": 23,
+        "unit": "g",
+        "ingredient": "(30% cocoa butter or higher) 100g white chocolate roughly chopped",
+        "weight": 23.099133782483158
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "/2 tsp bicarbonate of soda",
+        "weight": 1.9249278152069298
+      },
+      {
+        "amount": 259,
+        "unit": "g",
+        "ingredient": "egg whites",
+        "weight": 259.86525505293554
+      },
+      {
+        "amount": 317,
+        "unit": "g",
+        "ingredient": "oat flour",
+        "weight": 317.61308950914344
+      },
+      {
+        "amount": 62,
+        "unit": "g",
+        "ingredient": "black cocoa powder (you can use all regular cocoa if you prefer; this will just give a more intense color)",
+        "weight": 62.56015399422522
+      }
+    ],
+    "fitness": 19
+  },
+  {
+    "name": "recipe 1823",
+    "ingredients": [
+      {
+        "amount": 78,
+        "unit": "g",
+        "ingredient": "2½ cup (315 grams) all-purpose flour",
+        "weight": 78.41140529531567
+      },
+      {
+        "amount": 92,
+        "unit": "g",
+        "ingredient": "whole milk",
+        "weight": 92.66802443991853
+      },
+      {
+        "amount": 205,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 205.70264765784114
+      },
+      {
+        "amount": 24,
+        "unit": "g",
+        "ingredient": "(30% cocoa butter or higher) 100g white chocolate roughly chopped",
+        "weight": 24.43991853360489
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "/2 tsp bicarbonate of soda",
+        "weight": 1.0183299389002036
+      },
+      {
+        "amount": 240,
+        "unit": "g",
+        "ingredient": "egg whites",
+        "weight": 240.32586558044807
+      },
+      {
+        "amount": 295,
+        "unit": "g",
+        "ingredient": "oat flour",
+        "weight": 295.315682281059
+      },
+      {
+        "amount": 58,
+        "unit": "g",
+        "ingredient": "1½ teaspoon baking soda",
+        "weight": 58.044806517311606
+      },
+      {
+        "amount": 4,
+        "unit": "g",
+        "ingredient": "coconut sugar",
+        "weight": 4.0733197556008145
+      }
+    ],
+    "fitness": 19
+  },
+  {
+    "name": "recipe 1833",
+    "ingredients": [
+      {
+        "amount": 100,
+        "unit": "g",
+        "ingredient": "bicarbonate of soda",
+        "weight": 100.42735042735042
+      },
+      {
+        "amount": 94,
+        "unit": "g",
+        "ingredient": "whole milk",
+        "weight": 94.01709401709401
+      },
+      {
+        "amount": 213,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 213.67521367521368
+      },
+      {
+        "amount": 24,
+        "unit": "g",
+        "ingredient": "(30% cocoa butter or higher) 100g white chocolate roughly chopped",
+        "weight": 24.57264957264957
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "/2 tsp bicarbonate of soda",
+        "weight": 1.0683760683760684
+      },
+      {
+        "amount": 252,
+        "unit": "g",
+        "ingredient": "egg whites",
+        "weight": 252.13675213675214
+      },
+      {
+        "amount": 309,
+        "unit": "g",
+        "ingredient": "oat flour",
+        "weight": 309.8290598290598
+      },
+      {
+        "amount": 4,
+        "unit": "g",
+        "ingredient": "coconut sugar",
+        "weight": 4.273504273504273
+      }
+    ],
+    "fitness": 19
+  },
+  {
+    "name": "recipe 1838",
+    "ingredients": [
+      {
+        "amount": 64,
+        "unit": "g",
+        "ingredient": "bicarbonate of soda",
+        "weight": 64.35224386113464
+      },
+      {
+        "amount": 74,
+        "unit": "g",
+        "ingredient": "whole milk",
+        "weight": 74.51312447078747
+      },
+      {
+        "amount": 153,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 153.25994919559696
+      },
+      {
+        "amount": 15,
+        "unit": "g",
+        "ingredient": "(30% cocoa butter or higher) 100g white chocolate roughly chopped",
+        "weight": 15.241320914479255
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "/2 tsp bicarbonate of soda",
+        "weight": 0.8467400508044031
+      },
+      {
+        "amount": 227,
+        "unit": "g",
+        "ingredient": "egg whites",
+        "weight": 227.77307366638442
+      },
+      {
+        "amount": 279,
+        "unit": "g",
+        "ingredient": "oat flour",
+        "weight": 279.424216765453
+      },
+      {
+        "amount": 54,
+        "unit": "g",
+        "ingredient": "1½ teaspoon baking soda",
+        "weight": 54.191363251481796
+      },
+      {
+        "amount": 3,
+        "unit": "g",
+        "ingredient": "coconut sugar",
+        "weight": 3.3869602032176123
+      },
+      {
+        "amount": 127,
+        "unit": "g",
+        "ingredient": "Nutella",
+        "weight": 127.01100762066046
+      }
+    ],
+    "fitness": 19
+  },
+  {
+    "name": "recipe 1844",
+    "ingredients": [
+      {
+        "amount": 76,
+        "unit": "g",
+        "ingredient": "bicarbonate of soda",
+        "weight": 76.60020986358867
+      },
+      {
+        "amount": 90,
+        "unit": "g",
+        "ingredient": "whole milk",
+        "weight": 90.24134312696748
+      },
+      {
+        "amount": 186,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 186.77859391395594
+      },
+      {
+        "amount": 18,
+        "unit": "g",
+        "ingredient": "(30% cocoa butter or higher) 100g white chocolate roughly chopped",
+        "weight": 18.88772298006296
+      },
+      {
+        "amount": 284,
+        "unit": "g",
+        "ingredient": "egg whites",
+        "weight": 284.3651626442812
+      },
+      {
+        "amount": 272,
+        "unit": "g",
+        "ingredient": "oat flour",
+        "weight": 272.8226652675761
+      },
+      {
+        "amount": 67,
+        "unit": "g",
+        "ingredient": "white chocolate melted",
+        "weight": 67.1563483735572
+      },
+      {
+        "amount": 3,
+        "unit": "g",
+        "ingredient": "coconut sugar",
+        "weight": 3.1479538300104934
+      }
+    ],
+    "fitness": 19
+  },
+  {
+    "name": "recipe 1847",
+    "ingredients": [
+      {
+        "amount": 75,
+        "unit": "g",
+        "ingredient": "bicarbonate of soda",
+        "weight": 75.69296375266525
+      },
+      {
+        "amount": 88,
+        "unit": "g",
+        "ingredient": "whole milk",
+        "weight": 88.4861407249467
+      },
+      {
+        "amount": 184,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 184.43496801705757
+      },
+      {
+        "amount": 23,
+        "unit": "g",
+        "ingredient": "(30% cocoa butter or higher) 100g white chocolate roughly chopped",
+        "weight": 23.454157782515992
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "/2 tsp bicarbonate of soda",
+        "weight": 1.0660980810234542
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "demerara sugar",
+        "weight": 1.0660980810234542
+      },
+      {
+        "amount": 251,
+        "unit": "g",
+        "ingredient": "egg whites",
+        "weight": 251.59914712153517
+      },
+      {
+        "amount": 309,
+        "unit": "g",
+        "ingredient": "oat flour",
+        "weight": 309.16844349680173
+      },
+      {
+        "amount": 60,
+        "unit": "g",
+        "ingredient": "1½ teaspoon baking soda",
+        "weight": 60.76759061833689
+      },
+      {
+        "amount": 4,
+        "unit": "g",
+        "ingredient": "coconut sugar",
+        "weight": 4.264392324093817
+      }
+    ],
+    "fitness": 19
+  },
+  {
+    "name": "recipe 2702",
+    "ingredients": [
+      {
+        "amount": 89,
+        "unit": "g",
+        "ingredient": "whole milk",
+        "weight": 89.04933814681108
+      },
+      {
+        "amount": 184,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 184.11552346570397
+      },
+      {
+        "amount": 18,
+        "unit": "g",
+        "ingredient": "(30% cocoa butter or higher) 100g white chocolate roughly chopped",
+        "weight": 18.050541516245488
+      },
+      {
+        "amount": 2,
+        "unit": "g",
+        "ingredient": "/2 tsp bicarbonate of soda",
+        "weight": 2.406738868832732
+      },
+      {
+        "amount": 283,
+        "unit": "g",
+        "ingredient": "egg whites",
+        "weight": 283.9951865222624
+      },
+      {
+        "amount": 348,
+        "unit": "g",
+        "ingredient": "oat flour",
+        "weight": 348.9771359807461
+      },
+      {
+        "amount": 68,
+        "unit": "g",
+        "ingredient": "1½ teaspoon baking soda",
+        "weight": 68.59205776173286
+      },
+      {
+        "amount": 4,
+        "unit": "g",
+        "ingredient": "coconut sugar",
+        "weight": 4.813477737665464
+      }
+    ],
+    "fitness": 19
+  },
+  {
+    "name": "recipe 2704",
+    "ingredients": [
+      {
+        "amount": 73,
+        "unit": "g",
+        "ingredient": "bicarbonate of soda",
+        "weight": 73.46938775510205
+      },
+      {
+        "amount": 66,
+        "unit": "g",
+        "ingredient": "whole milk",
+        "weight": 66.3265306122449
+      },
+      {
+        "amount": 177,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 177.55102040816328
+      },
+      {
+        "amount": 23,
+        "unit": "g",
+        "ingredient": "(30% cocoa butter or higher) 100g white chocolate roughly chopped",
+        "weight": 23.46938775510204
+      },
+      {
+        "amount": 236,
+        "unit": "g",
+        "ingredient": "egg whites",
+        "weight": 236.73469387755102
+      },
+      {
+        "amount": 345,
+        "unit": "g",
+        "ingredient": "oat flour",
+        "weight": 345.9183673469388
+      },
+      {
+        "amount": 72,
+        "unit": "g",
+        "ingredient": "black cocoa powder (you can use all regular cocoa if you prefer; this will just give a more intense color)",
+        "weight": 72.44897959183673
+      },
+      {
+        "amount": 4,
+        "unit": "g",
+        "ingredient": "coconut sugar",
+        "weight": 4.081632653061225
+      }
+    ],
+    "fitness": 19
+  },
+  {
+    "name": "recipe 2705",
+    "ingredients": [
+      {
+        "amount": 94,
+        "unit": "g",
+        "ingredient": "bicarbonate of soda",
+        "weight": 94.33962264150944
+      },
+      {
+        "amount": 112,
+        "unit": "g",
+        "ingredient": "whole milk",
+        "weight": 112.21449851042702
+      },
+      {
+        "amount": 126,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 126.11717974180735
+      },
+      {
+        "amount": 22,
+        "unit": "g",
+        "ingredient": "(30% cocoa butter or higher) 100g white chocolate roughly chopped",
+        "weight": 22.840119165839127
+      },
+      {
+        "amount": 254,
+        "unit": "g",
+        "ingredient": "egg whites",
+        "weight": 254.22045680238332
+      },
+      {
+        "amount": 311,
+        "unit": "g",
+        "ingredient": "oat flour",
+        "weight": 311.8172790466733
+      },
+      {
+        "amount": 73,
+        "unit": "g",
+        "ingredient": "fleur del sel or 1/4 teaspoon fine sea salt",
+        "weight": 73.48560079443892
+      },
+      {
+        "amount": 4,
+        "unit": "g",
+        "ingredient": "coconut sugar",
+        "weight": 4.96524329692155
+      }
+    ],
+    "fitness": 19
+  },
+  {
+    "name": "recipe 2706",
+    "ingredients": [
+      {
+        "amount": 68,
+        "unit": "g",
+        "ingredient": "bicarbonate of soda",
+        "weight": 68.0
+      },
+      {
+        "amount": 78,
+        "unit": "g",
+        "ingredient": "whole milk",
+        "weight": 78.0
+      },
+      {
+        "amount": 161,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 161.0
+      },
+      {
+        "amount": 16,
+        "unit": "g",
+        "ingredient": "(30% cocoa butter or higher) 100g white chocolate roughly chopped",
+        "weight": 16.0
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "/2 tsp bicarbonate of soda",
+        "weight": 1.0
+      },
+      {
+        "amount": 304,
+        "unit": "g",
+        "ingredient": "egg whites",
+        "weight": 304.0
+      },
+      {
+        "amount": 310,
+        "unit": "g",
+        "ingredient": "oat flour",
+        "weight": 310.0
+      },
+      {
+        "amount": 60,
+        "unit": "g",
+        "ingredient": "black cocoa powder (you can use all regular cocoa if you prefer; this will just give a more intense color)",
+        "weight": 60.0
+      },
+      {
+        "amount": 2,
+        "unit": "g",
+        "ingredient": "coconut sugar",
+        "weight": 2.0
+      }
+    ],
+    "fitness": 19
+  },
+  {
+    "name": "recipe 2707",
+    "ingredients": [
+      {
+        "amount": 73,
+        "unit": "g",
+        "ingredient": "bicarbonate of soda",
+        "weight": 73.6949846468782
+      },
+      {
+        "amount": 81,
+        "unit": "g",
+        "ingredient": "whole milk",
+        "weight": 81.88331627430911
+      },
+      {
+        "amount": 182,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 182.19037871033777
+      },
+      {
+        "amount": 23,
+        "unit": "g",
+        "ingredient": "(30% cocoa butter or higher) 100g white chocolate roughly chopped",
+        "weight": 23.541453428863868
+      },
+      {
+        "amount": 285,
+        "unit": "g",
+        "ingredient": "egg whites",
+        "weight": 285.568065506653
+      },
+      {
+        "amount": 292,
+        "unit": "g",
+        "ingredient": "oat flour",
+        "weight": 292.73285568065506
+      },
+      {
+        "amount": 57,
+        "unit": "g",
+        "ingredient": "white chocolate melted",
+        "weight": 57.31832139201637
+      },
+      {
+        "amount": 3,
+        "unit": "g",
+        "ingredient": "coconut sugar",
+        "weight": 3.0706243602865912
+      }
+    ],
+    "fitness": 19
+  },
+  {
+    "name": "recipe 2709",
+    "ingredients": [
+      {
+        "amount": 74,
+        "unit": "g",
+        "ingredient": "fresh rosemary, finely chopped",
+        "weight": 74.4336569579288
+      },
+      {
+        "amount": 83,
+        "unit": "g",
+        "ingredient": "whole milk",
+        "weight": 83.06364617044228
+      },
+      {
+        "amount": 184,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 184.46601941747574
+      },
+      {
+        "amount": 23,
+        "unit": "g",
+        "ingredient": "(30% cocoa butter or higher) 100g white chocolate roughly chopped",
+        "weight": 23.73247033441208
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "vegetable oil",
+        "weight": 1.0787486515641855
+      },
+      {
+        "amount": 254,
+        "unit": "g",
+        "ingredient": "egg whites",
+        "weight": 254.58468176914778
+      },
+      {
+        "amount": 312,
+        "unit": "g",
+        "ingredient": "oat flour",
+        "weight": 312.8371089536138
+      },
+      {
+        "amount": 61,
+        "unit": "g",
+        "ingredient": "1½ teaspoon baking soda",
+        "weight": 61.48867313915858
+      },
+      {
+        "amount": 4,
+        "unit": "g",
+        "ingredient": "coconut sugar",
+        "weight": 4.314994606256742
+      }
+    ],
+    "fitness": 19
+  },
+  {
+    "name": "recipe 2710",
+    "ingredients": [
+      {
+        "amount": 73,
+        "unit": "g",
+        "ingredient": "bicarbonate of soda",
+        "weight": 73.41269841269842
+      },
+      {
+        "amount": 85,
+        "unit": "g",
+        "ingredient": "½ tsp baking powder",
+        "weight": 85.31746031746032
+      },
+      {
+        "amount": 189,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 189.484126984127
+      },
+      {
+        "amount": 22,
+        "unit": "g",
+        "ingredient": "butter, room temperature",
+        "weight": 22.817460317460316
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "/2 tsp bicarbonate of soda",
+        "weight": 0.9920634920634921
+      },
+      {
+        "amount": 251,
+        "unit": "g",
+        "ingredient": "egg whites",
+        "weight": 251.984126984127
+      },
+      {
+        "amount": 309,
+        "unit": "g",
+        "ingredient": "oat flour",
+        "weight": 309.5238095238095
+      },
+      {
+        "amount": 61,
+        "unit": "g",
+        "ingredient": "black cocoa powder (you can use all regular cocoa if you prefer; this will just give a more intense color)",
+        "weight": 61.507936507936506
+      },
+      {
+        "amount": 4,
+        "unit": "g",
+        "ingredient": "coconut sugar",
+        "weight": 4.9603174603174605
+      }
+    ],
+    "fitness": 19
+  },
+  {
+    "name": "recipe 2711",
+    "ingredients": [
+      {
+        "amount": 87,
+        "unit": "g",
+        "ingredient": "bicarbonate of soda",
+        "weight": 87.63837638376384
+      },
+      {
+        "amount": 92,
+        "unit": "g",
+        "ingredient": "whole milk",
+        "weight": 92.25092250922509
+      },
+      {
+        "amount": 175,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 175.27675276752768
+      },
+      {
+        "amount": 22,
+        "unit": "g",
+        "ingredient": "(30% cocoa butter or higher) 100g white chocolate roughly chopped",
+        "weight": 22.140221402214024
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "/2 tsp bicarbonate of soda",
+        "weight": 1.845018450184502
+      },
+      {
+        "amount": 250,
+        "unit": "g",
+        "ingredient": "egg whites",
+        "weight": 250.0
+      },
+      {
+        "amount": 305,
+        "unit": "g",
+        "ingredient": "oat flour",
+        "weight": 305.35055350553506
+      },
+      {
+        "amount": 59,
+        "unit": "g",
+        "ingredient": "black cocoa powder (you can use all regular cocoa if you prefer; this will just give a more intense color)",
+        "weight": 59.96309963099631
+      },
+      {
+        "amount": 5,
+        "unit": "g",
+        "ingredient": "coconut sugar",
+        "weight": 5.535055350553506
+      }
+    ],
+    "fitness": 19
+  },
+  {
+    "name": "recipe 2714",
+    "ingredients": [
+      {
+        "amount": 90,
+        "unit": "g",
+        "ingredient": "bicarbonate of soda",
+        "weight": 90.57971014492753
+      },
+      {
+        "amount": 85,
+        "unit": "g",
+        "ingredient": "whole milk",
+        "weight": 85.14492753623189
+      },
+      {
+        "amount": 192,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 192.93478260869566
+      },
+      {
+        "amount": 54,
+        "unit": "g",
+        "ingredient": "(30% cocoa butter or higher) 100g white chocolate roughly chopped",
+        "weight": 54.34782608695652
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "/2 tsp bicarbonate of soda",
+        "weight": 0.9057971014492754
+      },
+      {
+        "amount": 247,
+        "unit": "g",
+        "ingredient": "egg whites",
+        "weight": 247.2826086956522
+      },
+      {
+        "amount": 269,
+        "unit": "g",
+        "ingredient": "oat flour",
+        "weight": 269.92753623188406
+      },
+      {
+        "amount": 58,
+        "unit": "g",
+        "ingredient": "black cocoa powder (you can use all regular cocoa if you prefer; this will just give a more intense color)",
+        "weight": 58.8768115942029
+      }
+    ],
+    "fitness": 19
+  },
+  {
+    "name": "recipe 2715",
+    "ingredients": [
+      {
+        "amount": 97,
+        "unit": "g",
+        "ingredient": "bicarbonate of soda",
+        "weight": 97.5359342915811
+      },
+      {
+        "amount": 91,
+        "unit": "g",
+        "ingredient": "whole milk",
+        "weight": 91.37577002053388
+      },
+      {
+        "amount": 206,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 206.3655030800821
+      },
+      {
+        "amount": 24,
+        "unit": "g",
+        "ingredient": "(30% cocoa butter or higher) 100g white chocolate roughly chopped",
+        "weight": 24.64065708418891
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "/2 tsp bicarbonate of soda",
+        "weight": 1.0266940451745379
+      },
+      {
+        "amount": 260,
+        "unit": "g",
+        "ingredient": "egg whites",
+        "weight": 260.7802874743326
+      },
+      {
+        "amount": 254,
+        "unit": "g",
+        "ingredient": "oat flour",
+        "weight": 254.6201232032854
+      },
+      {
+        "amount": 61,
+        "unit": "g",
+        "ingredient": "black cocoa powder (you can use all regular cocoa if you prefer; this will just give a more intense color)",
+        "weight": 61.60164271047228
+      },
+      {
+        "amount": 2,
+        "unit": "g",
+        "ingredient": "coconut sugar",
+        "weight": 2.0533880903490758
+      }
+    ],
+    "fitness": 19
+  },
+  {
+    "name": "recipe 2717",
+    "ingredients": [
+      {
+        "amount": 70,
+        "unit": "g",
+        "ingredient": "bicarbonate of soda",
+        "weight": 70.83333333333334
+      },
+      {
+        "amount": 81,
+        "unit": "g",
+        "ingredient": "whole milk",
+        "weight": 81.25
+      },
+      {
+        "amount": 167,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 167.70833333333334
+      },
+      {
+        "amount": 19,
+        "unit": "g",
+        "ingredient": "(30% cocoa butter or higher) 100g white chocolate roughly chopped",
+        "weight": 19.791666666666668
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "/2 tsp bicarbonate of soda",
+        "weight": 1.0416666666666667
+      },
+      {
+        "amount": 264,
+        "unit": "g",
+        "ingredient": "egg whites",
+        "weight": 264.58333333333337
+      },
+      {
+        "amount": 325,
+        "unit": "g",
+        "ingredient": "oat flour",
+        "weight": 325.0
+      },
+      {
+        "amount": 64,
+        "unit": "g",
+        "ingredient": "black cocoa powder (you can use all regular cocoa if you prefer; this will just give a more intense color)",
+        "weight": 64.58333333333334
+      },
+      {
+        "amount": 5,
+        "unit": "g",
+        "ingredient": "coconut sugar",
+        "weight": 5.208333333333334
+      }
+    ],
+    "fitness": 19
+  },
+  {
+    "name": "recipe 2719",
+    "ingredients": [
+      {
+        "amount": 80,
+        "unit": "g",
+        "ingredient": "bicarbonate of soda",
+        "weight": 80.09153318077804
+      },
+      {
+        "amount": 212,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 212.8146453089245
+      },
+      {
+        "amount": 26,
+        "unit": "g",
+        "ingredient": "(30% cocoa butter or higher) 100g white chocolate roughly chopped",
+        "weight": 26.315789473684212
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "/2 tsp bicarbonate of soda",
+        "weight": 1.1441647597254005
+      },
+      {
+        "amount": 273,
+        "unit": "g",
+        "ingredient": "egg whites",
+        "weight": 273.45537757437074
+      },
+      {
+        "amount": 336,
+        "unit": "g",
+        "ingredient": "oat flour",
+        "weight": 336.3844393592678
+      },
+      {
+        "amount": 65,
+        "unit": "g",
+        "ingredient": "1½ teaspoon baking soda",
+        "weight": 65.21739130434783
+      },
+      {
+        "amount": 4,
+        "unit": "g",
+        "ingredient": "coconut sugar",
+        "weight": 4.576659038901602
+      }
+    ],
+    "fitness": 19
+  },
+  {
+    "name": "recipe 2720",
+    "ingredients": [
+      {
+        "amount": 101,
+        "unit": "g",
+        "ingredient": "bicarbonate of soda",
+        "weight": 101.21457489878543
+      },
+      {
+        "amount": 87,
+        "unit": "g",
+        "ingredient": "whole milk",
+        "weight": 87.04453441295547
+      },
+      {
+        "amount": 195,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 195.34412955465586
+      },
+      {
+        "amount": 23,
+        "unit": "g",
+        "ingredient": "(30% cocoa butter or higher) 100g white chocolate roughly chopped",
+        "weight": 23.279352226720647
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "/2 tsp bicarbonate of soda",
+        "weight": 1.0121457489878543
+      },
+      {
+        "amount": 242,
+        "unit": "g",
+        "ingredient": "egg whites",
+        "weight": 242.914979757085
+      },
+      {
+        "amount": 298,
+        "unit": "g",
+        "ingredient": "oat flour",
+        "weight": 298.582995951417
+      },
+      {
+        "amount": 46,
+        "unit": "g",
+        "ingredient": "1½ teaspoon baking soda",
+        "weight": 46.558704453441294
+      },
+      {
+        "amount": 4,
+        "unit": "g",
+        "ingredient": "coconut sugar",
+        "weight": 4.048582995951417
+      }
+    ],
+    "fitness": 19
+  },
+  {
+    "name": "recipe 2722",
+    "ingredients": [
+      {
+        "amount": 77,
+        "unit": "g",
+        "ingredient": "bicarbonate of soda",
+        "weight": 77.23577235772359
+      },
+      {
+        "amount": 94,
+        "unit": "g",
+        "ingredient": "whole milk",
+        "weight": 94.51219512195122
+      },
+      {
+        "amount": 189,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 189.02439024390245
+      },
+      {
+        "amount": 18,
+        "unit": "g",
+        "ingredient": "(30% cocoa butter or higher) 100g white chocolate roughly chopped",
+        "weight": 18.29268292682927
+      },
+      {
+        "amount": 192,
+        "unit": "g",
+        "ingredient": "egg whites",
+        "weight": 192.07317073170734
+      },
+      {
+        "amount": 298,
+        "unit": "g",
+        "ingredient": "oat flour",
+        "weight": 298.7804878048781
+      },
+      {
+        "amount": 56,
+        "unit": "g",
+        "ingredient": "white chocolate melted",
+        "weight": 56.91056910569106
+      },
+      {
+        "amount": 51,
+        "unit": "g",
+        "ingredient": "coconut sugar",
+        "weight": 51.82926829268293
+      },
+      {
+        "amount": 21,
+        "unit": "g",
+        "ingredient": "powdered apple pectin",
+        "weight": 21.34146341463415
+      }
+    ],
+    "fitness": 19
+  },
+  {
+    "name": "recipe 2724",
+    "ingredients": [
+      {
+        "amount": 96,
+        "unit": "g",
+        "ingredient": "bicarbonate of soda",
+        "weight": 96.24639076034649
+      },
+      {
+        "amount": 89,
+        "unit": "g",
+        "ingredient": "whole milk",
+        "weight": 89.50914340712224
+      },
+      {
+        "amount": 199,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 199.23002887391723
+      },
+      {
+        "amount": 29,
+        "unit": "g",
+        "ingredient": "(30% cocoa butter or higher) 100g white chocolate roughly chopped",
+        "weight": 29.836381135707413
+      },
+      {
+        "amount": 258,
+        "unit": "g",
+        "ingredient": "egg whites",
+        "weight": 258.90279114533206
+      },
+      {
+        "amount": 265,
+        "unit": "g",
+        "ingredient": "oat flour",
+        "weight": 265.6400384985563
+      },
+      {
+        "amount": 51,
+        "unit": "g",
+        "ingredient": "white chocolate melted",
+        "weight": 51.973051010587106
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "coconut sugar",
+        "weight": 1.9249278152069298
+      },
+      {
+        "amount": 6,
+        "unit": "g",
+        "ingredient": "peppermint extract",
+        "weight": 6.737247353224254
+      }
+    ],
+    "fitness": 19
+  }
+]

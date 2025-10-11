@@ -1,0 +1,1820 @@
+[
+  {
+    "name": "recipe 369",
+    "ingredients": [
+      {
+        "amount": 184,
+        "unit": "g",
+        "ingredient": "unsalted butter, melted",
+        "weight": 184.1897233201581
+      },
+      {
+        "amount": 7,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 7.905138339920948
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "½ tsp baking powder",
+        "weight": 1.5810276679841897
+      },
+      {
+        "amount": 137,
+        "unit": "g",
+        "ingredient": "egg yolk",
+        "weight": 137.5494071146245
+      },
+      {
+        "amount": 160,
+        "unit": "g",
+        "ingredient": "white chocolate chopped into small chunks",
+        "weight": 160.47430830039525
+      },
+      {
+        "amount": 86,
+        "unit": "g",
+        "ingredient": "icing sugar for rolling",
+        "weight": 86.95652173913044
+      },
+      {
+        "amount": 86,
+        "unit": "g",
+        "ingredient": "caster sugar",
+        "weight": 86.95652173913044
+      },
+      {
+        "amount": 97,
+        "unit": "g",
+        "ingredient": "super-fine almond flour",
+        "weight": 97.23320158102767
+      },
+      {
+        "amount": 237,
+        "unit": "g",
+        "ingredient": "plain flour",
+        "weight": 237.15415019762847
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 373",
+    "ingredients": [
+      {
+        "amount": 18,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 18.909899888765295
+      },
+      {
+        "amount": 2,
+        "unit": "g",
+        "ingredient": "baking soda",
+        "weight": 2.2246941045606228
+      },
+      {
+        "amount": 311,
+        "unit": "g",
+        "ingredient": "egg yolk",
+        "weight": 311.4571746384872
+      },
+      {
+        "amount": 5,
+        "unit": "g",
+        "ingredient": "fresh raspberries (or see headnote)",
+        "weight": 5.561735261401557
+      },
+      {
+        "amount": 422,
+        "unit": "g",
+        "ingredient": "plain flour",
+        "weight": 422.6918798665183
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "tahini",
+        "weight": 1.1123470522803114
+      },
+      {
+        "amount": 180,
+        "unit": "g",
+        "ingredient": "dark chocolate chunks or chips",
+        "weight": 180.20022246941045
+      },
+      {
+        "amount": 57,
+        "unit": "g",
+        "ingredient": "mini meringues chopped into small chunks",
+        "weight": 57.84204671857619
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 394",
+    "ingredients": [
+      {
+        "amount": 241,
+        "unit": "g",
+        "ingredient": "unsalted butter softened",
+        "weight": 241.61073825503357
+      },
+      {
+        "amount": 7,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 7.829977628635347
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "baking soda",
+        "weight": 1.1185682326621924
+      },
+      {
+        "amount": 123,
+        "unit": "g",
+        "ingredient": "egg yolk",
+        "weight": 123.04250559284117
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "fresh raspberries (or see headnote)",
+        "weight": 1.1185682326621924
+      },
+      {
+        "amount": 232,
+        "unit": "g",
+        "ingredient": "white chocolate chopped into small chunks",
+        "weight": 232.662192393736
+      },
+      {
+        "amount": 125,
+        "unit": "g",
+        "ingredient": "icing sugar for rolling",
+        "weight": 125.27964205816555
+      },
+      {
+        "amount": 125,
+        "unit": "g",
+        "ingredient": "caster sugar",
+        "weight": 125.27964205816555
+      },
+      {
+        "amount": 140,
+        "unit": "g",
+        "ingredient": "super-fine almond flour",
+        "weight": 140.93959731543623
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "½ tsp baking powder",
+        "weight": 1.1185682326621924
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 422",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "unsalted butter, at room temperature",
+        "weight": 0.75642965204236
+      },
+      {
+        "amount": 280,
+        "unit": "g",
+        "ingredient": "dark chocolate chopped into chunks",
+        "weight": 280.63540090771556
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 1.51285930408472
+      },
+      {
+        "amount": 133,
+        "unit": "g",
+        "ingredient": "egg",
+        "weight": 133.13161875945536
+      },
+      {
+        "amount": 186,
+        "unit": "g",
+        "ingredient": "white chocolate chopped into small chunks",
+        "weight": 186.08169440242057
+      },
+      {
+        "amount": 100,
+        "unit": "g",
+        "ingredient": "icing sugar for rolling",
+        "weight": 100.60514372163388
+      },
+      {
+        "amount": 100,
+        "unit": "g",
+        "ingredient": "milk",
+        "weight": 100.60514372163388
+      },
+      {
+        "amount": 112,
+        "unit": "g",
+        "ingredient": "super-fine almond flour",
+        "weight": 112.70801815431165
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "½ tsp baking powder",
+        "weight": 0.75642965204236
+      },
+      {
+        "amount": 83,
+        "unit": "g",
+        "ingredient": "light brown sugar",
+        "weight": 83.2072617246596
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 426",
+    "ingredients": [
+      {
+        "amount": 7,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 7.702182284980745
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "baking soda",
+        "weight": 1.2836970474967908
+      },
+      {
+        "amount": 255,
+        "unit": "g",
+        "ingredient": "egg yolk",
+        "weight": 255.45571245186136
+      },
+      {
+        "amount": 121,
+        "unit": "g",
+        "ingredient": "white chocolate chopped into small chunks",
+        "weight": 121.95121951219512
+      },
+      {
+        "amount": 391,
+        "unit": "g",
+        "ingredient": "cornflour",
+        "weight": 391.5275994865212
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "tahini",
+        "weight": 1.2836970474967908
+      },
+      {
+        "amount": 166,
+        "unit": "g",
+        "ingredient": "dark chocolate chunks or chips",
+        "weight": 166.8806161745828
+      },
+      {
+        "amount": 53,
+        "unit": "g",
+        "ingredient": "mini meringues chopped into small chunks",
+        "weight": 53.91527599486521
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 449",
+    "ingredients": [
+      {
+        "amount": 227,
+        "unit": "g",
+        "ingredient": "unsalted butter softened",
+        "weight": 227.78827977315692
+      },
+      {
+        "amount": 6,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 6.616257088846881
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "baking soda",
+        "weight": 0.945179584120983
+      },
+      {
+        "amount": 116,
+        "unit": "g",
+        "ingredient": "egg yolk",
+        "weight": 116.2570888468809
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "fresh raspberries (or see headnote)",
+        "weight": 0.945179584120983
+      },
+      {
+        "amount": 356,
+        "unit": "g",
+        "ingredient": "raisins",
+        "weight": 356.3327032136106
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "baking powder",
+        "weight": 0.945179584120983
+      },
+      {
+        "amount": 151,
+        "unit": "g",
+        "ingredient": "dark chocolate chunks or chips",
+        "weight": 151.22873345935727
+      },
+      {
+        "amount": 38,
+        "unit": "g",
+        "ingredient": "mini meringues chopped into small chunks",
+        "weight": 38.752362948960304
+      },
+      {
+        "amount": 100,
+        "unit": "g",
+        "ingredient": "strong white bread flour",
+        "weight": 100.1890359168242
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 456",
+    "ingredients": [
+      {
+        "amount": 224,
+        "unit": "g",
+        "ingredient": "regular semisweet chocolate chips",
+        "weight": 224.53016815034619
+      },
+      {
+        "amount": 5,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 5.934718100890208
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "baking soda",
+        "weight": 0.9891196834817013
+      },
+      {
+        "amount": 114,
+        "unit": "g",
+        "ingredient": "egg yolk",
+        "weight": 114.73788328387735
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "fresh raspberries (or see headnote)",
+        "weight": 0.9891196834817013
+      },
+      {
+        "amount": 417,
+        "unit": "g",
+        "ingredient": "plain flour",
+        "weight": 417.40850642927796
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "tahini",
+        "weight": 0.9891196834817013
+      },
+      {
+        "amount": 178,
+        "unit": "g",
+        "ingredient": "dark chocolate chunks or chips",
+        "weight": 178.04154302670625
+      },
+      {
+        "amount": 56,
+        "unit": "g",
+        "ingredient": "mini meringues chopped into small chunks",
+        "weight": 56.37982195845697
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 478",
+    "ingredients": [
+      {
+        "amount": 303,
+        "unit": "g",
+        "ingredient": "unsalted butter softened",
+        "weight": 303.8821954484605
+      },
+      {
+        "amount": 8,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 8.032128514056225
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "baking soda",
+        "weight": 1.3386880856760375
+      },
+      {
+        "amount": 155,
+        "unit": "g",
+        "ingredient": "egg yolk",
+        "weight": 155.28781793842035
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "fresh raspberries (or see headnote)",
+        "weight": 1.3386880856760375
+      },
+      {
+        "amount": 144,
+        "unit": "g",
+        "ingredient": "icing sugar for rolling",
+        "weight": 144.57831325301206
+      },
+      {
+        "amount": 123,
+        "unit": "g",
+        "ingredient": "milk",
+        "weight": 123.15930388219545
+      },
+      {
+        "amount": 149,
+        "unit": "g",
+        "ingredient": "super-fine almond flour",
+        "weight": 149.9330655957162
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "½ tsp baking powder",
+        "weight": 1.3386880856760375
+      },
+      {
+        "amount": 111,
+        "unit": "g",
+        "ingredient": "light brown sugar",
+        "weight": 111.11111111111111
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 479",
+    "ingredients": [
+      {
+        "amount": 222,
+        "unit": "g",
+        "ingredient": "unsalted butter, melted",
+        "weight": 222.45322245322245
+      },
+      {
+        "amount": 9,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 9.355509355509357
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "eggs",
+        "weight": 1.0395010395010396
+      },
+      {
+        "amount": 166,
+        "unit": "g",
+        "ingredient": "egg yolk",
+        "weight": 166.32016632016632
+      },
+      {
+        "amount": 223,
+        "unit": "g",
+        "ingredient": "white chocolate chopped into small chunks",
+        "weight": 223.4927234927235
+      },
+      {
+        "amount": 120,
+        "unit": "g",
+        "ingredient": "icing sugar for rolling",
+        "weight": 120.5821205821206
+      },
+      {
+        "amount": 120,
+        "unit": "g",
+        "ingredient": "milk",
+        "weight": 120.5821205821206
+      },
+      {
+        "amount": 135,
+        "unit": "g",
+        "ingredient": "super-fine almond flour",
+        "weight": 135.13513513513513
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "½ tsp baking powder",
+        "weight": 1.0395010395010396
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 484",
+    "ingredients": [
+      {
+        "amount": 220,
+        "unit": "g",
+        "ingredient": "unsalted butter, melted",
+        "weight": 220.95070422535213
+      },
+      {
+        "amount": 8,
+        "unit": "g",
+        "ingredient": "salt",
+        "weight": 8.802816901408452
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "baking soda",
+        "weight": 0.8802816901408451
+      },
+      {
+        "amount": 93,
+        "unit": "g",
+        "ingredient": "egg yolk",
+        "weight": 93.30985915492958
+      },
+      {
+        "amount": 230,
+        "unit": "g",
+        "ingredient": "white chocolate chopped into small chunks",
+        "weight": 230.6338028169014
+      },
+      {
+        "amount": 75,
+        "unit": "g",
+        "ingredient": "icing sugar for rolling",
+        "weight": 75.70422535211269
+      },
+      {
+        "amount": 75,
+        "unit": "g",
+        "ingredient": "caster sugar",
+        "weight": 75.70422535211269
+      },
+      {
+        "amount": 85,
+        "unit": "g",
+        "ingredient": "super-fine almond flour",
+        "weight": 85.38732394366198
+      },
+      {
+        "amount": 208,
+        "unit": "g",
+        "ingredient": "plain flour",
+        "weight": 208.6267605633803
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 485",
+    "ingredients": [
+      {
+        "amount": 253,
+        "unit": "g",
+        "ingredient": "unsalted butter, melted",
+        "weight": 253.40909090909093
+      },
+      {
+        "amount": 7,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 7.954545454545455
+      },
+      {
+        "amount": 3,
+        "unit": "g",
+        "ingredient": "½ tsp baking powder",
+        "weight": 3.409090909090909
+      },
+      {
+        "amount": 188,
+        "unit": "g",
+        "ingredient": "egg yolk",
+        "weight": 188.63636363636365
+      },
+      {
+        "amount": 212,
+        "unit": "g",
+        "ingredient": "white chocolate chopped into small chunks",
+        "weight": 212.50000000000003
+      },
+      {
+        "amount": 90,
+        "unit": "g",
+        "ingredient": "icing sugar for rolling",
+        "weight": 90.90909090909092
+      },
+      {
+        "amount": 114,
+        "unit": "g",
+        "ingredient": "caster sugar",
+        "weight": 114.77272727272728
+      },
+      {
+        "amount": 128,
+        "unit": "g",
+        "ingredient": "super-fine almond flour",
+        "weight": 128.4090909090909
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 487",
+    "ingredients": [
+      {
+        "amount": 278,
+        "unit": "g",
+        "ingredient": "unsalted butter, melted",
+        "weight": 278.02128991859735
+      },
+      {
+        "amount": 11,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 11.271133375078271
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "eggs",
+        "weight": 1.2523481527864746
+      },
+      {
+        "amount": 207,
+        "unit": "g",
+        "ingredient": "egg yolk",
+        "weight": 207.88979336255477
+      },
+      {
+        "amount": 125,
+        "unit": "g",
+        "ingredient": "icing sugar for rolling",
+        "weight": 125.23481527864746
+      },
+      {
+        "amount": 125,
+        "unit": "g",
+        "ingredient": "milk",
+        "weight": 125.23481527864746
+      },
+      {
+        "amount": 140,
+        "unit": "g",
+        "ingredient": "super-fine almond flour",
+        "weight": 140.26299311208516
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "½ tsp baking powder",
+        "weight": 1.2523481527864746
+      },
+      {
+        "amount": 103,
+        "unit": "g",
+        "ingredient": "light brown sugar",
+        "weight": 103.94489668127738
+      },
+      {
+        "amount": 5,
+        "unit": "g",
+        "ingredient": "fleur de sel or other large-flake sea salt",
+        "weight": 5.635566687539136
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 489",
+    "ingredients": [
+      {
+        "amount": 186,
+        "unit": "g",
+        "ingredient": "unsalted butter, melted",
+        "weight": 186.046511627907
+      },
+      {
+        "amount": 7,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 7.077856420626896
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "½ tsp baking powder",
+        "weight": 1.0111223458038423
+      },
+      {
+        "amount": 138,
+        "unit": "g",
+        "ingredient": "egg yolk",
+        "weight": 138.52376137512638
+      },
+      {
+        "amount": 426,
+        "unit": "g",
+        "ingredient": "plain flour",
+        "weight": 426.69362992922146
+      },
+      {
+        "amount": 11,
+        "unit": "g",
+        "ingredient": "tahini",
+        "weight": 11.122345803842265
+      },
+      {
+        "amount": 182,
+        "unit": "g",
+        "ingredient": "dark chocolate chunks or chips",
+        "weight": 182.0020222446916
+      },
+      {
+        "amount": 47,
+        "unit": "g",
+        "ingredient": "mini meringues chopped into small chunks",
+        "weight": 47.52275025278059
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 492",
+    "ingredients": [
+      {
+        "amount": 239,
+        "unit": "g",
+        "ingredient": "unsalted butter, melted",
+        "weight": 239.74082073434124
+      },
+      {
+        "amount": 9,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 9.719222462203023
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "eggs",
+        "weight": 1.079913606911447
+      },
+      {
+        "amount": 179,
+        "unit": "g",
+        "ingredient": "egg yolk",
+        "weight": 179.2656587473002
+      },
+      {
+        "amount": 155,
+        "unit": "g",
+        "ingredient": "icing sugar for rolling",
+        "weight": 155.50755939524836
+      },
+      {
+        "amount": 132,
+        "unit": "g",
+        "ingredient": "milk",
+        "weight": 132.82937365010798
+      },
+      {
+        "amount": 160,
+        "unit": "g",
+        "ingredient": "super-fine almond flour",
+        "weight": 160.9071274298056
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "½ tsp baking powder",
+        "weight": 1.079913606911447
+      },
+      {
+        "amount": 119,
+        "unit": "g",
+        "ingredient": "light brown sugar",
+        "weight": 119.87041036717062
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 494",
+    "ingredients": [
+      {
+        "amount": 274,
+        "unit": "g",
+        "ingredient": "sweetened crunchy peanut butter",
+        "weight": 274.8917748917749
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "baking soda",
+        "weight": 1.0822510822510822
+      },
+      {
+        "amount": 150,
+        "unit": "g",
+        "ingredient": "egg yolk",
+        "weight": 150.43290043290042
+      },
+      {
+        "amount": 5,
+        "unit": "g",
+        "ingredient": "salt",
+        "weight": 5.411255411255411
+      },
+      {
+        "amount": 266,
+        "unit": "g",
+        "ingredient": "plain flour",
+        "weight": 266.23376623376623
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "/2 tsp bicarbonate of soda",
+        "weight": 1.0822510822510822
+      },
+      {
+        "amount": 111,
+        "unit": "g",
+        "ingredient": "dark chocolate chunks or chips",
+        "weight": 111.47186147186147
+      },
+      {
+        "amount": 35,
+        "unit": "g",
+        "ingredient": "½ tsp bicarbonate of soda",
+        "weight": 35.714285714285715
+      },
+      {
+        "amount": 153,
+        "unit": "g",
+        "ingredient": "sweetened condensed milk",
+        "weight": 153.67965367965368
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 1861",
+    "ingredients": [
+      {
+        "amount": 287,
+        "unit": "g",
+        "ingredient": "unsalted butter, melted",
+        "weight": 287.56476683937825
+      },
+      {
+        "amount": 11,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 11.6580310880829
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "eggs",
+        "weight": 1.2953367875647668
+      },
+      {
+        "amount": 215,
+        "unit": "g",
+        "ingredient": "egg yolk",
+        "weight": 215.02590673575128
+      },
+      {
+        "amount": 132,
+        "unit": "g",
+        "ingredient": "milk",
+        "weight": 132.12435233160622
+      },
+      {
+        "amount": 181,
+        "unit": "g",
+        "ingredient": "super-fine almond flour",
+        "weight": 181.34715025906735
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "½ tsp baking powder",
+        "weight": 1.2953367875647668
+      },
+      {
+        "amount": 133,
+        "unit": "g",
+        "ingredient": "light brown sugar",
+        "weight": 133.41968911917098
+      },
+      {
+        "amount": 36,
+        "unit": "g",
+        "ingredient": "fleur de sel or other large-flake sea salt",
+        "weight": 36.26943005181347
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 1862",
+    "ingredients": [
+      {
+        "amount": 260,
+        "unit": "g",
+        "ingredient": "unsalted butter softened",
+        "weight": 260.3211009174312
+      },
+      {
+        "amount": 6,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 6.8807339449541285
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "baking soda",
+        "weight": 1.146788990825688
+      },
+      {
+        "amount": 133,
+        "unit": "g",
+        "ingredient": "egg yolk",
+        "weight": 133.0275229357798
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "fresh raspberries (or see headnote)",
+        "weight": 1.146788990825688
+      },
+      {
+        "amount": 151,
+        "unit": "g",
+        "ingredient": "Sea salt (preferably Maldon; for sprinkling)",
+        "weight": 151.37614678899084
+      },
+      {
+        "amount": 183,
+        "unit": "g",
+        "ingredient": "super-fine almond flour",
+        "weight": 183.4862385321101
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "½ tsp baking powder",
+        "weight": 1.146788990825688
+      },
+      {
+        "amount": 98,
+        "unit": "g",
+        "ingredient": "light brown sugar",
+        "weight": 98.62385321100918
+      },
+      {
+        "amount": 162,
+        "unit": "g",
+        "ingredient": "tahini",
+        "weight": 162.8440366972477
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 1864",
+    "ingredients": [
+      {
+        "amount": 303,
+        "unit": "g",
+        "ingredient": "unsalted butter softened",
+        "weight": 303.8821954484605
+      },
+      {
+        "amount": 8,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 8.032128514056225
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "baking soda",
+        "weight": 1.3386880856760375
+      },
+      {
+        "amount": 155,
+        "unit": "g",
+        "ingredient": "egg yolk",
+        "weight": 155.28781793842035
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "ground nutmeg",
+        "weight": 1.3386880856760375
+      },
+      {
+        "amount": 133,
+        "unit": "g",
+        "ingredient": "icing sugar for rolling",
+        "weight": 133.86880856760374
+      },
+      {
+        "amount": 133,
+        "unit": "g",
+        "ingredient": "milk",
+        "weight": 133.86880856760374
+      },
+      {
+        "amount": 149,
+        "unit": "g",
+        "ingredient": "super-fine almond flour",
+        "weight": 149.9330655957162
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "½ tsp baking powder",
+        "weight": 1.3386880856760375
+      },
+      {
+        "amount": 111,
+        "unit": "g",
+        "ingredient": "light brown sugar",
+        "weight": 111.11111111111111
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 1866",
+    "ingredients": [
+      {
+        "amount": 222,
+        "unit": "g",
+        "ingredient": "sweetened crunchy peanut butter",
+        "weight": 222.22222222222223
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "baking soda",
+        "weight": 0.7558578987150416
+      },
+      {
+        "amount": 121,
+        "unit": "g",
+        "ingredient": "egg yolk",
+        "weight": 121.6931216931217
+      },
+      {
+        "amount": 3,
+        "unit": "g",
+        "ingredient": "salt",
+        "weight": 3.779289493575208
+      },
+      {
+        "amount": 272,
+        "unit": "g",
+        "ingredient": "white chocolate chopped into small chunks",
+        "weight": 272.108843537415
+      },
+      {
+        "amount": 64,
+        "unit": "g",
+        "ingredient": "icing sugar for rolling",
+        "weight": 64.24792139077854
+      },
+      {
+        "amount": 64,
+        "unit": "g",
+        "ingredient": "caster sugar",
+        "weight": 64.24792139077854
+      },
+      {
+        "amount": 72,
+        "unit": "g",
+        "ingredient": "super-fine almond flour",
+        "weight": 72.56235827664399
+      },
+      {
+        "amount": 178,
+        "unit": "g",
+        "ingredient": "unsalted butter softened",
+        "weight": 178.38246409674983
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 1868",
+    "ingredients": [
+      {
+        "amount": 208,
+        "unit": "g",
+        "ingredient": "unsalted butter, melted",
+        "weight": 208.33333333333334
+      },
+      {
+        "amount": 7,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 7.1138211382113825
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "½ tsp baking powder",
+        "weight": 1.016260162601626
+      },
+      {
+        "amount": 148,
+        "unit": "g",
+        "ingredient": "egg yolk",
+        "weight": 148.3739837398374
+      },
+      {
+        "amount": 247,
+        "unit": "g",
+        "ingredient": "white chocolate chopped into small chunks",
+        "weight": 247.96747967479678
+      },
+      {
+        "amount": 104,
+        "unit": "g",
+        "ingredient": "icing sugar for rolling",
+        "weight": 104.67479674796749
+      },
+      {
+        "amount": 133,
+        "unit": "g",
+        "ingredient": "caster sugar",
+        "weight": 133.13008130081303
+      },
+      {
+        "amount": 149,
+        "unit": "g",
+        "ingredient": "super-fine almond flour",
+        "weight": 149.39024390243904
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 1870",
+    "ingredients": [
+      {
+        "amount": 234,
+        "unit": "g",
+        "ingredient": "unsalted butter, softened and cut into small chunks",
+        "weight": 234.29179978700745
+      },
+      {
+        "amount": 8,
+        "unit": "g",
+        "ingredient": "salt",
+        "weight": 8.519701810436635
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "baking soda",
+        "weight": 1.0649627263045793
+      },
+      {
+        "amount": 99,
+        "unit": "g",
+        "ingredient": "egg yolk",
+        "weight": 99.04153354632588
+      },
+      {
+        "amount": 386,
+        "unit": "g",
+        "ingredient": "plain flour",
+        "weight": 386.5814696485623
+      },
+      {
+        "amount": 11,
+        "unit": "g",
+        "ingredient": "tahini",
+        "weight": 11.714589989350372
+      },
+      {
+        "amount": 206,
+        "unit": "g",
+        "ingredient": "dark chocolate chunks or chips",
+        "weight": 206.6027689030884
+      },
+      {
+        "amount": 52,
+        "unit": "g",
+        "ingredient": "mini meringues chopped into small chunks",
+        "weight": 52.18317358892439
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 1872",
+    "ingredients": [
+      {
+        "amount": 243,
+        "unit": "g",
+        "ingredient": "sweetened crunchy peanut butter",
+        "weight": 243.90243902439025
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "a pinch baking powder",
+        "weight": 0.975609756097561
+      },
+      {
+        "amount": 132,
+        "unit": "g",
+        "ingredient": "egg yolk",
+        "weight": 132.6829268292683
+      },
+      {
+        "amount": 21,
+        "unit": "g",
+        "ingredient": "salt",
+        "weight": 21.46341463414634
+      },
+      {
+        "amount": 259,
+        "unit": "g",
+        "ingredient": "plain flour",
+        "weight": 259.5121951219512
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "/2 tsp bicarbonate of soda",
+        "weight": 0.975609756097561
+      },
+      {
+        "amount": 108,
+        "unit": "g",
+        "ingredient": "dark chocolate chunks or chips",
+        "weight": 108.29268292682927
+      },
+      {
+        "amount": 34,
+        "unit": "g",
+        "ingredient": "½ tsp bicarbonate of soda",
+        "weight": 34.146341463414636
+      },
+      {
+        "amount": 149,
+        "unit": "g",
+        "ingredient": "sweetened condensed milk",
+        "weight": 149.2682926829268
+      },
+      {
+        "amount": 48,
+        "unit": "g",
+        "ingredient": "egg, at room-temperature",
+        "weight": 48.78048780487805
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 1875",
+    "ingredients": [
+      {
+        "amount": 234,
+        "unit": "g",
+        "ingredient": "unsalted butter, melted",
+        "weight": 234.80662983425412
+      },
+      {
+        "amount": 6,
+        "unit": "g",
+        "ingredient": "salt",
+        "weight": 6.445672191528545
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "baking soda",
+        "weight": 0.9208103130755064
+      },
+      {
+        "amount": 82,
+        "unit": "g",
+        "ingredient": "egg yolk",
+        "weight": 82.87292817679558
+      },
+      {
+        "amount": 211,
+        "unit": "g",
+        "ingredient": "white chocolate chopped into small chunks",
+        "weight": 211.78637200736648
+      },
+      {
+        "amount": 69,
+        "unit": "g",
+        "ingredient": "icing sugar for rolling",
+        "weight": 69.06077348066299
+      },
+      {
+        "amount": 69,
+        "unit": "g",
+        "ingredient": "caster sugar",
+        "weight": 69.06077348066299
+      },
+      {
+        "amount": 78,
+        "unit": "g",
+        "ingredient": "super-fine almond flour",
+        "weight": 78.26887661141805
+      },
+      {
+        "amount": 191,
+        "unit": "g",
+        "ingredient": "plain flour",
+        "weight": 191.52854511970534
+      },
+      {
+        "amount": 55,
+        "unit": "g",
+        "ingredient": "plus 1 tablespoon water",
+        "weight": 55.248618784530386
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 1877",
+    "ingredients": [
+      {
+        "amount": 185,
+        "unit": "g",
+        "ingredient": "unsalted butter, melted",
+        "weight": 185.48387096774192
+      },
+      {
+        "amount": 7,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 7.056451612903226
+      },
+      {
+        "amount": 23,
+        "unit": "g",
+        "ingredient": "½ tsp baking powder",
+        "weight": 23.18548387096774
+      },
+      {
+        "amount": 142,
+        "unit": "g",
+        "ingredient": "egg yolk",
+        "weight": 142.13709677419354
+      },
+      {
+        "amount": 239,
+        "unit": "g",
+        "ingredient": "white chocolate chopped into small chunks",
+        "weight": 239.91935483870967
+      },
+      {
+        "amount": 129,
+        "unit": "g",
+        "ingredient": "icing sugar for rolling",
+        "weight": 129.03225806451613
+      },
+      {
+        "amount": 129,
+        "unit": "g",
+        "ingredient": "caster sugar",
+        "weight": 129.03225806451613
+      },
+      {
+        "amount": 144,
+        "unit": "g",
+        "ingredient": "super-fine almond flour",
+        "weight": 144.15322580645162
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 1879",
+    "ingredients": [
+      {
+        "amount": 241,
+        "unit": "g",
+        "ingredient": "unsalted butter, melted",
+        "weight": 241.22310305775764
+      },
+      {
+        "amount": 11,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 11.325028312570781
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "eggs",
+        "weight": 1.1325028312570782
+      },
+      {
+        "amount": 229,
+        "unit": "g",
+        "ingredient": "egg yolk",
+        "weight": 229.89807474518688
+      },
+      {
+        "amount": 181,
+        "unit": "g",
+        "ingredient": "icing sugar for rolling",
+        "weight": 181.2004530011325
+      },
+      {
+        "amount": 113,
+        "unit": "g",
+        "ingredient": "milk",
+        "weight": 113.25028312570782
+      },
+      {
+        "amount": 126,
+        "unit": "g",
+        "ingredient": "super-fine almond flour",
+        "weight": 126.84031710079276
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "½ tsp baking powder",
+        "weight": 1.1325028312570782
+      },
+      {
+        "amount": 93,
+        "unit": "g",
+        "ingredient": "light brown sugar",
+        "weight": 93.99773499433749
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 1880",
+    "ingredients": [
+      {
+        "amount": 6,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 6.660323501427212
+      },
+      {
+        "amount": 22,
+        "unit": "g",
+        "ingredient": "baking soda",
+        "weight": 22.835394862036154
+      },
+      {
+        "amount": 242,
+        "unit": "g",
+        "ingredient": "egg yolk",
+        "weight": 242.62607040913414
+      },
+      {
+        "amount": 115,
+        "unit": "g",
+        "ingredient": "white chocolate chopped into small chunks",
+        "weight": 115.12844909609895
+      },
+      {
+        "amount": 308,
+        "unit": "g",
+        "ingredient": "plain flour",
+        "weight": 308.2778306374881
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "tahini",
+        "weight": 0.9514747859181731
+      },
+      {
+        "amount": 140,
+        "unit": "g",
+        "ingredient": "dark chocolate chunks or chips",
+        "weight": 140.8182683158896
+      },
+      {
+        "amount": 43,
+        "unit": "g",
+        "ingredient": "mini meringues chopped into small chunks",
+        "weight": 43.76784015223596
+      },
+      {
+        "amount": 118,
+        "unit": "g",
+        "ingredient": "eggs",
+        "weight": 118.93434823977164
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 1881",
+    "ingredients": [
+      {
+        "amount": 338,
+        "unit": "g",
+        "ingredient": "unsalted butter softened",
+        "weight": 338.54748603351953
+      },
+      {
+        "amount": 8,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 8.938547486033519
+      },
+      {
+        "amount": 2,
+        "unit": "g",
+        "ingredient": "baking soda",
+        "weight": 2.2346368715083798
+      },
+      {
+        "amount": 173,
+        "unit": "g",
+        "ingredient": "egg yolk",
+        "weight": 173.18435754189943
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "fresh raspberries (or see headnote)",
+        "weight": 1.1173184357541899
+      },
+      {
+        "amount": 159,
+        "unit": "g",
+        "ingredient": "milk",
+        "weight": 159.77653631284915
+      },
+      {
+        "amount": 178,
+        "unit": "g",
+        "ingredient": "super-fine almond flour",
+        "weight": 178.7709497206704
+      },
+      {
+        "amount": 131,
+        "unit": "g",
+        "ingredient": "light brown sugar",
+        "weight": 131.84357541899442
+      },
+      {
+        "amount": 5,
+        "unit": "g",
+        "ingredient": "fleur de sel or other large-flake sea salt",
+        "weight": 5.58659217877095
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 1884",
+    "ingredients": [
+      {
+        "amount": 276,
+        "unit": "g",
+        "ingredient": "olive oil",
+        "weight": 276.3157894736842
+      },
+      {
+        "amount": 6,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 6.578947368421053
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "baking soda",
+        "weight": 0.9398496240601504
+      },
+      {
+        "amount": 140,
+        "unit": "g",
+        "ingredient": "egg yolk",
+        "weight": 140.97744360902254
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "fresh raspberries (or see headnote)",
+        "weight": 0.9398496240601504
+      },
+      {
+        "amount": 367,
+        "unit": "g",
+        "ingredient": "cornflour",
+        "weight": 367.4812030075188
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "tahini",
+        "weight": 0.9398496240601504
+      },
+      {
+        "amount": 156,
+        "unit": "g",
+        "ingredient": "dark chocolate chunks or chips",
+        "weight": 156.01503759398497
+      },
+      {
+        "amount": 49,
+        "unit": "g",
+        "ingredient": "mini meringues chopped into small chunks",
+        "weight": 49.81203007518797
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 1886",
+    "ingredients": [
+      {
+        "amount": 177,
+        "unit": "g",
+        "ingredient": "unsalted butter, melted",
+        "weight": 177.09335899903755
+      },
+      {
+        "amount": 6,
+        "unit": "g",
+        "ingredient": "kosher salt",
+        "weight": 6.737247353224254
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "½ tsp baking powder",
+        "weight": 0.9624639076034649
+      },
+      {
+        "amount": 131,
+        "unit": "g",
+        "ingredient": "egg yolk",
+        "weight": 131.8575553416747
+      },
+      {
+        "amount": 368,
+        "unit": "g",
+        "ingredient": "unbleached all-purpose flour",
+        "weight": 368.62367661212704
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "tahini",
+        "weight": 0.9624639076034649
+      },
+      {
+        "amount": 156,
+        "unit": "g",
+        "ingredient": "dark chocolate chunks or chips",
+        "weight": 156.8816169393648
+      },
+      {
+        "amount": 49,
+        "unit": "g",
+        "ingredient": "mini meringues chopped into small chunks",
+        "weight": 49.08565928777671
+      },
+      {
+        "amount": 9,
+        "unit": "g",
+        "ingredient": "lemon juice",
+        "weight": 9.624639076034649
+      },
+      {
+        "amount": 98,
+        "unit": "g",
+        "ingredient": "granulated sugar",
+        "weight": 98.17131857555341
+      }
+    ],
+    "fitness": 18
+  },
+  {
+    "name": "recipe 1887",
+    "ingredients": [
+      {
+        "amount": 214,
+        "unit": "g",
+        "ingredient": "sweetened crunchy peanut butter",
+        "weight": 214.64903357070196
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "baking soda",
+        "weight": 1.017293997965412
+      },
+      {
+        "amount": 116,
+        "unit": "g",
+        "ingredient": "egg yolk",
+        "weight": 116.98880976602238
+      },
+      {
+        "amount": 2,
+        "unit": "g",
+        "ingredient": "salt",
+        "weight": 2.034587995930824
+      },
+      {
+        "amount": 2,
+        "unit": "g",
+        "ingredient": "fresh raspberries (or see headnote)",
+        "weight": 2.034587995930824
+      },
+      {
+        "amount": 424,
+        "unit": "g",
+        "ingredient": "plain flour",
+        "weight": 424.2115971515768
+      },
+      {
+        "amount": 1,
+        "unit": "g",
+        "ingredient": "tahini",
+        "weight": 1.017293997965412
+      },
+      {
+        "amount": 181,
+        "unit": "g",
+        "ingredient": "dark chocolate chunks or chips",
+        "weight": 181.07833163784335
+      },
+      {
+        "amount": 56,
+        "unit": "g",
+        "ingredient": "mini meringues chopped into small chunks",
+        "weight": 56.96846388606308
+      }
+    ],
+    "fitness": 18
+  }
+]
