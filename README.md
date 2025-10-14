@@ -9,10 +9,10 @@ Outputs are presented by front end and rendered into a small cookbook (PDF), cle
 Recipebook/
   images/                # pictures used by the cookbook pages
   cookbook.pdf           # merged one-file cookbook (final deliverable)
-  index.html             # cover + TOC + AI attribution + reflection
-  recipe_241.html        # generated recipe 1 (keeps your style)
-  recipe_242.html        # generated recipe 2
-  recipe_243.html        # generated recipe 3
+  index.html             
+  recipe_241.html        
+  recipe_242.html       
+  recipe_243.html       
   style.css              # shared styles (media="all" for print & screen)
 knowledgeBase/           # inspiring set JSON, ingredient lists, etc.
 results/                 # GA run outputs, intermediate JSON, plots
