@@ -1,0 +1,54 @@
+{
+  "name": "recipe 25901",
+  "ingredients": [
+    {
+      "amount": 503,
+      "unit": "g",
+      "ingredient": "buckwheat flour, plus more for surface",
+      "weight": 503.2327586206897
+    },
+    {
+      "amount": 1,
+      "unit": "g",
+      "ingredient": "¼ tsp bicarbonate of soda",
+      "weight": 1.0775862068965518
+    },
+    {
+      "amount": 39,
+      "unit": "g",
+      "ingredient": "/4 tsp salt",
+      "weight": 39.87068965517242
+    },
+    {
+      "amount": 87,
+      "unit": "g",
+      "ingredient": "butter, room temperature",
+      "weight": 87.2844827586207
+    },
+    {
+      "amount": 73,
+      "unit": "g",
+      "ingredient": "egg whites, at room temperature",
+      "weight": 73.27586206896552
+    },
+    {
+      "amount": 5,
+      "unit": "g",
+      "ingredient": "unsalted butter, at room temperature",
+      "weight": 5.387931034482759
+    },
+    {
+      "amount": 288,
+      "unit": "g",
+      "ingredient": "dark chocolate (65-75% cocoa solids) roughly chopped",
+      "weight": 288.7931034482759
+    },
+    {
+      "amount": 1,
+      "unit": "g",
+      "ingredient": "*For the Rainbow Cookies:*",
+      "weight": 1.0775862068965518
+    }
+  ],
+  "fitness": 19
+}
