@@ -21,7 +21,7 @@ README.md
 findout_of_results.ipynb # analysis / visualization notebook (optional)
 ```
 
-### 📚 Knowledgebase (Inspiring Set)
+### 3.📚 Knowledgebase (Inspiring Set)
 What's in this folder?
 ```
 knowledgeBase/
@@ -40,5 +40,26 @@ knowledgeBase/
 
 > The numbers (e.g., 37, 62) indicate the batch size of collected recipes, which helps with provenance and A/B comparisons.
 
+### 4.⚙️ Recipe Generator (Python, Genetic Algorithm)
+This module evolves cookie/cake recipes using a Genetic Algorithm (GA) guided by the inspiring set knowledgebase.
+```
+computational creativity recipe ge…/
+└─ code/
+   ├─ data/
+   │  └─ inspring_set_classes.py   # ingredient classes, roles, constraints, tag vocab (typo in name is fine)
+   ├─ recipe_generator.py          # GA entry point (run from CLI)
+└─ results/                        # GA outputs (runs, logs, top-K recipes)
+```
 
+What it does?
+
+1.Loads an enriched knowledgebase (ingredients + roles + constraints + inspiring recipes).
+
+2.Encodes a candidate recipe as a fixed-length genome (key groups: fat/flour/sugar/binder/liquid/leavening/salt/mix-ins + bake settings).
+
+3.Evolves a population with selection → crossover → mutation.
+
+4.Scores candidates with a multi-term fitness (ratios/feasibility/style/diversity).
+
+5.Emits the best K recipes and run artifacts into results/.
 
